@@ -1,0 +1,158 @@
+{
+  "indice_referencia": [
+    {
+      "archivo": "MAEPI.json",
+      "total_elementos": 265,
+      "campos_resumidos": ["Número", "Ítem", "Ocurrido o No Ocurrido", "Impacto", "Nivel de Riesgo", "Escalabilidad Potencial", "Zonas Afectadas"],
+      "notas": "Incluye métricas detalladas (ELS, IAS, etc.) y valores agregados (Valor Total, Ponderación). Para análisis completos, consultar el archivo original.",
+      "elementos_muestra": [
+        {
+          "Número": 1,
+          "Ítem": "Presencia de Ánimo Hostil en la Población",
+          "Ocurrido o No Ocurrido": "Ocurrido",
+          "Impacto": "Baja",
+          "Nivel de Riesgo": "Bajo",
+          "Escalabilidad Potencial": 15,
+          "Zonas Afectadas": 3
+        },
+        {
+          "Número": 265,
+          "Ítem": "Guerra Civil Vertical (división de las FF.AA. y de Orden)",
+          "Ocurrido o No Ocurrido": "No Ocurrido",
+          "Impacto": "Alta",
+          "Nivel de Riesgo": "Alto",
+          "Escalabilidad Potencial": 50,
+          "Zonas Afectadas": 16
+        }
+      ]
+    },
+    {
+      "archivo": "MCC.json",
+      "total_elementos": 350,
+      "campos_resumidos": ["N°", "Evento", "Naturaleza", "Clase de Conflicto", "Escala", "Ocurrida", "Causa Principal"],
+      "notas": "Incluye métricas detalladas (FC H, IIP, etc.) y correlaciones (Valor Correlación). Para análisis completos, consultar el archivo original.",
+      "elementos_muestra": [
+        {
+          "N°": 1,
+          "Evento": "Conflicto en Göbekli Tepe",
+          "Naturaleza": "Conflicto",
+          "Clase de Conflicto": "Guerra",
+          "Escala": "Regional",
+          "Ocurrida": "Sí",
+          "Causa Principal": "Político/Ritual"
+        },
+        {
+          "N°": 350,
+          "Evento": "Guerra Mundial Atómica (MAD)",
+          "Naturaleza": "Conflicto",
+          "Clase de Conflicto": "Guerra",
+          "Escala": "Global",
+          "Ocurrida": "No",
+          "Causa Principal": "Ideológica"
+        }
+      ]
+    },
+    {
+      "archivo": "METCOMH.json",
+      "total_elementos": 294,
+      "campos_resumidos": ["Número", "Código o Rayado", "Clasificación", "Intensidad", "Categoría", "Sub Categoría", "Referencia"],
+      "notas": "Incluye métricas detalladas (ELS, IAH, etc.) y datos geográficos (Latitud, Longitud). Para análisis completos, consultar el archivo original.",
+      "elementos_muestra": [
+        {
+          "Número": 1,
+          "Código o Rayado": "1312",
+          "Clasificación": "Riesgo",
+          "Intensidad": "Baja",
+          "Categoría": "Sistema Político",
+          "Sub Categoría": "Orden Policial",
+          "Referencia": "Códigos referidos al Personal de Autoridad"
+        },
+        {
+          "Número": 294,
+          "Código o Rayado": "¡Resiste! ¡Resiste! - A",
+          "Clasificación": "Riesgo",
+          "Intensidad": "Baja",
+          "Categoría": "Sistema Político",
+          "Sub Categoría": null,
+          "Referencia": "Rayados referidos a la orgánica interna"
+        }
+      ]
+    },
+    {
+      "archivo": "MEZAK.json",
+      "total_elementos": "Desconocido (incompleto)",
+      "campos_resumidos": ["Elemento", "Tipo", "Doctrina", "Categoría", "Subcategoría", "Nivel_Impacto", "Impacto_Normalizado_Porc"],
+      "notas": "Archivo incompleto, sin numeración explícita. Incluye métricas cuantitativas (Impacto_Total_Porc, Variables_Significativas) y escalas de impacto (Local, Regional, Nacional, Global). Usar con precaución hasta completar el archivo.",
+      "elementos_muestra": [
+        {
+          "Elemento": "Aborto",
+          "Tipo": "Esquize",
+          "Doctrina": "Deconstruccionista",
+          "Categoría": "Subversión Moral",
+          "Subcategoría": "Erosión Cultural",
+          "Nivel_Impacto": "Alto",
+          "Impacto_Normalizado_Porc": 67.89
+        },
+        {
+          "Elemento": "Resistencia Anti-Vacuna",
+          "Tipo": "Esquize",
+          "Doctrina": "Deconstruccionista",
+          "Categoría": "Control Sanitario",
+          "Subcategoría": "Necropolítica",
+          "Nivel_Impacto": "Alto",
+          "Impacto_Normalizado_Porc": 69.87
+        }
+      ]
+    },
+    {
+      "archivo": "MiC.json",
+      "total_elementos": 835,
+      "campos_resumidos": ["N°", "Sector", "Elemento", "IRMD", "Pev", "Peh", "Pen"],
+      "notas": "Incluye métricas detalladas (FEN, FANC, IB, etc.) y descripciones funcionales. Para análisis completos, consultar el archivo original.",
+      "elementos_muestra": [
+        {
+          "N°": 1,
+          "Sector": "Hídrico",
+          "Elemento": "Glaciares",
+          "IRMD": "Alto",
+          "Pev": "Muy Alta",
+          "Peh": "Alta",
+          "Pen": "Muy Alta"
+        },
+        {
+          "N°": 835,
+          "Sector": "Tecnologías Informáticas",
+          "Elemento": "Sistemas de Comunicación de Emergencia",
+          "IRMD": "Alto",
+          "Pev": "Alta",
+          "Peh": "Muy Alta",
+          "Pen": "Alta"
+        }
+      ]
+    },
+    {
+      "archivo": "VaryMet.json",
+      "total_elementos": 260,
+      "campos_resumidos": ["Número", "Sigla", "Nombre", "Tipo", "Categoría", "Fórmula SharePoint"],
+      "notas": "Incluye métricas detalladas (Fórmula SharePoint, Dependencias) y fundamentación teórica. Para análisis completos, consultar el archivo original.",
+      "elementos_muestra": [
+        {
+          "Número": 1,
+          "Sigla": "ELS",
+          "Nombre": "Espacios Lúdicos Seguros",
+          "Tipo": "Variable",
+          "Categoría": "Social",
+          "Fórmula SharePoint": "([NúmeroEspaciosLúdicosSeguros]/[NúmeroTotalEspaciosPúblicos])*[FactorSeguridadPercibida]"
+        },
+        {
+          "Número": 260,
+          "Sigla": "IPDAE",
+          "Nombre": "Índice de Percepción Diferencial de Autenticidad Electoral",
+          "Tipo": "Métrica",
+          "Categoría": "METLID",
+          "Fórmula SharePoint": "(([ApoyoAutenticidadRadicales]/[ApoyoMáximoEsperadoRadicales])*0.5+([ApoyoAutenticidadModerados]/[ApoyoMáximoEsperadoModerados])*0.3+([CoherenciaNarrativaPercibida]/[CoherenciaMáximaEsperada])*0.2)*100"
+        }
+      ]
+    }
+  ]
+}
