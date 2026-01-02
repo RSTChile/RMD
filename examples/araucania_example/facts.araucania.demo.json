@@ -1,0 +1,23 @@
+{
+  "case": "Araucanía (demo)",
+  "facts": [
+    {
+      "id": "F001",
+      "text": "Evento de violencia reportado en fuente pública.",
+      "source": "(demo)",
+      "date": "2025-07-11",
+      "severity": 0.8,
+      "confidence": 0.9,
+      "weight": 1
+    },
+    {
+      "id": "F002",
+      "text": "Declaración oficial de autoridad.",
+      "source": "(demo)",
+      "date": "2025-07-11",
+      "severity": 0.4,
+      "confidence": 0.8,
+      "weight": 1
+    }
+  ]
+}

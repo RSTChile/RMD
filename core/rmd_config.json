@@ -1,0 +1,8 @@
+{
+  "strict_mode": true,
+  "trace": true,
+  "canonical_siglas_source": "matrices/RMD2_Variables-y-Metricas-Completas.json",
+  "protocol_source": "matrices/RMD2_Protocolo_de_Analisis.json",
+  "outputs_dir": "outputs",
+  "run_name_prefix": "rmd2_run"
+}

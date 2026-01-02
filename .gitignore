@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Outputs de corridas
+outputs/
+
+# Sistema
+.DS_Store
+
+# Temporales
+*.log
+

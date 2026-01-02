@@ -1,0 +1,25 @@
+{
+  "title": "RMD2 Matrix JSON",
+  "type": "object",
+  "required": [
+    "meta"
+  ],
+  "properties": {
+    "meta": {
+      "type": "object"
+    },
+    "data": {
+      "type": [
+        "array",
+        "null"
+      ]
+    },
+    "sheets": {
+      "type": [
+        "object",
+        "null"
+      ]
+    }
+  },
+  "additionalProperties": true
+}
