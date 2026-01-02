@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "titulo": "Matriz de Imágenes del Proceso Insurreccional – Muestra Inicial",
+    "version": "1.0",
+    "fecha": "2026-01-02",
+    "autor": "RSTChile",
+    "descripcion": "Biblioteca de imágenes de rallados callejeros (graffiti) de Chile, Paraguay, Perú y Colombia, vinculados a slogans de la Matriz de Comunicación Horizontal (RMD2). Muestra inicial con 1 imagen pública de graffiti chileno 2019. Estructura completa con columnas para análisis METCOMH (Comunicación Horizontal), METCOSMO (Cosmosemiótica) e INR (Ruido en Recepción, ID 184). Pendiente escalado a miles de imágenes via S3.",
+    "total_imagenes": 1,
+    "estado": "Muestra para GitHub – pendiente migración completa",
+    "fuentes": "Imagen pública de protestas Chile 2019 (OSINT), RMD2_Matriz_Categorias_Discursivas_Horizontales.json, RMD2_Matriz_Cosmosemiotica.json",
+    "proximo": "Migrar a AWS S3, OCR batch, matching automático con RMD2 slogans, cálculo METCOSMO/INR"
+  },
+  "columnas_analisis": {
+    "comunicacion_horizontal_metcomh": [
+      "GFN (Grado de Fragmentación Narrativa, 0-1)",
+      "INR (Indicador de Ruido Recepción, ID 184, 0-1)",
+      "TPD (Tasa de Propagación Discursiva, 0-1)",
+      "RS (Resonancia Simbólica, 0-1)",
+      "CNI (Consistencia Narrativa Interna, 0-1)",
+      "PI (Potencial Insurreccional, 0-1)"
+    ],
+    "cosmosemiótica_metcosmo": [
+      "ICR (Índice Conversión Ruido, ID 277, 0-1)",
+      "IRDE (Riesgo Desviación Ética, ID 278, 0-1)",
+      "IEOS (Eficiencia Operadores Semióticos Ι/Φ/Κ, ID 279, 0-1)",
+      "IExap (Exaptación Funcional, ID 280, 0-1)",
+      "Ceff (Capacidad Polisémica Efectiva, ID 295, continuo)",
+      "Mmeta (Metacomprensión Polisémica, ID 297, 0-1)"
+    ],
+    "ruido_recepcion": {
+      "id": 184,
+      "sigla": "INR",
+      "nombre": "Indicador de Ruido en la Recepción",
+      "formula": "[w1]*[Codificación]+[w2]*[InterferenciaIdioma]+[w3]*[InterferenciaTipografía]+[w4]*[ContextoCultural]",
+      "descripcion_no_tecnica": "Mide cuánto ruido hay en entender mensajes como '1213KillthemAll'",
+      "rango": "0-1 (Porcentaje)",
+      "pesos_default": {"w1": 0.3, "w2": 0.2, "w3": 0.25, "w4": 0.25},
+      "factores": ["Codificación (0-1)", "InterferenciaIdioma (0-1)", "InterferenciaTipografía (0-1)", "ContextoCultural (0-1)"]
+    }
+  },
+  "imagenes": [
+    {
+      "id": "IMG001",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Plaza_Dignidad_graffiti_2019.jpg/1280px-Plaza_Dignidad_graffiti_2019.jpg",
+      "image_id": 0,
+      "pais": "Chile",
+      "fecha_estimada": "2019-11-15",
+      "ubicacion": "Santiago, Plaza Dignidad (ex Italia)",
+      "descripcion": "Graffiti callejero post-estallido social 2019. Múltiples consignas superpuestas: 'ACAB', 'Fuera Piñera', símbolos anarquistas, puños alzados. Alta densidad textual/visual, texturas urbanas (muro rayado + pintura fresca). Ejemplo perfecto para METCOMH (propagación horizontal) y METCOSMO (ruido fértil vs tóxico).",
+      "texto_ocr_estimado": "ACAB FUERA PIÑERA PUÑO ANARQUIA 1213 KILL THEM ALL",
+      "slogan_relacionado_rdm2": "ACAB (All Cops Are Bastards), Fuera Piñera, 1213 (código policial chileno)",
+      "matching_metcomh": {
+        "GFN": 0.85,
+        "INR": 0.72,
+        "TPD": 0.68,
+        "RS": 0.91,
+        "CNI": 0.45,
+        "PI": 0.78,
+        "notas": "Alta fragmentación (GFN) por superposición consignas. Resonancia fuerte (RS) en contexto 18-O."
+      },
+      "analisis_cosmosemiótica": {
+        "ICR": 0.62,
+        "IRDE": 0.41,
+        "IEOS": {"wI": 0.4, "wPhi": 0.35, "wK": 0.25, "total": 0.67},
+        "IExap": 0.58,
+        "Ceff": 12.3,
+        "Mmeta": 0.75,
+        "notas": "ICR medio-alto (ruido pared reutilizado icónicamente). IRDE>0.30 activa Post-VDA. Alta polisemia (Ceff) por símbolos anarquistas."
+      },
+      "ruido_recepcion_inr_184": {
+        "Codificación": 0.9,
+        "InterferenciaIdioma": 0.2,
+        "InterferenciaTipografía": 0.85,
+        "ContextoCultural": 0.65,
+        "pesos_usados": {"w1": 0.3, "w2": 0.2, "w3": 0.25, "w4": 0.25},
+        "INR_calculado": 0.72,
+        "interpretacion": "Alto ruido por codificación ('1213') y tipografía distorsionada. Bajo en idioma (español nativo). Contexto cultural alto (Plaza Dignidad como nodo insurgente). Correlaciona r=-0.7 con TPD.",
+        "semáforo": "Ámbar (0.7-0.8: ruido fértil, riesgo moderado)"
+      },
+      "correlaciones": {
+        "con_rdm2_comunicacion": "Match directo con categorías 'Anti-Policial' y 'Anti-Estatal' de RMD2_Matriz_Categorias_Discursivas_Horizontales.json",
+        "con_escalamiento_rdm4": "Nodo N3 (violencia simbólica normalizada)",
+        "recomendaciones": "Monitorear propagación X (IGM-Cos). IEOS sugiere icónicos Φ para contranarrativa ética."
+      }
+    }
+  ]
+}
