@@ -1,153 +1,153 @@
 {
-    "meta": {
-        "titulo": "RMD 2.0 – Mapa de Relaciones entre Protocolo y Matrices de Análisis",
-        "version": "1.0",
-        "fecha": "2026-01-02",
-        "autor": "RSTChile",
-        "descripcion": "Componente unificador que muestra la arquitectura completa del sistema RMD 2.0, relaciones entre matrices y guía de activación."
+  "meta": {
+    "titulo": "RMD 2.0 – Mapa de Relaciones entre Protocolo y Matrices de Análisis",
+    "version": "1.0",
+    "fecha": "2026-01-02",
+    "autor": "RSTChile",
+    "descripcion": "Componente unificador que muestra la arquitectura completa del sistema RMD 2.0, relaciones entre matrices y guía de activación."
+  },
+  "matrices": [
+    {
+      "ID": "RMD0",
+      "Nombre de la Matriz": "Protocolo General RMD 2.0",
+      "Tipo": "Marco central",
+      "Uso Principal": "Núcleo integrador y workflow maestro del sistema",
+      "Link": "https://raw.githubusercontent.com/RSTChile/RMD/refs/heads/main/matrices/RMD2_Protocolo_de_Analisis.json"
     },
-    "matrices": [
-        {
-            "ID": "RMD0",
-            "Nombre de la Matriz": "Protocolo General RMD 2.0",
-            "Tipo": "Marco central",
-            "Uso Principal": "Núcleo integrador y workflow maestro del sistema",
-            "Link": "https://raw.githubusercontent.com/RSTChile/RMD/refs/heads/main/matrices/RMD2_Protocolo_de_Analisis.json"
-        },
-        {
-            "ID": "RMD1",
-            "Nombre de la Matriz": "Matriz Araucanía",
-            "Tipo": "Fuente de datos",
-            "Uso Principal": "Cronología de atentados Macrozona Sur",
-            "Link": "https://raw.githubusercontent.com/RSTChile/RMD/refs/heads/main/matrices/RMD2_Matriz_Araucania.json"
-        },
-        {
-            "ID": "RMD2",
-            "Nombre de la Matriz": "Matriz Comunicación Horizontal",
-            "Tipo": "Narrativa / Discursiva",
-            "Uso Principal": "Categorías y consignas de comunicación horizontal",
-            "Link": "https://raw.githubusercontent.com/RSTChile/RMD/refs/heads/main/matrices/RMD2_Matriz_Categorias_Discursivas_Horizontales.json"
-        },
-        {
-            "ID": "RMD3",
-            "Nombre de la Matriz": "Matriz Conflictos con Correlaciones",
-            "Tipo": "Histórica / Contextual",
-            "Uso Principal": "Conflictos históricos con correlaciones",
-            "Link": "https://raw.githubusercontent.com/RSTChile/RMD/refs/heads/main/matrices/RMD2_Matriz_Conflictos_con_Correlaciones.json"
-        },
-        {
-            "ID": "RMD4",
-            "Nombre de la Matriz": "Matriz Escalamiento del Proceso Insurreccional",
-            "Tipo": "Modelo de fases",
-            "Uso Principal": "Niveles de escalamiento insurreccional",
-            "Link": "https://raw.githubusercontent.com/RSTChile/RMD/refs/heads/main/matrices/RMD2_Matriz_Escalamiento_Proceso_Insurreccional.json"
-        },
-        {
-            "ID": "RMD5",
-            "Nombre de la Matriz": "Matriz de Esquizes",
-            "Tipo": "Teórica / Identitaria",
-            "Uso Principal": "Esquizes de deconstrucción y efectos",
-            "Link": "https://raw.githubusercontent.com/RSTChile/RMD/refs/heads/main/matrices/RMD2_Matriz_Esquizes.json"
-        },
-        {
-            "ID": "RMD6",
-            "Nombre de la Matriz": "Matriz de Infraestructura Crítica",
-            "Tipo": "Operativa / Estratégica",
-            "Uso Principal": "Inventario priorizado de infraestructura crítica",
-            "Link": "https://raw.githubusercontent.com/RSTChile/RMD/refs/heads/main/matrices/RMD2_Matriz_Infraestructura_Critica.json"
-        },
-        {
-            "ID": "RMD7",
-            "Nombre de la Matriz": "Matriz de Subestaciones Eléctricas",
-            "Tipo": "Aplicada (ejemplo)",
-            "Uso Principal": "Submatriz específica de subestaciones eléctricas",
-            "Link": "https://raw.githubusercontent.com/RSTChile/RMD/refs/heads/main/matrices/RMD2_Matriz_Subestaciones.json"
-        },
-        {
-            "ID": "RMD8",
-            "Nombre de la Matriz": "Variables y Métricas Completas",
-            "Tipo": "Catálogo maestro",
-            "Uso Principal": "Base de todas las variables y cálculos del modelo RMD 2.0",
-            "Link": "https://raw.githubusercontent.com/RSTChile/RMD/refs/heads/main/matrices/RMD2_Variables-y-Metricas-Completas.json"
-        },
-        {
-            "ID": "RMD10",
-            "Nombre de la Matriz": "Matriz de Imágenes del Proceso Insurreccional",
-            "Tipo": "Evidencial / Visual",
-            "Uso Principal": "Biblioteca de rallados callejeros (graffiti) con análisis METCOMH, INR y METCOSMO",
-            "Link": "https://raw.githubusercontent.com/RSTChile/RMD/refs/heads/main/matrices/RMD2_Matriz_Imagenes_Proceso_Insurreccional.json"
-        },
-        {
-            "ID": "RMD11",
-            "Nombre de la Matriz": "Matriz de Análisis Cosmosemiótica (METCOSMO)",
-            "Tipo": "Ético-semiótica / Guardrail",
-            "Uso Principal": "Eficiencia semiótica, ruido fértil/tóxico, riesgo narrativo y ética",
-            "Link": "https://raw.githubusercontent.com/RSTChile/RMD/refs/heads/main/matrices/RMD2_Matriz_Cosmosemiotica.json"
-        }
-    ],
-    "relaciones": [
-        {
-            "Matriz Origen": "RMD10",
-            "Matriz Destino": "RMD2",
-            "Tipo de Relación": "Alimenta directamente",
-            "Condición": "Imágenes como fuente primaria de consignas",
-            "Descripción": "Las imágenes de graffiti proveen evidencia visual para las categorías discursivas en RMD2."
-        },
-        {
-            "Matriz Origen": "RMD10",
-            "Matriz Destino": "RMD11",
-            "Tipo de Relación": "Requiere análisis obligatorio",
-            "Condición": "Alto IRDE o polarización",
-            "Descripción": "Aplica métricas METCOSMO como ICR, IRDE a cada imagen."
-        },
-        {
-            "Matriz Origen": "RMD1",
-            "Matriz Destino": "RMD10",
-            "Tipo de Relación": "Se alimenta de",
-            "Condición": "Contexto espacial",
-            "Descripción": "Cronología de Araucanía para ubicar graffiti en eventos."
-        },
-        {
-            "Matriz Origen": "RMD10",
-            "Matriz Destino": "RMD4",
-            "Tipo de Relación": "Contribuye a",
-            "Condición": "Evidencia visual",
-            "Descripción": "Evidencia de normalización simbólica en escalamiento (nodos N3-N4)."
-        },
-        {
-            "Matriz Origen": "RMD0",
-            "Matriz Destino": "RMD10",
-            "Tipo de Relación": "Integra",
-            "Condición": "Siempre en análisis narrativo",
-            "Descripción": "Punto de entrada para visuales en workflow general."
-        }
-    ],
-    "flujo_recomendado": {
-        "secuencia_basica": "RMD0 → RMD8 → RMD2 → RMD10 → RMD11",
-        "secuencia_alto_riesgo": "RMD0 → RMD4 → RMD10 (imágenes) → RMD11 (análisis cosmosemiótico) → Resumen",
-        "diagrama_mermaid": "graph TD\n    RMD0 --> RMD8\n    RMD0 --> RMD2\n    RMD2 --> RMD10\n    RMD10 --> RMD11\n    RMD11 --> RMD4"
+    {
+      "ID": "RMD1",
+      "Nombre de la Matriz": "Matriz Araucanía",
+      "Tipo": "Fuente de datos",
+      "Uso Principal": "Cronología de atentados Macrozona Sur",
+      "Link": "https://raw.githubusercontent.com/RSTChile/RMD/refs/heads/main/matrices/RMD2_Matriz_Araucania.json"
     },
-    "tabla_decision": [
-        {
-            "Escenario": "Análisis de narrativas visuales en protestas",
-            "Matriz Principal": "RMD10",
-            "Obligatorias": "RMD2, RMD11",
-            "Opcionales": "RMD1, RMD4",
-            "Notas": "Usar INR para ruido y METCOSMO para ética semiótica."
-        },
-        {
-            "Escenario": "Evaluación de escalamiento simbólico",
-            "Matriz Principal": "RMD4",
-            "Obligatorias": "RMD10, RMD11",
-            "Opcionales": "RMD2",
-            "Notas": "Imágenes como evidencia visual para nodos N3-N4."
-        },
-        {
-            "Escenario": "Análisis ético-semiótico de consignas",
-            "Matriz Principal": "RMD11",
-            "Obligatorias": "RMD10",
-            "Opcionales": "RMD2, RMD8",
-            "Notas": "Aplicar ICR/IRDE a graffiti; INR para ruido recepción."
-        }
-    ]
+    {
+      "ID": "RMD2",
+      "Nombre de la Matriz": "Matriz Comunicación Horizontal",
+      "Tipo": "Narrativa / Discursiva",
+      "Uso Principal": "Categorías y consignas de comunicación horizontal",
+      "Link": "https://raw.githubusercontent.com/RSTChile/RMD/refs/heads/main/matrices/RMD2_Matriz_Categorias_Discursivas_Horizontales.json"
+    },
+    {
+      "ID": "RMD3",
+      "Nombre de la Matriz": "Matriz Conflictos con Correlaciones",
+      "Tipo": "Histórica / Contextual",
+      "Uso Principal": "Conflictos históricos con correlaciones",
+      "Link": "https://raw.githubusercontent.com/RSTChile/RMD/refs/heads/main/matrices/RMD2_Matriz_Conflictos_con_Correlaciones.json"
+    },
+    {
+      "ID": "RMD4",
+      "Nombre de la Matriz": "Matriz Escalamiento del Proceso Insurreccional",
+      "Tipo": "Modelo de fases",
+      "Uso Principal": "Niveles de escalamiento insurreccional",
+      "Link": "https://raw.githubusercontent.com/RSTChile/RMD/refs/heads/main/matrices/RMD2_Matriz_Escalamiento_Proceso_Insurreccional.json"
+    },
+    {
+      "ID": "RMD5",
+      "Nombre de la Matriz": "Matriz de Esquizes",
+      "Tipo": "Teórica / Identitaria",
+      "Uso Principal": "Esquizes de deconstrucción y efectos",
+      "Link": "https://raw.githubusercontent.com/RSTChile/RMD/refs/heads/main/matrices/RMD2_Matriz_Esquizes.json"
+    },
+    {
+      "ID": "RMD6",
+      "Nombre de la Matriz": "Matriz de Infraestructura Crítica",
+      "Tipo": "Operativa / Estratégica",
+      "Uso Principal": "Inventario priorizado de infraestructura crítica",
+      "Link": "https://raw.githubusercontent.com/RSTChile/RMD/refs/heads/main/matrices/RMD2_Matriz_Infraestructura_Critica.json"
+    },
+    {
+      "ID": "RMD7",
+      "Nombre de la Matriz": "Matriz de Subestaciones Eléctricas",
+      "Tipo": "Aplicada (ejemplo)",
+      "Uso Principal": "Submatriz específica de subestaciones eléctricas",
+      "Link": "https://raw.githubusercontent.com/RSTChile/RMD/refs/heads/main/matrices/RMD2_Matriz_Subestaciones.json"
+    },
+    {
+      "ID": "RMD8",
+      "Nombre de la Matriz": "Variables y Métricas Completas",
+      "Tipo": "Catálogo maestro",
+      "Uso Principal": "Base de todas las variables y cálculos del modelo RMD 2.0",
+      "Link": "https://raw.githubusercontent.com/RSTChile/RMD/refs/heads/main/matrices/RMD2_Variables-y-Metricas-Completas.json"
+    },
+    {
+      "ID": "RMD10",
+      "Nombre de la Matriz": "Matriz de Imágenes del Proceso Insurreccional",
+      "Tipo": "Evidencial / Visual",
+      "Uso Principal": "Biblioteca de rallados callejeros (graffiti) con análisis METCOMH, INR y METCOSMO",
+      "Link": "https://raw.githubusercontent.com/RSTChile/RMD/refs/heads/main/matrices/RMD2_Matriz_Imagenes_Proceso_Insurreccional.json"
+    },
+    {
+      "ID": "RMD11",
+      "Nombre de la Matriz": "Matriz de Análisis Cosmosemiótica (METCOSMO)",
+      "Tipo": "Ético-semiótica / Guardrail",
+      "Uso Principal": "Eficiencia semiótica, ruido fértil/tóxico, riesgo narrativo y ética",
+      "Link": "https://raw.githubusercontent.com/RSTChile/RMD/refs/heads/main/matrices/RMD2_Matriz_Cosmosemiotica.json"
+    }
+  ],
+  "relaciones": [
+    {
+      "Matriz Origen": "RMD10",
+      "Matriz Destino": "RMD2",
+      "Tipo de Relación": "Alimenta directamente",
+      "Condición": "Imágenes como fuente primaria de consignas",
+      "Descripción": "Las imágenes de graffiti proveen evidencia visual para las categorías discursivas en RMD2."
+    },
+    {
+      "Matriz Origen": "RMD10",
+      "Matriz Destino": "RMD11",
+      "Tipo de Relación": "Requiere análisis obligatorio",
+      "Condición": "Alto IRDE o polarización",
+      "Descripción": "Aplica métricas METCOSMO como ICR, IRDE a cada imagen."
+    },
+    {
+      "Matriz Origen": "RMD1",
+      "Matriz Destino": "RMD10",
+      "Tipo de Relación": "Se alimenta de",
+      "Condición": "Contexto espacial",
+      "Descripción": "Cronología de Araucanía para ubicar graffiti en eventos."
+    },
+    {
+      "Matriz Origen": "RMD10",
+      "Matriz Destino": "RMD4",
+      "Tipo de Relación": "Contribuye a",
+      "Condición": "Evidencia visual",
+      "Descripción": "Evidencia de normalización simbólica en escalamiento (nodos N3-N4)."
+    },
+    {
+      "Matriz Origen": "RMD0",
+      "Matriz Destino": "RMD10",
+      "Tipo de Relación": "Integra",
+      "Condición": "Siempre en análisis narrativo",
+      "Descripción": "Punto de entrada para visuales en workflow general."
+    }
+  ],
+  "flujo_recomendado": {
+    "secuencia_basica": "RMD0 → RMD8 → RMD2 → RMD10 → RMD11",
+    "secuencia_alto_riesgo": "RMD0 → RMD4 → RMD10 (imágenes) → RMD11 (análisis cosmosemiótico) → Resumen",
+    "diagrama_mermaid": "graph TD\n    RMD0 --> RMD8\n    RMD0 --> RMD2\n    RMD2 --> RMD10\n    RMD10 --> RMD11\n    RMD11 --> RMD4"
+  },
+  "tabla_decision": [
+    {
+      "Escenario": "Análisis de narrativas visuales en protestas",
+      "Matriz Principal": "RMD10",
+      "Obligatorias": "RMD2, RMD11",
+      "Opcionales": "RMD1, RMD4",
+      "Notas": "Usar INR para ruido y METCOSMO para ética semiótica."
+    },
+    {
+      "Escenario": "Evaluación de escalamiento simbólico",
+      "Matriz Principal": "RMD4",
+      "Obligatorias": "RMD10, RMD11",
+      "Opcionales": "RMD2",
+      "Notas": "Imágenes como evidencia visual para nodos N3-N4."
+    },
+    {
+      "Escenario": "Análisis ético-semiótico de consignas",
+      "Matriz Principal": "RMD11",
+      "Obligatorias": "RMD10",
+      "Opcionales": "RMD2, RMD8",
+      "Notas": "Aplicar ICR/IRDE a graffiti; INR para ruido recepción."
+    }
+  ]
 }
