@@ -6,7 +6,9 @@
     "fecha": "2026-01-02",
     "autor": "RSTChile",
     "descripcion": "Un marco para medir eficiencia semiótica, exaptación del ruido y riesgo narrativo en contextos de alta conflictividad. Las Métricas Cosmosemióticas (METCOSMO) constituyen un conjunto integrado de 24 indicadores cuantitativos y metavariables diseñados para evaluar cómo los sistemas convierten “ruido” en “sentido” y cómo esa conversión impacta el escalamiento, el riesgo de colapso narrativo y la gestión ética en conflictos socio-políticos complejos.",
-    "nota_editorial": "ANA (23) e IGRMD (24) están incluidos en esta matriz por decisión editorial, aunque pertenecen conceptualmente al cierre analítico global del RMD 2.0."
+    "nota_editorial": "ANA (23) e IGRMD (24) están incluidos en esta matriz por decisión editorial, aunque pertenecen conceptualmente al cierre analítico global del RMD 2.0.",
+    "patched_from_excel": "Protocolo_RMD2_0_Completo_CON_MACEC.xlsx",
+    "patched_on": "2026-01-04T19:47:48"
   },
   "introduccion": "Las Métricas Cosmosemióticas (METCOSMO) constituyen un conjunto integrado de doce indicadores cuantitativos y meta variables diseñados para evaluar, con rigor operativo, cómo los sistemas (humanos, institucionales y algorítmicos) convierten “ruido” en “sentido” y cómo esa conversión impacta el escalamiento, el riesgo de colapso narrativo y la gestión ética en conflictos socio-políticos complejos. Basadas en la Cosmosemiótica —que articula exaptación (reutilización creativa de estructuras) y operadores semióticos (Indexical-Icónico-Kódico)—, las METCOSMO extienden el RMD 2.0 aportando una capa de medición semiótica-técnica que dialoga directamente con las familias de polarización (IPS/IPOP), conflictividad (ICS_T), percepción (CEE/IPIns) y meta variables estratégicas (Bext, IPEM, IIED, VDA).\n\nEn el Contra Proceso (Cap. 18), METCOSMO permite mapear el “campo de batalla de la información”: desde el soporte y canal (pared, radio, red, archivo astronómico) hasta el mensaje y su recepción (claridad, iconicidad, código compartido), cuantificando eficacia semiótica (ICR), riesgo ético (IRDE), mezcla óptima de operadores (IEOS), capacidad de exaptación (IExap) y puntos de trabajo RC–INR para maximizar impacto con salvaguardas.\n\nEn la meso-y macro-escala, METCOSMO introduce Bext-Cos y CEE-Cos para evaluar riesgos sistémicos y percepciones de caos generados por dinámicas narrativas y ruido mal gestionado; y IPEM-Cos para estimar probabilidad de escalada cuando confluyen conflictividad, hostilidad y viralidad semiótica.",
   "fuentes_y_datos": [
@@ -23,30 +25,174 @@
     "Redes/Narrativas: campañas con IGM-Cos optimizado (viralidad ética) y VDA-Cos como red-team para escenarios alternativos con umbrales RC/INR/IRDE."
   ],
   "listado_metricas": [
-    { "numero": 1, "sigla": "ICR", "nombre": "Índice de Conversión de Ruido", "proposito": "Medir la potencia semiótica efectiva al convertir ruido en sentido (eficacia de interpretación bajo ambigüedad).", "eje": "Eficiencia semiótica / Comunicación táctica" },
-    { "numero": 2, "sigla": "IRDE", "nombre": "Índice de Riesgo de Desviación Ética", "proposito": "Cuantificar el riesgo de malentendido/daño al usar ambigüedad y ruido (guardrails).", "eje": "Ética operacional / Control de daño" },
-    { "numero": 3, "sigla": "IEOS", "nombre": "Índice de Eficiencia de Operadores Semióticos (Ι/Φ/Κ)", "proposito": "Estimar la mezcla óptima de vías (huella/semejanza/código) que maximiza ICR con IRDE acotado.", "eje": "Diseño de mensajes / Robustez interpretativa" },
-    { "numero": 4, "sigla": "IExap", "nombre": "Índice de Exaptación Funcional", "proposito": "Medir la reutilización creativa de estructuras/soportes/canales y su ganancia real en ICR.", "eje": "Innovación estructural / Plasticidad del sistema" },
-    { "numero": 5, "sigla": "ICRA", "nombre": "Índice de Curva RC–INR Óptima (punto de trabajo)", "proposito": "Determinar el par RC*, INR* que maximiza eficacia (ICR) penalizando riesgo (IRDE) según objetivo/ética.", "eje": "Optimización operativa / Reglas de despliegue" },
-    { "numero": 6, "sigla": "IDD", "nombre": "Índice de Detección en Dispersión (SETI/SDR)", "proposito": "Priorizar bandas/ventanas por detectabilidad en bajo SNR, combinando ICR con correlación de canal.", "eje": "Ciencia de señales / Prospección tecnológica" },
-    { "numero": 7, "sigla": "IGM-Cos", "nombre": "Índice de Gestión Memética Cosmosemiótica", "proposito": "Medir viralidad ética (impacto memético) ponderando eficacia (ICR/IEOS) vs riesgo (IRDE).", "eje": "Narrativas/Redes / Contra-proceso comunicacional" },
-    { "numero": 8, "sigla": "LFE(t)", "nombre": "Latido de Flujo Exaptativo", "proposito": "Monitorear en el tiempo el balance creatividad/ética (ICR vs IRDE) con medias móviles y alertas.", "eje": "Time-series / Alerta temprana" },
-    { "numero": 9, "sigla": "Bext-Cos(t)", "nombre": "Riesgo de Colapso Narrativo por Ruido Mal Gestionado", "proposito": "Extender Bext(t) incorporando componentes semióticos (ICR, IRDE, IEOS) con FET.", "eje": "Riesgo sistémico / Estabilidad narrativa" },
-    { "numero": 10, "sigla": "CEE-Cos(t)", "nombre": "Conciencia Entrópica Externa (componente semiótico)", "proposito": "Extender CEE(t) incorporando ICR/IRDE para medir percepción de desorden por calidad del mensaje.", "eje": "Opinión pública / Clima social" },
-    { "numero": 11, "sigla": "IPEM-Cos", "nombre": "Probabilidad de Escalada por Ruido/Narrativa", "proposito": "Extender IPEM añadiendo ICR (viralidad semiótica) en el cómputo bayesiano de escalada.", "eje": "Prospectiva / Gestión de crisis" },
-    { "numero": 12, "sigla": "VDA-Cos", "nombre": "Disenso Automático Semiótico", "proposito": "Extender VDA con umbrales RC/INR/ICR/IRDE/IEOS para escenarios alternativos y acciones.", "eje": "Red-team / Ceguera estratégica" },
-    { "numero": 13, "sigla": "PS", "nombre": "Persistencia Semiótica", "proposito": "Medir la duración del sentido como función de biodisponibilidad, volumen de distribución y tasa de olvido.", "eje": "Temporalidad semiótica / Memoria colectiva" },
-    { "numero": 14, "sigla": "LF_legal", "nombre": "Libertad Funcional Legal", "proposito": "Evaluar la capacidad adaptativa del sistema jurídico mediante ambigüedades fértiles (fuentes interpretativas × alineación).", "eje": "Interpretación jurídica / Flexibilidad normativa" },
-    { "numero": 15, "sigla": "LF_inmune", "nombre": "Libertad Funcional Inmune", "proposito": "Medir la capacidad del sistema inmune (biológico o social) para tolerar diversidad sin autoagresión.", "eje": "Biosemiótica / Tolerancia inmune" },
-    { "numero": 16, "sigla": "SIE", "nombre": "Semiosis Inmune Efectiva", "proposito": "Agregador de la eficiencia semiótica inmune por subpoblación (innata, reguladora, adaptativa).", "eje": "Inmunología semiótica / Resistencia cruzada" },
-    { "numero": 17, "sigla": "IAS_X", "nombre": "Índice de Acoplamiento Señal/Ruido", "proposito": "Cuantificar el acoplamiento entre señal explícita y ruido contextual.", "eje": "Teoría de la información semiótica / Claridad vs ambigüedad" },
-    { "numero": 18, "sigla": "IDCS", "nombre": "Índice de Contradicción Semiótica", "proposito": "Evaluar la contradicción fértil o peligrosa entre señal y ruido.", "eje": "Creatividad semiótica / Tensión productiva" },
-    { "numero": 19, "sigla": "Ceff", "nombre": "Capacidad Polisémica Efectiva", "proposito": "Medir la capacidad total de polisemia sin colapso (alfabeto efectivo × balance de integración).", "eje": "Polisemia / Riqueza interpretativa" },
-    { "numero": 20, "sigla": "η", "nombre": "Índice de Economía Polisémica", "proposito": "Evaluar la eficiencia comunicativa por unidad de energía en sistemas polisémicos.", "eje": "Eficiencia energética semiótica / Optimización de recursos" },
-    { "numero": 21, "sigla": "Mmeta", "nombre": "Metacomprensión Polisémica", "proposito": "Medir la capacidad para generar capas meta de interpretación (metáfora sobre metáfora).", "eje": "Exaptación semiótica / Interpretación profunda" },
-    { "numero": 22, "sigla": "Ls", "nombre": "Número de Lorenz Semiótico", "proposito": "Análogo semiótico del número de Lorenz para evaluar caos y sensibilidad en sistemas simbólicos.", "eje": "Dinámicas caóticas semióticas / Telecomunicaciones" },
-    { "numero": 23, "sigla": "ANA", "nombre": "Anámnesis Histórica Analítica", "proposito": "Medir la capacidad de integrar genealogía conceptual, histórica y cultural de un fenómeno antes del análisis.", "eje": "Genealogía conceptual / Contexto histórico profundo" },
-    { "numero": 24, "sigla": "IGRMD", "nombre": "Índice Global de Revolución Molecular Disipada", "proposito": "Sintetizar holísticamente todos los bloques y metavariables del RMD 2.0 en un índice comparable 0-100.", "eje": "Síntesis estratégica / Evaluación global del conflicto" }
+    {
+      "numero": 1,
+      "sigla": "ICR",
+      "nombre": "Índice de Conversión de Ruido",
+      "proposito": "Medir la potencia semiótica efectiva al convertir ruido en sentido (eficacia de interpretación bajo ambigüedad).",
+      "eje": "Eficiencia semiótica / Comunicación táctica"
+    },
+    {
+      "numero": 2,
+      "sigla": "IRDE",
+      "nombre": "Índice de Riesgo de Desviación Ética",
+      "proposito": "Cuantificar el riesgo de malentendido/daño al usar ambigüedad y ruido (guardrails).",
+      "eje": "Ética operacional / Control de daño"
+    },
+    {
+      "numero": 3,
+      "sigla": "IEOS",
+      "nombre": "Índice de Eficiencia de Operadores Semióticos (Ι/Φ/Κ)",
+      "proposito": "Estimar la mezcla óptima de vías (huella/semejanza/código) que maximiza ICR con IRDE acotado.",
+      "eje": "Diseño de mensajes / Robustez interpretativa"
+    },
+    {
+      "numero": 4,
+      "sigla": "IExap",
+      "nombre": "Índice de Exaptación Funcional",
+      "proposito": "Medir la reutilización creativa de estructuras/soportes/canales y su ganancia real en ICR.",
+      "eje": "Innovación estructural / Plasticidad del sistema"
+    },
+    {
+      "numero": 5,
+      "sigla": "ICRA",
+      "nombre": "Índice de Curva RC–INR Óptima (punto de trabajo)",
+      "proposito": "Determinar el par RC*, INR* que maximiza eficacia (ICR) penalizando riesgo (IRDE) según objetivo/ética.",
+      "eje": "Optimización operativa / Reglas de despliegue"
+    },
+    {
+      "numero": 6,
+      "sigla": "IDD",
+      "nombre": "Índice de Detección en Dispersión (SETI/SDR)",
+      "proposito": "Priorizar bandas/ventanas por detectabilidad en bajo SNR, combinando ICR con correlación de canal.",
+      "eje": "Ciencia de señales / Prospección tecnológica"
+    },
+    {
+      "numero": 7,
+      "sigla": "IGM-Cos",
+      "nombre": "Índice de Gestión Memética Cosmosemiótica",
+      "proposito": "Medir viralidad ética (impacto memético) ponderando eficacia (ICR/IEOS) vs riesgo (IRDE).",
+      "eje": "Narrativas/Redes / Contra-proceso comunicacional"
+    },
+    {
+      "numero": 8,
+      "sigla": "LFE(t)",
+      "nombre": "Latido de Flujo Exaptativo",
+      "proposito": "Monitorear en el tiempo el balance creatividad/ética (ICR vs IRDE) con medias móviles y alertas.",
+      "eje": "Time-series / Alerta temprana"
+    },
+    {
+      "numero": 9,
+      "sigla": "Bext-Cos(t)",
+      "nombre": "Riesgo de Colapso Narrativo por Ruido Mal Gestionado",
+      "proposito": "Extender Bext(t) incorporando componentes semióticos (ICR, IRDE, IEOS) con FET.",
+      "eje": "Riesgo sistémico / Estabilidad narrativa"
+    },
+    {
+      "numero": 10,
+      "sigla": "CEE-Cos(t)",
+      "nombre": "Conciencia Entrópica Externa (componente semiótico)",
+      "proposito": "Extender CEE(t) incorporando ICR/IRDE para medir percepción de desorden por calidad del mensaje.",
+      "eje": "Opinión pública / Clima social"
+    },
+    {
+      "numero": 11,
+      "sigla": "IPEM-Cos",
+      "nombre": "Probabilidad de Escalada por Ruido/Narrativa",
+      "proposito": "Extender IPEM añadiendo ICR (viralidad semiótica) en el cómputo bayesiano de escalada.",
+      "eje": "Prospectiva / Gestión de crisis"
+    },
+    {
+      "numero": 12,
+      "sigla": "VDA-Cos",
+      "nombre": "Disenso Automático Semiótico",
+      "proposito": "Extender VDA con umbrales RC/INR/ICR/IRDE/IEOS para escenarios alternativos y acciones.",
+      "eje": "Red-team / Ceguera estratégica"
+    },
+    {
+      "numero": 13,
+      "sigla": "PS",
+      "nombre": "Persistencia Semiótica",
+      "proposito": "Medir la duración del sentido como función de biodisponibilidad, volumen de distribución y tasa de olvido.",
+      "eje": "Temporalidad semiótica / Memoria colectiva"
+    },
+    {
+      "numero": 14,
+      "sigla": "LF_legal",
+      "nombre": "Libertad Funcional Legal",
+      "proposito": "Evaluar la capacidad adaptativa del sistema jurídico mediante ambigüedades fértiles (fuentes interpretativas × alineación).",
+      "eje": "Interpretación jurídica / Flexibilidad normativa"
+    },
+    {
+      "numero": 15,
+      "sigla": "LF_inmune",
+      "nombre": "Libertad Funcional Inmune",
+      "proposito": "Medir la capacidad del sistema inmune (biológico o social) para tolerar diversidad sin autoagresión.",
+      "eje": "Biosemiótica / Tolerancia inmune"
+    },
+    {
+      "numero": 16,
+      "sigla": "SIE",
+      "nombre": "Semiosis Inmune Efectiva",
+      "proposito": "Agregador de la eficiencia semiótica inmune por subpoblación (innata, reguladora, adaptativa).",
+      "eje": "Inmunología semiótica / Resistencia cruzada"
+    },
+    {
+      "numero": 17,
+      "sigla": "IAS_X",
+      "nombre": "Índice de Acoplamiento Señal/Ruido",
+      "proposito": "Cuantificar el acoplamiento entre señal explícita y ruido contextual.",
+      "eje": "Teoría de la información semiótica / Claridad vs ambigüedad"
+    },
+    {
+      "numero": 18,
+      "sigla": "IDCS",
+      "nombre": "Índice de Contradicción Semiótica",
+      "proposito": "Evaluar la contradicción fértil o peligrosa entre señal y ruido.",
+      "eje": "Creatividad semiótica / Tensión productiva"
+    },
+    {
+      "numero": 19,
+      "sigla": "Ceff",
+      "nombre": "Capacidad Polisémica Efectiva",
+      "proposito": "Medir la capacidad total de polisemia sin colapso (alfabeto efectivo × balance de integración).",
+      "eje": "Polisemia / Riqueza interpretativa"
+    },
+    {
+      "numero": 20,
+      "sigla": "η",
+      "nombre": "Índice de Economía Polisémica",
+      "proposito": "Evaluar la eficiencia comunicativa por unidad de energía en sistemas polisémicos.",
+      "eje": "Eficiencia energética semiótica / Optimización de recursos"
+    },
+    {
+      "numero": 21,
+      "sigla": "Mmeta",
+      "nombre": "Metacomprensión Polisémica",
+      "proposito": "Medir la capacidad para generar capas meta de interpretación (metáfora sobre metáfora).",
+      "eje": "Exaptación semiótica / Interpretación profunda"
+    },
+    {
+      "numero": 22,
+      "sigla": "Ls",
+      "nombre": "Número de Lorenz Semiótico",
+      "proposito": "Análogo semiótico del número de Lorenz para evaluar caos y sensibilidad en sistemas simbólicos.",
+      "eje": "Dinámicas caóticas semióticas / Telecomunicaciones"
+    },
+    {
+      "numero": 23,
+      "sigla": "ANA",
+      "nombre": "Anámnesis Histórica Analítica",
+      "proposito": "Medir la capacidad de integrar genealogía conceptual, histórica y cultural de un fenómeno antes del análisis.",
+      "eje": "Genealogía conceptual / Contexto histórico profundo"
+    },
+    {
+      "numero": 24,
+      "sigla": "IGRMD",
+      "nombre": "Índice Global de Revolución Molecular Disipada",
+      "proposito": "Sintetizar holísticamente todos los bloques y metavariables del RMD 2.0 en un índice comparable 0-100.",
+      "eje": "Síntesis estratégica / Evaluación global del conflicto"
+    }
   ],
   "variables_detalladas": [
     {
@@ -70,7 +216,8 @@
       "visualizacion": "Curva ICR vs tiempo; dispersión ICR vs INR con zonas óptimas",
       "ejemplo": "ICR≈0.55 en campañas icónicas bajo alto ruido (2019)",
       "integracion": "Se integra con IEOS, IRDE, IPEM-Cos, CEE-Cos",
-      "limitaciones": "Estimación de RC puede sesgarse si el corpus no es representativo"
+      "limitaciones": "Estimación de RC puede sesgarse si el corpus no es representativo",
+      "formula_sharepoint": "([RC]*(1-[INR]))"
     },
     {
       "id": 278,
@@ -93,7 +240,8 @@
       "visualizacion": "Semáforo IRDE; heatmap por región/tema",
       "ejemplo": "Picos IRDE en crisis sanitarias cuando mensajes eran ambiguos (2020)",
       "integracion": "Aumenta CEE-Cos y Bext-Cos; contrapesa ICR",
-      "limitaciones": "Difícil aislar causalidad de daño solo por mensaje"
+      "limitaciones": "Difícil aislar causalidad de daño solo por mensaje",
+      "formula_sharepoint": "([RC]*[INR])"
     },
     {
       "id": 279,
@@ -116,7 +264,8 @@
       "visualizacion": "Barras apiladas por vía; ternaria Ι–Φ–Κ",
       "ejemplo": "Más Φ en señalética de riesgo mejora comprensión con ruido",
       "integracion": "Afecta ICR e IRDE; alimenta IGM-Cos, Bext-Cos",
-      "limitaciones": "Eficiencias dependen de buena anotación de corpus"
+      "limitaciones": "Eficiencias dependen de buena anotación de corpus",
+      "formula_sharepoint": "([wI]*[eI]+[wPhi]*[ePhi]+[wK]*[eK])"
     },
     {
       "id": 280,
@@ -139,7 +288,8 @@
       "visualizacion": "Antes/después de ICR; boxplots de ΔICR",
       "ejemplo": "Mejora al usar paredes texturadas como soporte icónico",
       "integracion": "Incrementa ICR; reduce necesidad de limpieza agresiva",
-      "limitaciones": "Medir modularidad puede ser subjetivo"
+      "limitaciones": "Medir modularidad puede ser subjetivo",
+      "formula_sharepoint": "MAX(0, [alpha]*([ICR_Despues]-[ICR_Antes]) + [beta]*[Modularidad])"
     },
     {
       "id": 281,
@@ -162,7 +312,8 @@
       "visualizacion": "Superficie 3D ICR–IRDE–Objetivo; isolíneas",
       "ejemplo": "Par óptimo con INR≈0.3 y RC≈0.6 en campañas de servicio público",
       "integracion": "Guía a IEOS e IGM-Cos; acota IRDE",
-      "limitaciones": "No devuelve par por sí sola sin procedimiento de optimización"
+      "limitaciones": "No devuelve par por sí sola sin procedimiento de optimización",
+      "formula_sharepoint": "([ICR]-[lambda]*[IRDE])"
     },
     {
       "id": 282,
@@ -185,7 +336,8 @@
       "visualizacion": "Ranking de bandas; ROC",
       "ejemplo": "Subida de IDD en ventanas con transientes y alta ICR",
       "integracion": "Retroalimenta Bext-Cos y VDA-Cos técnico",
-      "limitaciones": "Correlación de canal varía por hardware y entorno"
+      "limitaciones": "Correlación de canal varía por hardware y entorno",
+      "formula_sharepoint": "([gamma]*SQRT([ICR]*[CorrelacionCanal]) + [delta]*[CorrelacionCanal])"
     },
     {
       "id": 283,
@@ -208,7 +360,8 @@
       "visualizacion": "Radar IGM-Cos; series temporales",
       "ejemplo": "Campañas cívicas 2019 con alto IGM-Cos al usar íconos simples",
       "integracion": "Conecta con CEE-Cos e IPEM-Cos",
-      "limitaciones": "Riesgo de medir “likes” sin calidad de comprensión"
+      "limitaciones": "Riesgo de medir “likes” sin calidad de comprensión",
+      "formula_sharepoint": "([theta]*[ICR] + (1-[theta])*[IEOS] - [mu]*[IRDE])"
     },
     {
       "id": 284,
@@ -231,7 +384,8 @@
       "visualizacion": "Línea LFE con bandas de confianza",
       "ejemplo": "Picos positivos tras introducir señales icónicas claras",
       "integracion": "Alimenta VDA-Cos y IGM-Cos",
-      "limitaciones": "Elección de k afecta sensibilidad a shocks"
+      "limitaciones": "Elección de k afecta sensibilidad a shocks",
+      "formula_sharepoint": "([ICR_MA]-[IRDE_MA])"
     },
     {
       "id": 285,
@@ -254,7 +408,8 @@
       "visualizacion": "Stacked area por contribuciones; velocímetro 0–400",
       "ejemplo": "Aumentos tras campañas confusas en ciclos electorales",
       "integracion": "Correlaciona con CEE-Cos e IPEM-Cos",
-      "limitaciones": "Sensibilidad a elección de pesos y FET"
+      "limitaciones": "Sensibilidad a elección de pesos y FET",
+      "formula_sharepoint": "(( [wIPS]*[IPS] + [wICS]*[ICS] + [wIRDE]*[IRDE] + [wIEOS]*[IEOS] + [wICR]*(1-[ICR]) ) * 100 * [FET])"
     },
     {
       "id": 286,
@@ -277,7 +432,8 @@
       "visualizacion": "Heatmap regional 0–100; timeline",
       "ejemplo": "Picos CEE-Cos en escándalos con mensajes ambiguos",
       "integracion": "Conecta con Bext-Cos e IGM-Cos",
-      "limitaciones": "Puede sobreestimar efecto mediático si faltan datos de base"
+      "limitaciones": "Puede sobreestimar efecto mediático si faltan datos de base",
+      "formula_sharepoint": "(( [vDIG]*[DIG] + [vIIDE]*[IIDE] + [vIMNCE]*[IMNCE] + [vIRDE]*[IRDE] + [vICR]*(1-[ICR]) ) * 100 * [FET])"
     },
     {
       "id": 287,
@@ -300,7 +456,8 @@
       "visualizacion": "Gauge 0–1; fan chart",
       "ejemplo": "Sube con IPS alto y mensajes muy virales (ICR)",
       "integracion": "Correlaciona con CEE-Cos y Bext-Cos",
-      "limitaciones": "Estimación de P_D sensible a calidad de evidencia"
+      "limitaciones": "Estimación de P_D sensible a calidad de evidencia",
+      "formula_sharepoint": "(( [a]*[ICS] + [b]*([IAH]/100) + [c]*[IPS] + [d]*[ICR] ) * [P_Escalada]/[P_D] * [F_Cont])"
     },
     {
       "id": 288,
@@ -323,7 +480,8 @@
       "visualizacion": "Panel de escenarios; árbol de decisiones",
       "ejemplo": "Escenario alternativo activado en ciclos 2019 y 2024",
       "integracion": "Relacionada con IPEM-Cos, CEE-Cos, Bext-Cos",
-      "limitaciones": "Dependencia de calidad de S_d y supuestos; riesgo de sobre-alerta"
+      "limitaciones": "Dependencia de calidad de S_d y supuestos; riesgo de sobre-alerta",
+      "formula_sharepoint": "IF(AND([ICR]>[Tau1],[IRDE]<[Tau2],[IEOS]>[Tau3],[IPS]>[Q_IPS],[ICS]>[Q_ICS]),CONCATENATE(\"Escenario: \",[EscenarioAlt],\"; Acciones: \",[AccionesPropuestas]),\"Análisis Incompleto\")"
     },
     {
       "id": 289,
@@ -346,7 +504,8 @@
       "visualizacion": "Curvas de decaimiento exponencial.",
       "ejemplo": "Iconografía religiosa medieval, símbolos nacionales.",
       "integracion": "Con LF (Libertad Funcional).",
-      "limitaciones": "Analogía fuerte, riesgo de sobreinterpretación."
+      "limitaciones": "Analogía fuerte, riesgo de sobreinterpretación.",
+      "formula_sharepoint": "IF([V_d]>0, ([D]*(1-[INR]))/([k_e]*[V_d]), IF([k_e]>0, ([D]*(1-[INR])*[RC])/[k_e], BLANK()))"
     },
     {
       "id": 290,
@@ -369,7 +528,8 @@
       "visualizacion": "Mapas de ambigüedad normativa.",
       "ejemplo": "Interpretación de la Constitución chilena en 1980 y 2019.",
       "integracion": "Con RC (Ruido Contextual) aplicado al derecho.",
-      "limitaciones": "Depende de corpus jurídico accesible."
+      "limitaciones": "Depende de corpus jurídico accesible.",
+      "formula_sharepoint": "([RC_legal]*(1-[INR_legal]))"
     },
     {
       "id": 291,
@@ -392,7 +552,8 @@
       "visualizacion": "Curvas de tolerancia/adaptación.",
       "ejemplo": "Respuesta inmune al VIH, COVID-19.",
       "integracion": "Con LF general y SIE.",
-      "limitaciones": "Analogía parcial, requiere más validación experimental."
+      "limitaciones": "Analogía parcial, requiere más validación experimental.",
+      "formula_sharepoint": "([RC_inmune]*(1-[INR_inmune]))"
     },
     {
       "id": 292,
@@ -415,7 +576,8 @@
       "visualizacion": "Radar de subpoblaciones inmunes.",
       "ejemplo": "Resistencia cruzada en pandemias.",
       "integracion": "LF_inmune.",
-      "limitaciones": "Depende de ajuste correcto de pesos."
+      "limitaciones": "Depende de ajuste correcto de pesos.",
+      "formula_sharepoint": "([w_I]*[LF_I] + [w_Φ]*[LF_Φ] + [w_K]*[LF_K])"
     },
     {
       "id": 293,
@@ -438,7 +600,8 @@
       "visualizacion": "Curva σ/κ.",
       "ejemplo": "Análisis de láminas de Rorschach.",
       "integracion": "IDCS, B.",
-      "limitaciones": "Supone separación clara señal/ruido."
+      "limitaciones": "Supone separación clara señal/ruido.",
+      "formula_sharepoint": "IF(([σ_s]+[κ_s])>0, [σ_s]/([σ_s]+[κ_s]), BLANK())"
     },
     {
       "id": 294,
@@ -461,7 +624,8 @@
       "visualizacion": "Mapas de contradicción fértil.",
       "ejemplo": "Arte surrealista; rituales ambiguos.",
       "integracion": "IAS, B.",
-      "limitaciones": "Simplificación del fenómeno polisémico."
+      "limitaciones": "Simplificación del fenómeno polisémico.",
+      "formula_sharepoint": "IF(([σ_s]+[κ_s])>0, ABS([σ_s]-[κ_s])/([σ_s]+[κ_s]), BLANK())"
     },
     {
       "id": 295,
@@ -484,7 +648,8 @@
       "visualizacion": "Curva log₂(Neff).",
       "ejemplo": "Láminas VIII-X del Rorschach.",
       "integracion": "IAS, IDCS, LF.",
-      "limitaciones": "Depende de estimación de Neff."
+      "limitaciones": "Depende de estimación de Neff.",
+      "formula_sharepoint": "IF(AND([Neff]>0, [B]>=0), LOG([Neff],2)*[B], BLANK())"
     },
     {
       "id": 296,
@@ -507,7 +672,8 @@
       "visualizacion": "Diagramas de eficiencia.",
       "ejemplo": "Procesos rituales de bajo costo energético.",
       "integracion": "Ceff.",
-      "limitaciones": "Difícil medir energía exacta en sistemas simbólicos."
+      "limitaciones": "Difícil medir energía exacta en sistemas simbólicos.",
+      "formula_sharepoint": "IF([E]>0, [Ceff]/[E], BLANK())"
     },
     {
       "id": 297,
@@ -530,7 +696,8 @@
       "visualizacion": "Diagramas de capas.",
       "ejemplo": "Metáforas bíblicas; poesía hermética.",
       "integracion": "Ceff, LF.",
-      "limitaciones": "Difícil operacionalizar IBAB y Cpoly."
+      "limitaciones": "Difícil operacionalizar IBAB y Cpoly.",
+      "formula_sharepoint": "ABS([IBAB])*[Ls]*[Cpoly]"
     },
     {
       "id": 298,
@@ -553,7 +720,8 @@
       "visualizacion": "Mapas de fase.",
       "ejemplo": "Antenas SDR experimentales.",
       "integracion": "IAS, IDCS.",
-      "limitaciones": "Analogía física, requiere simulación empírica."
+      "limitaciones": "Analogía física, requiere simulación empírica.",
+      "formula_sharepoint": "IF(([σ_s]*[κ_s])>0, [Θ]/([σ_s]*[κ_s]), BLANK())"
     },
     {
       "id": 299,
@@ -576,7 +744,8 @@
       "visualizacion": "Línea de tiempo interactiva.",
       "ejemplo": "Cambio climático; antropoceno.",
       "integracion": "VDA, IGRMD.",
-      "limitaciones": "Depende de fuentes históricas."
+      "limitaciones": "Depende de fuentes históricas.",
+      "formula_sharepoint": "((( [HLC]*0.3 ) + ( [LIN]*0.3 ) + ( [CHE]*0.4 )) * [FHC]) * 100"
     },
     {
       "id": 300,
@@ -599,7 +768,8 @@
       "visualizacion": "Dashboard interactivo.",
       "ejemplo": "Chile 18-O; Irán-Israel 2025.",
       "integracion": "ANA, VDA, bloques RMD.",
-      "limitaciones": "Depende de calidad de datos y pesos asignados."
+      "limitaciones": "Depende de calidad de datos y pesos asignados.",
+      "formula_sharepoint": "(( [wSocial]*AVERAGE([BloqueSocial]) + [wMACH]*AVERAGE([BloqueMACH]) + [wMETCOL]*AVERAGE([BloqueMETCOL]) + [wCosmo]*AVERAGE([BloqueCosmosemiótica]) + [wVDA]*[VDA] + [wANA]*[ANA] ) * [FETGlobal]) * 100"
     }
   ],
   "integracion_rmd": {
