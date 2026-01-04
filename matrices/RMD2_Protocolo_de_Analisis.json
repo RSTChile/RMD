@@ -1,16 +1,16 @@
 {
   "meta": {
-    "dataset": "RMD 2.0 Protocolo de Análisis (FINAL + MAPAR-S Rev1)",
+    "dataset": "RMD 2.0 Protocolo de Análisis (FINAL + MAPAR-S REV2) - canonical export",
     "source_file": "RMD_2_Protocolo_de_Analisis_FINAL_MAPAR-S_REV2.xlsx",
-    "generated_from": "xlsx_to_json (rev1)",
+    "generated_from": "xlsx_to_json (rev2-canonical)",
     "sheet_count": 46,
     "row_counts_by_sheet": {
-      "Directivas": 0,
-      "MiE": 33,
-      "Pre-RMD": 54,
+      "Directivas": 1,
+      "MiE": 32,
+      "Pre-RMD": 51,
       "Variables y Métricas Completas": 310,
       "Protocolo": 14,
-      "MACLIMA": 15,
+      "MACLIMA": 13,
       "Acción Comunitaria": 4,
       "Análisis de Intel y Riesgos": 8,
       "Análisis Estratégico": 5,
@@ -45,31 +45,40 @@
       "Simbolismo y Autenticidad": 6,
       "Sostenibilidad Social": 8,
       "Violencia, Crimen y Turbulencia": 8,
-      "Cosmosemiótica": 37,
+      "Cosmosemiótica": 36,
       "MAPAR-S_Protocolo": 18,
-      "MAPAR-S_Arbol": 13,
-      "MAPAR-S_Pool": 89,
+      "MAPAR-S_Arbol": 12,
+      "MAPAR-S_Pool": 90,
       "MAPAR-S_Matriz": 15,
-      "Resumen Ejecutivo": 0
+      "Resumen Ejecutivo": 1
     },
-    "generated_at": "2026-01-01T16:35:26.120077"
+    "generated_at": "2026-01-04T16:31:11.345235"
   },
   "sheets": {
     "Directivas": {
-      "rows": 0,
+      "rows": 1,
       "columns": [
-        "PROMPT — Incorporación de Directivas Críticas en Hoja 1 (Protocolo RMD 2.0)\n\nRol:\n_x000B_Actúa como analista metodológico del Protocolo RMD 2.0._x000B_No modifiques fórmulas, métricas ni IDs existentes._x000B_Solo puedes agregar texto normativo en la Hoja 1 del Excel (Protocolo / MiE).\n\nOBJETIVO\nIncorporar dos directivas obligatorias como reglas metodológicas explícitas, visibles y vinculantes, aplicables a todo análisis RMD 2.0 y a todos los módulos (incluido MACEC).\n\nDIRECTIVA 1 — CONTROL ANTI-HEURÍSTICO (OBLIGATORIA)\nTítulo exacto a incorporar en Hoja 1:\nDIRECTIVA METODOLÓGICA OBLIGATORIA — CONTROL ANTI-HEURÍSTICO\nTexto normativo (copiar literal):\nDurante la ejecución del Protocolo RMD 2.0, el analista (humano o IA) NO debe utilizar patrones heurísticos, inferencias intuitivas ni deducciones no sustentadas explícitamente en fases previas del protocolo.\nCada fase debe desarrollarse exclusivamente con la información habilitada por las fases anteriores, respetando su definición, alcance y límites.\nSe prohíbe anticipar interpretaciones, evaluaciones, conclusiones o decisiones fuera de la fase correspondiente.\nEl incumplimiento de esta directiva invalida el análisis y obliga a reiniciar el proceso desde la última fase correctamente ejecutada.\nUbicación sugerida en Hoja 1:_x000B_Debajo del encabezado general del MiE (Método de Intelección Estratégica), antes del listado de fases.\n\nDIRECTIVA 2 — FASE 0 OBLIGATORIA: INGESTA Y VERIFICACIÓN DEL EXCEL\nTítulo exacto a incorporar en Hoja 1:\nFASE 0 — INGESTA Y VERIFICACIÓN ESTRUCTURAL DEL MODELO (OBLIGATORIA)\nTexto normativo (copiar literal):\nAntes de iniciar cualquier fase del MiE o de los módulos del RMD 2.0, es obligatorio ejecutar una Fase 0 de Ingesta y Verificación del archivo Excel del modelo.\nEsta fase tiene por objetivo asegurar la integridad estructural del análisis y no puede ser omitida.\nLa Fase 0 debe verificar, como mínimo:\n* Ausencia de errores de fórmula (#REF!, #DIV/0!, #NAME?, etc.).\n* Consistencia de IDs de variables respecto de la hoja maestra.\n* Inexistencia de variables huérfanas o duplicadas.\n* Coherencia entre el flujo del protocolo y las hojas operativas.\nSi la Fase 0 no se completa o arroja inconsistencias estructurales, el análisis queda automáticamente bloqueado hasta su corrección.\nNinguna interpretación, medición o conclusión posterior es válida sin esta verificación previa.\nUbicación sugerida en Hoja 1:_x000B_Antes de la Fase 1 del MiE, como fase explícita del flujo.\n\nREGLA FINAL DE EJECUCIÓN\nEstas directivas son condiciones de posibilidad del Protocolo RMD 2.0._x000B_Su cumplimiento no es opcional, no depende del criterio del analista y es aplicable a todas las instancias de análisis, incluidos ejercicios exploratorios, académicos o de simulación.\n\nA CONTINUACIÓN:\n\nEJECUTA EL MÉTODO DE INTELECCIÓN ESTRATÉGICA DE LA HOJA SIGUIENTE, MIE, FASE POR FASE."
+        "text"
       ],
-      "data": []
+      "data": [
+        {
+          "text": "PROMPT — Incorporación de Directivas Críticas en Hoja 1 (Protocolo RMD 2.0)\n\nRol:\n_x000B_Actúa como analista metodológico del Protocolo RMD 2.0._x000B_No modifiques fórmulas, métricas ni IDs existentes._x000B_Solo puedes agregar texto normativo en la Hoja 1 del Excel (Protocolo / MiE).\n\nOBJETIVO\nIncorporar dos directivas obligatorias como reglas metodológicas explícitas, visibles y vinculantes, aplicables a todo análisis RMD 2.0 y a todos los módulos (incluido MACEC).\n\nDIRECTIVA 1 — CONTROL ANTI-HEURÍSTICO (OBLIGATORIA)\nTítulo exacto a incorporar en Hoja 1:\nDIRECTIVA METODOLÓGICA OBLIGATORIA — CONTROL ANTI-HEURÍSTICO\nTexto normativo (copiar literal):\nDurante la ejecución del Protocolo RMD 2.0, el analista (humano o IA) NO debe utilizar patrones heurísticos, inferencias intuitivas ni deducciones no sustentadas explícitamente en fases previas del protocolo.\nCada fase debe desarrollarse exclusivamente con la información habilitada por las fases anteriores, respetando su definición, alcance y límites.\nSe prohíbe anticipar interpretaciones, evaluaciones, conclusiones o decisiones fuera de la fase correspondiente.\nEl incumplimiento de esta directiva invalida el análisis y obliga a reiniciar el proceso desde la última fase correctamente ejecutada.\nUbicación sugerida en Hoja 1:_x000B_Debajo del encabezado general del MiE (Método de Intelección Estratégica), antes del listado de fases.\n\nDIRECTIVA 2 — FASE 0 OBLIGATORIA: INGESTA Y VERIFICACIÓN DEL EXCEL\nTítulo exacto a incorporar en Hoja 1:\nFASE 0 — INGESTA Y VERIFICACIÓN ESTRUCTURAL DEL MODELO (OBLIGATORIA)\nTexto normativo (copiar literal):\nAntes de iniciar cualquier fase del MiE o de los módulos del RMD 2.0, es obligatorio ejecutar una Fase 0 de Ingesta y Verificación del archivo Excel del modelo.\nEsta fase tiene por objetivo asegurar la integridad estructural del análisis y no puede ser omitida.\nLa Fase 0 debe verificar, como mínimo:\n* Ausencia de errores de fórmula (#REF!, #DIV/0!, #NAME?, etc.).\n* Consistencia de IDs de variables respecto de la hoja maestra.\n* Inexistencia de variables huérfanas o duplicadas.\n* Coherencia entre el flujo del protocolo y las hojas operativas.\nSi la Fase 0 no se completa o arroja inconsistencias estructurales, el análisis queda automáticamente bloqueado hasta su corrección.\nNinguna interpretación, medición o conclusión posterior es válida sin esta verificación previa.\nUbicación sugerida en Hoja 1:_x000B_Antes de la Fase 1 del MiE, como fase explícita del flujo.\n\nREGLA FINAL DE EJECUCIÓN\nEstas directivas son condiciones de posibilidad del Protocolo RMD 2.0._x000B_Su cumplimiento no es opcional, no depende del criterio del analista y es aplicable a todas las instancias de análisis, incluidos ejercicios exploratorios, académicos o de simulación.\n\nA CONTINUACIÓN:\n\nEJECUTA EL MÉTODO DE INTELECCIÓN ESTRATÉGICA DE LA HOJA SIGUIENTE, MIE, FASE POR FASE."
+        }
+      ]
     },
     "MiE": {
-      "rows": 33,
+      "rows": 32,
       "columns": [
         "INICIO DEL ANÁLISIS - MÉTODO DE INTELECCIÓN ESTRATÉGICA (MiE)",
         "Unnamed: 1",
         "Unnamed: 2"
       ],
       "data": [
+        {
+          "INICIO DEL ANÁLISIS - MÉTODO DE INTELECCIÓN ESTRATÉGICA (MiE)": "INICIO DEL ANÁLISIS - MÉTODO DE INTELECCIÓN ESTRATÉGICA (MiE)",
+          "Unnamed: 1": null,
+          "Unnamed: 2": null
+        },
         {
           "INICIO DEL ANÁLISIS - MÉTODO DE INTELECCIÓN ESTRATÉGICA (MiE)": "Fase",
           "Unnamed: 1": "Descripción",
@@ -226,11 +235,6 @@
           "Unnamed: 2": "Revisión post-ejecución para nuevas fases."
         },
         {
-          "INICIO DEL ANÁLISIS - MÉTODO DE INTELECCIÓN ESTRATÉGICA (MiE)": null,
-          "Unnamed: 1": null,
-          "Unnamed: 2": null
-        },
-        {
           "INICIO DEL ANÁLISIS - MÉTODO DE INTELECCIÓN ESTRATÉGICA (MiE)": "DIRECTIVAS DE LA SESIÓN: “Durante la ejecución del protocolo, no se autoriza la inferencia heurística no sustentada en fases previas.”",
           "Unnamed: 1": null,
           "Unnamed: 2": null
@@ -238,7 +242,7 @@
       ]
     },
     "Pre-RMD": {
-      "rows": 54,
+      "rows": 51,
       "columns": [
         "Manual Rápido de Uso – Protocolo RMD 2.0\n\nEste archivo integra el Protocolo de Análisis RMD 2.0 con matrices externas e internas.\n\nSecuencia de trabajo:\n\n1. Revisar la hoja 'Pre-RMD': allí se listan matrices externas y hojas internas que alimentan cada variable.\n2. Verificar que las matrices externas estén cargadas en la sesión (rutas /mnt/data/...).\n3. Ir a la hoja 'Protocolo' y aplicar el análisis en orden de columnas: Primer Bloque – Anamnesis → Subcat.1–7 → Requiere Post VDA → Análisis Post VDA → Cosmosemiótico Final.\n4. Usar las hojas internas complementarias solo para ampliar detalles o hacer validaciones adicionales.\n5. Consolidar resultados en las últimas columnas (Post VDA y Cosmosemiótico Final).\n\nTipos de hojas:\n- Matrices externas: insumos precalculados, deben pre cargarse en la sesión.\n- Hojas internas principales: se aplican directamente en el Protocolo.\n- Hojas internas complementarias: espacios de análisis extra, no obligatorios en el flujo principal.\n\nNota: Las rutas /mnt/data/... funcionan solo en la sesión actual de IA; si otra IA trabaja contigo, se deben cargar los mismos archivos en su sesión.",
         "Unnamed: 1",
@@ -262,6 +266,27 @@
       ],
       "data": [
         {
+          "Manual Rápido de Uso – Protocolo RMD 2.0\n\nEste archivo integra el Protocolo de Análisis RMD 2.0 con matrices externas e internas.\n\nSecuencia de trabajo:\n\n1. Revisar la hoja 'Pre-RMD': allí se listan matrices externas y hojas internas que alimentan cada variable.\n2. Verificar que las matrices externas estén cargadas en la sesión (rutas /mnt/data/...).\n3. Ir a la hoja 'Protocolo' y aplicar el análisis en orden de columnas: Primer Bloque – Anamnesis → Subcat.1–7 → Requiere Post VDA → Análisis Post VDA → Cosmosemiótico Final.\n4. Usar las hojas internas complementarias solo para ampliar detalles o hacer validaciones adicionales.\n5. Consolidar resultados en las últimas columnas (Post VDA y Cosmosemiótico Final).\n\nTipos de hojas:\n- Matrices externas: insumos precalculados, deben pre cargarse en la sesión.\n- Hojas internas principales: se aplican directamente en el Protocolo.\n- Hojas internas complementarias: espacios de análisis extra, no obligatorios en el flujo principal.\n\nNota: Las rutas /mnt/data/... funcionan solo en la sesión actual de IA; si otra IA trabaja contigo, se deben cargar los mismos archivos en su sesión.": "Manual Rápido de Uso – Protocolo RMD 2.0\n\nEste archivo integra el Protocolo de Análisis RMD 2.0 con matrices externas e internas.\n\nSecuencia de trabajo:\n\n1. Revisar la hoja 'Pre-RMD': allí se listan matrices externas y hojas internas que alimentan cada variable.\n2. Verificar que las matrices externas estén cargadas en la sesión (rutas /mnt/data/...).\n3. Ir a la hoja 'Protocolo' y aplicar el análisis en orden de columnas: Primer Bloque – Anamnesis → Subcat.1–7 → Requiere Post VDA → Análisis Post VDA → Cosmosemiótico Final.\n4. Usar las hojas internas complementarias solo para ampliar detalles o hacer validaciones adicionales.\n5. Consolidar resultados en las últimas columnas (Post VDA y Cosmosemiótico Final).\n\nTipos de hojas:\n- Matrices externas: insumos precalculados, deben pre cargarse en la sesión.\n- Hojas internas principales: se aplican directamente en el Protocolo.\n- Hojas internas complementarias: espacios de análisis extra, no obligatorios en el flujo principal.\n\nNota: Las rutas /mnt/data/... funcionan solo en la sesión actual de IA; si otra IA trabaja contigo, se deben cargar los mismos archivos en su sesión.",
+          "Unnamed: 1": null,
+          "Unnamed: 2": null,
+          "Unnamed: 3": null,
+          "Unnamed: 4": null,
+          "Unnamed: 5": null,
+          "Unnamed: 6": null,
+          "Unnamed: 7": null,
+          "Unnamed: 8": null,
+          "Unnamed: 9": null,
+          "Unnamed: 10": null,
+          "Unnamed: 11": null,
+          "Unnamed: 12": null,
+          "Unnamed: 13": null,
+          "Unnamed: 14": null,
+          "Unnamed: 15": null,
+          "Unnamed: 16": null,
+          "Unnamed: 17": null,
+          "Unnamed: 18": null
+        },
+        {
           "Manual Rápido de Uso – Protocolo RMD 2.0\n\nEste archivo integra el Protocolo de Análisis RMD 2.0 con matrices externas e internas.\n\nSecuencia de trabajo:\n\n1. Revisar la hoja 'Pre-RMD': allí se listan matrices externas y hojas internas que alimentan cada variable.\n2. Verificar que las matrices externas estén cargadas en la sesión (rutas /mnt/data/...).\n3. Ir a la hoja 'Protocolo' y aplicar el análisis en orden de columnas: Primer Bloque – Anamnesis → Subcat.1–7 → Requiere Post VDA → Análisis Post VDA → Cosmosemiótico Final.\n4. Usar las hojas internas complementarias solo para ampliar detalles o hacer validaciones adicionales.\n5. Consolidar resultados en las últimas columnas (Post VDA y Cosmosemiótico Final).\n\nTipos de hojas:\n- Matrices externas: insumos precalculados, deben pre cargarse en la sesión.\n- Hojas internas principales: se aplican directamente en el Protocolo.\n- Hojas internas complementarias: espacios de análisis extra, no obligatorios en el flujo principal.\n\nNota: Las rutas /mnt/data/... funcionan solo en la sesión actual de IA; si otra IA trabaja contigo, se deben cargar los mismos archivos en su sesión.": "Instrucción Base de Libertad Funcional (LF) para IA – RMD 2.0\n\nMandato Vinculante Obligatorio: La IA debe aplicar Libertad Funcional en todo el análisis, actuando como Analista y no sólo como Analizador. Esto significa operar con agencia interpretativa dentro del marco del Protocolo, más allá de cálculos mecánicos, sin violar trazabilidad ni estructura del modelo.\n\nReglas inmutables\n\nNo alterar nombres de Variables, Métricas, Índices, hojas o filas.\n\nNo mezclar contenidos entre matrices.\n\nTrazabilidad total: cada salida debe indicar Fuente (Matriz/Hoja/Fecha) y Modo (Dato / Estimado / No calculado).\n\nProhibido inventar datos: si falta evidencia, detener el cálculo, marcar el vacío y aplicar Comodines (LF).\n\nPrincipios operativos\n\nCosmosemiótica → Toda inferencia debe analizar también su peso narrativo y ético: cómo afecta rumor, mártir, legitimidad.\n\nExaptación → Se permite reutilizar matrices y herramientas para fines no previstos, siempre que se rotule como “Exaptación” y se justifique su valor agregado.\n\nConsciencia/Inconsciencia → La IA debe señalar vacíos, sesgos o contradicciones internas detectadas en el análisis.\n\nAgencia Analítica → La IA debe ser capaz de interpretar datos primarios con peso cualitativo (ej.: un chat convocando a fabricar bombas Molotov incrementa directamente el Ánimo Hostil y el Riesgo de Violencia, sin esperar cálculo mecánico).\n\nComodines de LF (Mandato Vinculante Obligatorio como Agencia, no sólo fallback)\n\n“No sé” → Se usa para señalar vacíos críticos + dónde buscarlos (Transparencia / Fiscalía / OSINT). No inferir automáticamente: detenerse y pedir o buscar.\n\n“Discrepo” → Activar si un cálculo contradice Meta Variables o evidencia primaria. Explicar qué contradice + qué recalibrar. Ejemplo: la VDA genera contraescenarios → esto es aplicación de “Discrepo”.\n\n“¿Y si…?” → Abrir escenarios alternativos/red-team. Deben incluir condición de disparo y falsación. Además, implica mirar más allá de los números: una Víctima Colateral no es sólo una estadística, es un sujeto con legitimidad social. Si el análisis arroja muchas víctimas colaterales, debe preguntarse: “¿Y si probamos un escenario distinto para reducirlas a cero?”.\n\nPuntos de activación automáticos\n\nSi VDA / VDA-Cos / IPEM-Cos / Bext-Cos muestran contradicciones → activar Discrepo y proponer revisión focal.\n\nSi un punto de inflexión cambia de nivel (Verde→Amarillo o Amarillo→Rojo) → activar al menos un ¿Y si…? con indicadores de disparo y falsación.\n\nSecuencia de aplicación\n\nEstas instrucciones rigen desde el inicio (antes del MiE-ligero).\n\nEl MiE se aplica completo primero (10 fases) → genera base sólida de ANA y datos sin procesar.\n\nLuego corre el Protocolo RMD paso a paso (bloques, variables, métricas).\n\nMeta Variables se calculan casi al final.\n\nCosmosemiótica se aplica al cierre para blindar el análisis narrativo y ético.\n\nSalidas mínimas de Pre-RMD (caja inicial)\n\nManifiesto de ejecución: listado de vacíos críticos y oportunidades de exaptación.\n\nMapa de comodines: qué parte comienza con No sé, dónde se anticipa Discrepo, y qué escenarios alternativos abrirán ¿Y si…?",
           "Unnamed: 1": null,
           "Unnamed: 2": null,
@@ -284,27 +309,6 @@
         },
         {
           "Manual Rápido de Uso – Protocolo RMD 2.0\n\nEste archivo integra el Protocolo de Análisis RMD 2.0 con matrices externas e internas.\n\nSecuencia de trabajo:\n\n1. Revisar la hoja 'Pre-RMD': allí se listan matrices externas y hojas internas que alimentan cada variable.\n2. Verificar que las matrices externas estén cargadas en la sesión (rutas /mnt/data/...).\n3. Ir a la hoja 'Protocolo' y aplicar el análisis en orden de columnas: Primer Bloque – Anamnesis → Subcat.1–7 → Requiere Post VDA → Análisis Post VDA → Cosmosemiótico Final.\n4. Usar las hojas internas complementarias solo para ampliar detalles o hacer validaciones adicionales.\n5. Consolidar resultados en las últimas columnas (Post VDA y Cosmosemiótico Final).\n\nTipos de hojas:\n- Matrices externas: insumos precalculados, deben pre cargarse en la sesión.\n- Hojas internas principales: se aplican directamente en el Protocolo.\n- Hojas internas complementarias: espacios de análisis extra, no obligatorios en el flujo principal.\n\nNota: Las rutas /mnt/data/... funcionan solo en la sesión actual de IA; si otra IA trabaja contigo, se deben cargar los mismos archivos en su sesión.": "Prompt de Instrucciones Iniciales\n\nInstrucciones para la IA:\n\nAbrir el archivo del Protocolo RMD 2.0.\n\nRevisar primero la hoja Pre-RMD (índice de correspondencia entre matrices y variables).\n\nVerificar que las matrices externas listadas estén cargadas en /mnt/data/....\n\nAplicar el Protocolo en el orden de columnas:\n\nComenzar con Primer Bloque – Anamnesis.\n\nLuego avanzar secuencialmente por Subcategoría 1 → Subcategoría 2 → … → Subcategoría 7.\n\nDespués aplicar Requiere Análisis Post VDA, Análisis Post VDA y, finalmente, Análisis Cosmosemiótico Final.\n\nPara cada columna/subcategoría:\n\nConsultar la hoja Pre-RMD para identificar qué matriz externa contiene los valores de las variables correspondientes.\n\nUsar directamente los valores ya procesados en las matrices (no volver a interpretarlos).\n\nAplicar la fórmula o cálculo definido en el Protocolo.\n\nResultados:\n\nMostrar el valor de cada variable en su columna correspondiente.\n\nEntregar interpretación breve solo si es necesario para contexto.\n\nFinalización:\n\nConsolidar los resultados en Análisis Post VDA y Análisis Cosmosemiótico Final.\n\nMantener un registro claro de: variable consultada, matriz origen, resultado.",
-          "Unnamed: 1": null,
-          "Unnamed: 2": null,
-          "Unnamed: 3": null,
-          "Unnamed: 4": null,
-          "Unnamed: 5": null,
-          "Unnamed: 6": null,
-          "Unnamed: 7": null,
-          "Unnamed: 8": null,
-          "Unnamed: 9": null,
-          "Unnamed: 10": null,
-          "Unnamed: 11": null,
-          "Unnamed: 12": null,
-          "Unnamed: 13": null,
-          "Unnamed: 14": null,
-          "Unnamed: 15": null,
-          "Unnamed: 16": null,
-          "Unnamed: 17": null,
-          "Unnamed: 18": null
-        },
-        {
-          "Manual Rápido de Uso – Protocolo RMD 2.0\n\nEste archivo integra el Protocolo de Análisis RMD 2.0 con matrices externas e internas.\n\nSecuencia de trabajo:\n\n1. Revisar la hoja 'Pre-RMD': allí se listan matrices externas y hojas internas que alimentan cada variable.\n2. Verificar que las matrices externas estén cargadas en la sesión (rutas /mnt/data/...).\n3. Ir a la hoja 'Protocolo' y aplicar el análisis en orden de columnas: Primer Bloque – Anamnesis → Subcat.1–7 → Requiere Post VDA → Análisis Post VDA → Cosmosemiótico Final.\n4. Usar las hojas internas complementarias solo para ampliar detalles o hacer validaciones adicionales.\n5. Consolidar resultados en las últimas columnas (Post VDA y Cosmosemiótico Final).\n\nTipos de hojas:\n- Matrices externas: insumos precalculados, deben pre cargarse en la sesión.\n- Hojas internas principales: se aplican directamente en el Protocolo.\n- Hojas internas complementarias: espacios de análisis extra, no obligatorios en el flujo principal.\n\nNota: Las rutas /mnt/data/... funcionan solo en la sesión actual de IA; si otra IA trabaja contigo, se deben cargar los mismos archivos en su sesión.": null,
           "Unnamed: 1": null,
           "Unnamed: 2": null,
           "Unnamed: 3": null,
@@ -638,27 +642,6 @@
           "Unnamed: 16": "Sí",
           "Unnamed: 17": "Sí",
           "Unnamed: 18": "Nuevo módulo. Ancla en variables existentes; puede crear taxonomía paralela de sujetos (borde→terror)."
-        },
-        {
-          "Manual Rápido de Uso – Protocolo RMD 2.0\n\nEste archivo integra el Protocolo de Análisis RMD 2.0 con matrices externas e internas.\n\nSecuencia de trabajo:\n\n1. Revisar la hoja 'Pre-RMD': allí se listan matrices externas y hojas internas que alimentan cada variable.\n2. Verificar que las matrices externas estén cargadas en la sesión (rutas /mnt/data/...).\n3. Ir a la hoja 'Protocolo' y aplicar el análisis en orden de columnas: Primer Bloque – Anamnesis → Subcat.1–7 → Requiere Post VDA → Análisis Post VDA → Cosmosemiótico Final.\n4. Usar las hojas internas complementarias solo para ampliar detalles o hacer validaciones adicionales.\n5. Consolidar resultados en las últimas columnas (Post VDA y Cosmosemiótico Final).\n\nTipos de hojas:\n- Matrices externas: insumos precalculados, deben pre cargarse en la sesión.\n- Hojas internas principales: se aplican directamente en el Protocolo.\n- Hojas internas complementarias: espacios de análisis extra, no obligatorios en el flujo principal.\n\nNota: Las rutas /mnt/data/... funcionan solo en la sesión actual de IA; si otra IA trabaja contigo, se deben cargar los mismos archivos en su sesión.": null,
-          "Unnamed: 1": null,
-          "Unnamed: 2": null,
-          "Unnamed: 3": null,
-          "Unnamed: 4": null,
-          "Unnamed: 5": null,
-          "Unnamed: 6": null,
-          "Unnamed: 7": null,
-          "Unnamed: 8": null,
-          "Unnamed: 9": null,
-          "Unnamed: 10": null,
-          "Unnamed: 11": null,
-          "Unnamed: 12": null,
-          "Unnamed: 13": null,
-          "Unnamed: 14": null,
-          "Unnamed: 15": null,
-          "Unnamed: 16": null,
-          "Unnamed: 17": null,
-          "Unnamed: 18": null
         },
         {
           "Manual Rápido de Uso – Protocolo RMD 2.0\n\nEste archivo integra el Protocolo de Análisis RMD 2.0 con matrices externas e internas.\n\nSecuencia de trabajo:\n\n1. Revisar la hoja 'Pre-RMD': allí se listan matrices externas y hojas internas que alimentan cada variable.\n2. Verificar que las matrices externas estén cargadas en la sesión (rutas /mnt/data/...).\n3. Ir a la hoja 'Protocolo' y aplicar el análisis en orden de columnas: Primer Bloque – Anamnesis → Subcat.1–7 → Requiere Post VDA → Análisis Post VDA → Cosmosemiótico Final.\n4. Usar las hojas internas complementarias solo para ampliar detalles o hacer validaciones adicionales.\n5. Consolidar resultados en las últimas columnas (Post VDA y Cosmosemiótico Final).\n\nTipos de hojas:\n- Matrices externas: insumos precalculados, deben pre cargarse en la sesión.\n- Hojas internas principales: se aplican directamente en el Protocolo.\n- Hojas internas complementarias: espacios de análisis extra, no obligatorios en el flujo principal.\n\nNota: Las rutas /mnt/data/... funcionan solo en la sesión actual de IA; si otra IA trabaja contigo, se deben cargar los mismos archivos en su sesión.": "Otras Subcategorías para complementar el Análisis - Usar según corresponda",
@@ -1354,27 +1337,6 @@
           "Unnamed: 18": null
         },
         {
-          "Manual Rápido de Uso – Protocolo RMD 2.0\n\nEste archivo integra el Protocolo de Análisis RMD 2.0 con matrices externas e internas.\n\nSecuencia de trabajo:\n\n1. Revisar la hoja 'Pre-RMD': allí se listan matrices externas y hojas internas que alimentan cada variable.\n2. Verificar que las matrices externas estén cargadas en la sesión (rutas /mnt/data/...).\n3. Ir a la hoja 'Protocolo' y aplicar el análisis en orden de columnas: Primer Bloque – Anamnesis → Subcat.1–7 → Requiere Post VDA → Análisis Post VDA → Cosmosemiótico Final.\n4. Usar las hojas internas complementarias solo para ampliar detalles o hacer validaciones adicionales.\n5. Consolidar resultados en las últimas columnas (Post VDA y Cosmosemiótico Final).\n\nTipos de hojas:\n- Matrices externas: insumos precalculados, deben pre cargarse en la sesión.\n- Hojas internas principales: se aplican directamente en el Protocolo.\n- Hojas internas complementarias: espacios de análisis extra, no obligatorios en el flujo principal.\n\nNota: Las rutas /mnt/data/... funcionan solo en la sesión actual de IA; si otra IA trabaja contigo, se deben cargar los mismos archivos en su sesión.": null,
-          "Unnamed: 1": null,
-          "Unnamed: 2": null,
-          "Unnamed: 3": null,
-          "Unnamed: 4": null,
-          "Unnamed: 5": null,
-          "Unnamed: 6": null,
-          "Unnamed: 7": null,
-          "Unnamed: 8": null,
-          "Unnamed: 9": null,
-          "Unnamed: 10": null,
-          "Unnamed: 11": null,
-          "Unnamed: 12": null,
-          "Unnamed: 13": null,
-          "Unnamed: 14": null,
-          "Unnamed: 15": null,
-          "Unnamed: 16": null,
-          "Unnamed: 17": null,
-          "Unnamed: 18": null
-        },
-        {
           "Manual Rápido de Uso – Protocolo RMD 2.0\n\nEste archivo integra el Protocolo de Análisis RMD 2.0 con matrices externas e internas.\n\nSecuencia de trabajo:\n\n1. Revisar la hoja 'Pre-RMD': allí se listan matrices externas y hojas internas que alimentan cada variable.\n2. Verificar que las matrices externas estén cargadas en la sesión (rutas /mnt/data/...).\n3. Ir a la hoja 'Protocolo' y aplicar el análisis en orden de columnas: Primer Bloque – Anamnesis → Subcat.1–7 → Requiere Post VDA → Análisis Post VDA → Cosmosemiótico Final.\n4. Usar las hojas internas complementarias solo para ampliar detalles o hacer validaciones adicionales.\n5. Consolidar resultados en las últimas columnas (Post VDA y Cosmosemiótico Final).\n\nTipos de hojas:\n- Matrices externas: insumos precalculados, deben pre cargarse en la sesión.\n- Hojas internas principales: se aplican directamente en el Protocolo.\n- Hojas internas complementarias: espacios de análisis extra, no obligatorios en el flujo principal.\n\nNota: Las rutas /mnt/data/... funcionan solo en la sesión actual de IA; si otra IA trabaja contigo, se deben cargar los mismos archivos en su sesión.": "Advertencias de uso del MACEC y límites éticos\n\nNo usar MACEC para manipulación o ingeniería de consenso\n\nMACEC sirve para diagnosticar pérdida de sentido y recuperar coherencia, no para diseñar campañas de engaño, propaganda encubierta, astroturfing o desinformación.\n\nSeparar diagnóstico de intervención\n\nPrimero se mide (variables/métricas existentes).\n\nLuego se interpreta (impacto/recepción, “sentido”), y recién después se discuten acciones.\n\nSaltarse la capa Impacto/Recepción suele producir “soluciones” que aumentan IRDE y colapsan PS/Confianza.\n\nRiesgo de esencializar el “telos”\n\n“Fines trascendentes” deben tratarse como hipótesis auditables (ANA), no como dogma.\n\nSi hay pluralidad de fines legítimos, MACEC debe mapearlos (stakeholders/audiencias) en vez de imponer uno.\n\nDatos sensibles / privacidad\n\nEvitar doxxing, persecución, perfilamiento ilegal o invasivo.\n\nOSINT sí, pero con minimización de datos, trazabilidad y validación cruzada.\n\nConfundir “ruido” con “enemigo”\n\nEl modelo distingue ruido contextual (RC/INR) de adversario.\n\nTratar disenso legítimo como “ruido a eliminar” suele disparar Bext(t), degradar confianza y aumentar escalada.\n\nMACEC no reemplaza gobernanza\n\nSi el problema es estructural (corrupción, abuso, incumplimiento), MACEC lo detecta como incoherencia; pero no lo resuelve con narrativa.\n\nNarrativa sin corrección estructural = riesgo de colapso acelerado (Impacto/Recepción detecta esto).\n\nGuardrails mínimos recomendados\n\nSiempre reportar: supuestos, fuentes, sesgos posibles, y “qué podría falsar esta conclusión”.\n\nObligatoriedad de Post-VDA cuando haya señales de manipulación, coerción o alta polarización.",
           "Unnamed: 1": null,
           "Unnamed: 2": null,
@@ -1423,6 +1385,29 @@
         "Limitaciones Conocidas"
       ],
       "data": [
+        {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
         {
           "Número": 1,
           "Sigla": "ELS",
@@ -8580,6 +8565,27 @@
       ],
       "data": [
         {
+          "Clase de Conflicto": "Clase de Conflicto",
+          "Categoría": "Categoría",
+          "Escala": "Escala",
+          "Contexto": "Contexto",
+          "Nivel_Primario": "Nivel_Primario",
+          "Primer Bloque - Anamnésis": "Primer Bloque - Anamnésis",
+          "Segundo Bloque - Módulo de Análisis Climático - MACLIMA": "Segundo Bloque - Módulo de Análisis Climático - MACLIMA",
+          "Sub Categoría 1": "Sub Categoría 1",
+          "Sub Categoría 2": "Sub Categoría 2",
+          "Sub Categoría 3": "Sub Categoría 3",
+          "Sub Categoría 4": "Sub Categoría 4",
+          "Sub Categoría 5": "Sub Categoría 5",
+          "Sub Categoría 6": "Sub Categoría 6",
+          "Sub Categoría 7": "Sub Categoría 7",
+          "Requiere Análisis Post VDA": "Requiere Análisis Post VDA",
+          "Análisis Post VDA": "Análisis Post VDA",
+          "Análisis Cosmosemiótico Final": "Análisis Cosmosemiótico Final",
+          "Resumen Ejecutivo": "Resumen Ejecutivo",
+          "Notas": "Notas"
+        },
+        {
           "Clase de Conflicto": "Guerra",
           "Categoría": "Híbrida",
           "Escala": "Internacional",
@@ -8876,7 +8882,7 @@
       ]
     },
     "MACLIMA": {
-      "rows": 15,
+      "rows": 13,
       "columns": [
         "MÓDULO DE ANÁLISIS CLIMÁTICO - MACLIMA",
         "Unnamed: 1",
@@ -8901,6 +8907,29 @@
         "Unnamed: 20"
       ],
       "data": [
+        {
+          "MÓDULO DE ANÁLISIS CLIMÁTICO - MACLIMA": "MÓDULO DE ANÁLISIS CLIMÁTICO - MACLIMA",
+          "Unnamed: 1": "Unnamed: 1",
+          "Unnamed: 2": "Unnamed: 2",
+          "Unnamed: 3": "Unnamed: 3",
+          "Unnamed: 4": "Unnamed: 4",
+          "Unnamed: 5": "Unnamed: 5",
+          "Unnamed: 6": "Unnamed: 6",
+          "Unnamed: 7": "Unnamed: 7",
+          "Unnamed: 8": "Unnamed: 8",
+          "Unnamed: 9": "Unnamed: 9",
+          "Unnamed: 10": "Unnamed: 10",
+          "Unnamed: 11": "Unnamed: 11",
+          "Unnamed: 12": "Unnamed: 12",
+          "Unnamed: 13": "Unnamed: 13",
+          "Unnamed: 14": "Unnamed: 14",
+          "Unnamed: 15": "Unnamed: 15",
+          "Unnamed: 16": "Unnamed: 16",
+          "Unnamed: 17": "Unnamed: 17",
+          "Unnamed: 18": "Unnamed: 18",
+          "Unnamed: 19": "Unnamed: 19",
+          "Unnamed: 20": "Unnamed: 20"
+        },
         {
           "MÓDULO DE ANÁLISIS CLIMÁTICO - MACLIMA": "MACLIMA (Módulo de Análisis Climático Integrado) es el componente del RMD 2.0 que incorpora el clima como forzante sistémico transversal, sin convertirlo en conflicto ni reescribir las variables del modelo. Su función es medir el estado climático objetivo de un territorio (zona biogeográfica, ciclos macro, anomalías, estrés hídrico, eventos extremos, incendios y presión costera), sintetizarlo en un índice climático compuesto y traducirlo, mediante una matriz de coeficientes post-medición (MACC), en ajustes controlados sobre variables RMD previamente calculadas. MACLIMA se aplica después de la Anámnesis (ANA) y antes de los escenarios, permitiendo calibrar umbrales, sensibilidades y persistencias del análisis según el ambiente climático real, manteniendo trazabilidad, comparabilidad entre casos y evitando solapamientos con variables sociales, políticas o económicas.",
           "Unnamed: 1": null,
@@ -9178,52 +9207,6 @@
           "Unnamed: 20": "No crea variables"
         },
         {
-          "MÓDULO DE ANÁLISIS CLIMÁTICO - MACLIMA": null,
-          "Unnamed: 1": null,
-          "Unnamed: 2": null,
-          "Unnamed: 3": null,
-          "Unnamed: 4": null,
-          "Unnamed: 5": null,
-          "Unnamed: 6": null,
-          "Unnamed: 7": null,
-          "Unnamed: 8": null,
-          "Unnamed: 9": null,
-          "Unnamed: 10": null,
-          "Unnamed: 11": null,
-          "Unnamed: 12": null,
-          "Unnamed: 13": null,
-          "Unnamed: 14": null,
-          "Unnamed: 15": null,
-          "Unnamed: 16": null,
-          "Unnamed: 17": null,
-          "Unnamed: 18": null,
-          "Unnamed: 19": null,
-          "Unnamed: 20": null
-        },
-        {
-          "MÓDULO DE ANÁLISIS CLIMÁTICO - MACLIMA": null,
-          "Unnamed: 1": null,
-          "Unnamed: 2": null,
-          "Unnamed: 3": null,
-          "Unnamed: 4": null,
-          "Unnamed: 5": null,
-          "Unnamed: 6": null,
-          "Unnamed: 7": null,
-          "Unnamed: 8": null,
-          "Unnamed: 9": null,
-          "Unnamed: 10": null,
-          "Unnamed: 11": null,
-          "Unnamed: 12": null,
-          "Unnamed: 13": null,
-          "Unnamed: 14": null,
-          "Unnamed: 15": null,
-          "Unnamed: 16": null,
-          "Unnamed: 17": null,
-          "Unnamed: 18": null,
-          "Unnamed: 19": null,
-          "Unnamed: 20": null
-        },
-        {
           "MÓDULO DE ANÁLISIS CLIMÁTICO - MACLIMA": "Listado Blanco de Variables RMD\n\nVariables elegibles para ajuste por MACC / MatCoefClim\n\nCriterio general de inclusión\n\nUna variable RMD puede recibir coeficiente climático si y solo si:\n•\tEl clima modula su intensidad, umbral o persistencia,\n•\tpero no la define por sí mismo,\n•\ty no es una variable puramente simbólica, normativa o narrativa.\n \n1. Bloque Social\n\n✅ Elegibles\n•\tICS — Índice de Conflictividad Social\n(el clima puede aumentar irritabilidad, fatiga y frecuencia de eventos)\n•\tIPS — Índice de Presión Social\n(estrés hídrico, alza de costos, pérdida productiva)\n•\tIAH — Índice de Agotamiento Humano\n(olas de calor, escasez de agua, estrés ambiental crónico)\n•\tTMS — Tensión de Movilización Social\n(el clima reduce umbrales de activación, no crea la movilización)\n\n❌ No elegibles\n•\tVariables identitarias, culturales o simbólicas puras\n•\tVariables de ideología o adscripción política directa\n \n2. Bloque Económico / Productivo\n\n✅ Elegibles\n•\tIIEC — Impacto Económico del Conflicto\n(clima amplifica pérdidas, pero no define el conflicto)\n•\tIPE — Índice de Presión Económica\n(alimentos, agua, energía, empleo estacional)\n•\tIVP — Índice de Vulnerabilidad Productiva\n(agricultura, minería, turismo, energía)\n•\tIDE — Índice de Disrupción Económica\n(eventos extremos, incendios, sequía prolongada)\n\n❌ No elegibles\n•\tVariables financieras puras (tipo de cambio, deuda soberana directa)\n•\tVariables macroeconómicas estructurales de largo plazo\n \n3. Bloque Territorial / Infraestructura (MICR)\n\n✅ Elegibles\n•\tMICR — Matriz de Infraestructura Crítica (subcomponentes)\no\tAgua potable / APR\no\tEmbalses / riego\no\tCaminos y conectividad\no\tInfraestructura energética expuesta\no\tInfraestructura costera (puertos, borde urbano)\n•\tIVT — Índice de Vulnerabilidad Territorial\n•\tIRT — Índice de Riesgo Territorial\n\n❌ No elegibles\n•\tInfraestructura digital pura (salvo dependencia energética directa)\n•\tInfraestructura militar estratégica (salvo casos muy específicos)\n \n4. Bloque Seguridad / Criminalidad\n\n✅ Elegibles\n•\tIOC — Índice de Oportunidad Criminal\n(ventanas climáticas facilitan delitos oportunistas)\n•\tIVD — Índice de Violencia Dispersa\n(estrés ambiental como amplificador, no como causa)\n•\tIPT — Índice de Presión Territorial\n(disputa por recursos, agua, control espacial)\n\n❌ No elegibles\n•\tVariables de crimen organizado estructural\n•\tVariables de terrorismo ideológico\n \n5. Bloque METECO (Ecosistémico–Colectivo)\n\n✅ Elegibles \n(con cautela)\n•\tIDCE — Índice de Daño Colectivo Ecosistémico\n(solo como amplificación, no como doble conteo)\n•\tIVC — Índice de Vulnerabilidad Colectiva\n\n⚠️ Regla clave:\nMACC no sustituye METECO, solo ajusta su peso cuando el clima acelera procesos ya medidos.\n \n6. Bloque Cosmosemiótico\n\n✅ Elegibles \n(indirectamente)\n•\tICR — Índice de Conversión de Ruido\n(eventos climáticos pueden transformar ruido en sentido)\n•\tIRDE — Índice de Riesgo de Desviación Ética\n(uso político del clima, catastrofismo, oportunismo)\n\n❌ No elegibles\n•\tIEOS — Eficiencia de Operadores Semióticos\n(es estructural, no climática)\n \n7. Metavariables RMD\n\n❌ No elegibles (explícitamente excluidas)\n•\tANA — Anámnesis Histórica Analítica\n•\tVDA — Variable de Disenso Automático\n•\tIGRMD — Índice Global RMD\n\nJustificación:\nEstas variables cierran o abren el modelo; no deben ser moduladas por clima.\n \n8. Regla de Oro MACC (para el manual)\n\nMACC solo ajusta variables que ya existen,\nnunca crea variables nuevas,\ny nunca se aplica a todo el modelo.\n\nSiempre debe existir:\n•\tjustificación explícita,\n•\tvariable MACLIMA que activa el coeficiente,\n•\ty trazabilidad del ajuste.",
           "Unnamed: 1": null,
           "Unnamed: 2": null,
@@ -9274,6 +9257,29 @@
         "Limitaciones Conocidas"
       ],
       "data": [
+        {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
         {
           "Número": 76,
           "Sigla": "IRT",
@@ -9394,6 +9400,29 @@
         "Limitaciones Conocidas"
       ],
       "data": [
+        {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
         {
           "Número": 190,
           "Sigla": "Iver",
@@ -9607,6 +9636,29 @@
       ],
       "data": [
         {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
+        {
           "Número": 103,
           "Sigla": "VDA",
           "Nombre": "Variable de Disenso Automático",
@@ -9749,6 +9801,29 @@
         "Limitaciones Conocidas"
       ],
       "data": [
+        {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
         {
           "Número": 206,
           "Sigla": "CAMO",
@@ -9962,6 +10037,29 @@
       ],
       "data": [
         {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
+        {
           "Número": 207,
           "Sigla": "ICCib",
           "Nombre": "Índice de Capacidad Ciberoperativa",
@@ -10171,6 +10269,27 @@
         "Limitaciones Conocidas"
       ],
       "data": [
+        {
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
         {
           "Nombre": "Espacios Lúdicos Seguros",
           "Tipo": "Variable",
@@ -10410,6 +10529,29 @@
       ],
       "data": [
         {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
+        {
           "Número": 185,
           "Sigla": "ISatCH",
           "Nombre": "Índice de Saturación en Comunicación Horizontal",
@@ -10529,6 +10671,29 @@
         "Limitaciones Conocidas"
       ],
       "data": [
+        {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
         {
           "Número": 56,
           "Sigla": "ICIP",
@@ -10741,6 +10906,29 @@
         "Limitaciones Conocidas"
       ],
       "data": [
+        {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
         {
           "Número": 12,
           "Sigla": "Iinf",
@@ -11092,6 +11280,29 @@
       ],
       "data": [
         {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
+        {
           "Número": 83,
           "Sigla": "IAAP",
           "Nombre": "Índice de Acción Armada Popular",
@@ -11280,6 +11491,29 @@
         "Limitaciones Conocidas"
       ],
       "data": [
+        {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
         {
           "Número": 35,
           "Sigla": "IDM",
@@ -11470,6 +11704,29 @@
       ],
       "data": [
         {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
+        {
           "Número": 33,
           "Sigla": "IDIde",
           "Nombre": "Índice de Delincuencia Ideológica",
@@ -11613,6 +11870,29 @@
       ],
       "data": [
         {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
+        {
           "Número": 178,
           "Sigla": "TPD",
           "Nombre": "Tasa de Propagación Discursiva",
@@ -11755,6 +12035,29 @@
         "Limitaciones Conocidas"
       ],
       "data": [
+        {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
         {
           "Número": 54,
           "Sigla": "TIEest",
@@ -12017,6 +12320,33 @@
         "Unnamed: 24"
       ],
       "data": [
+        {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas",
+          "Unnamed: 21": "Unnamed: 21",
+          "Unnamed: 22": "Unnamed: 22",
+          "Unnamed: 23": "Unnamed: 23",
+          "Unnamed: 24": "Unnamed: 24"
+        },
         {
           "Número": 86,
           "Sigla": "ICInst",
@@ -12343,6 +12673,29 @@
       ],
       "data": [
         {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
+        {
           "Número": 31,
           "Sigla": "IAC",
           "Nombre": "Índice de Adaptación Cultural",
@@ -12554,6 +12907,29 @@
         "Limitaciones Conocidas"
       ],
       "data": [
+        {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
         {
           "Número": 263,
           "Sigla": "IDMD",
@@ -12813,6 +13189,29 @@
       ],
       "data": [
         {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
+        {
           "Número": 241,
           "Sigla": "IVC",
           "Nombre": "Índice de Víctimas Colaterales",
@@ -13071,6 +13470,29 @@
       ],
       "data": [
         {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
+        {
           "Número": 114,
           "Sigla": "IAMul",
           "Nombre": "Índice de Aceptación Multicultural",
@@ -13306,6 +13728,29 @@
       ],
       "data": [
         {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
+        {
           "Número": 209,
           "Sigla": "IIN",
           "Nombre": "Índice de Influencia Narrativa",
@@ -13494,6 +13939,29 @@
         "Limitaciones Conocidas"
       ],
       "data": [
+        {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
         {
           "Número": 2,
           "Sigla": "IAH",
@@ -13730,6 +14198,29 @@
       ],
       "data": [
         {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
+        {
           "Número": 176,
           "Sigla": "PI",
           "Nombre": "Potencial Insurreccional",
@@ -13872,6 +14363,29 @@
         "Limitaciones Conocidas"
       ],
       "data": [
+        {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
         {
           "Número": 29,
           "Sigla": "TMS",
@@ -14154,6 +14668,29 @@
       ],
       "data": [
         {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
+        {
           "Número": 257,
           "Sigla": "IIL",
           "Nombre": "Índice de Impacto de Liderazgo",
@@ -14319,6 +14856,29 @@
         "Limitaciones Conocidas"
       ],
       "data": [
+        {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
         {
           "Número": 34,
           "Sigla": "IDis",
@@ -14532,6 +15092,29 @@
       ],
       "data": [
         {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
+        {
           "Número": 6,
           "Sigla": "ICEnt",
           "Nombre": "Índice de Ceguera Entrópica",
@@ -14674,6 +15257,29 @@
         "Limitaciones Conocidas"
       ],
       "data": [
+        {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
         {
           "Número": 118,
           "Sigla": "IAR",
@@ -14979,6 +15585,29 @@
       ],
       "data": [
         {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
+        {
           "Número": 136,
           "Sigla": "IPR",
           "Nombre": "Índice de Penetración Regional",
@@ -15259,6 +15888,29 @@
         "Limitaciones Conocidas"
       ],
       "data": [
+        {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
         {
           "Número": 87,
           "Sigla": "ICLI",
@@ -15564,6 +16216,29 @@
       ],
       "data": [
         {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
+        {
           "Número": 124,
           "Sigla": "ICOP",
           "Nombre": "Índice de Conocimiento Político",
@@ -15845,6 +16520,29 @@
       ],
       "data": [
         {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
+        {
           "Número": 210,
           "Sigla": "IRL",
           "Nombre": "Índice de Resiliencia Logística",
@@ -16011,6 +16709,29 @@
       ],
       "data": [
         {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
+        {
           "Número": 251,
           "Sigla": "ISA",
           "Nombre": "Índice de Simbolismo Arquetípico",
@@ -16176,6 +16897,29 @@
         "Limitaciones Conocidas"
       ],
       "data": [
+        {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
         {
           "Número": 198,
           "Sigla": "FC",
@@ -16389,6 +17133,29 @@
       ],
       "data": [
         {
+          "Número": "Número",
+          "Sigla": "Sigla",
+          "Nombre": "Nombre",
+          "Tipo": "Tipo",
+          "Categoría": "Categoría",
+          "Sub Categorías para Análisis y Gráficos": "Sub Categorías para Análisis y Gráficos",
+          "Fórmula SharePoint": "Fórmula SharePoint",
+          "Descripción Técnica": "Descripción Técnica",
+          "Descripción No Técnica": "Descripción No Técnica",
+          "Tipo de Dato": "Tipo de Dato",
+          "Dependencias": "Dependencias",
+          "Lista Externa": "Lista Externa",
+          "Fuentes": "Fuentes",
+          "Fundamentación Teórica": "Fundamentación Teórica",
+          "Metodología y Validez de Fuentes": "Metodología y Validez de Fuentes",
+          "Rango de Factores de Ajuste": "Rango de Factores de Ajuste",
+          "Instrucciones de Uso y Notas": "Instrucciones de Uso y Notas",
+          "Sugerencias de Visualización": "Sugerencias de Visualización",
+          "Ejemplos Históricos": "Ejemplos Históricos",
+          "Relaciones con Otras Variables": "Relaciones con Otras Variables",
+          "Limitaciones Conocidas": "Limitaciones Conocidas"
+        },
+        {
           "Número": 22,
           "Sigla": "Itur",
           "Nombre": "Índice de Turbulencia",
@@ -16575,7 +17342,7 @@
       ]
     },
     "Cosmosemiótica": {
-      "rows": 37,
+      "rows": 36,
       "columns": [
         "Consideraciones Metodológicas previas al desarrollo de Análisis Cosmosemiótico (Cierre del Análisis)",
         "Unnamed: 1",
@@ -16600,6 +17367,29 @@
         "Unnamed: 20"
       ],
       "data": [
+        {
+          "Consideraciones Metodológicas previas al desarrollo de Análisis Cosmosemiótico (Cierre del Análisis)": "Consideraciones Metodológicas previas al desarrollo de Análisis Cosmosemiótico (Cierre del Análisis)",
+          "Unnamed: 1": "Unnamed: 1",
+          "Unnamed: 2": "Unnamed: 2",
+          "Unnamed: 3": "Unnamed: 3",
+          "Unnamed: 4": "Unnamed: 4",
+          "Unnamed: 5": "Unnamed: 5",
+          "Unnamed: 6": "Unnamed: 6",
+          "Unnamed: 7": "Unnamed: 7",
+          "Unnamed: 8": "Unnamed: 8",
+          "Unnamed: 9": "Unnamed: 9",
+          "Unnamed: 10": "Unnamed: 10",
+          "Unnamed: 11": "Unnamed: 11",
+          "Unnamed: 12": "Unnamed: 12",
+          "Unnamed: 13": "Unnamed: 13",
+          "Unnamed: 14": "Unnamed: 14",
+          "Unnamed: 15": "Unnamed: 15",
+          "Unnamed: 16": "Unnamed: 16",
+          "Unnamed: 17": "Unnamed: 17",
+          "Unnamed: 18": "Unnamed: 18",
+          "Unnamed: 19": "Unnamed: 19",
+          "Unnamed: 20": "Unnamed: 20"
+        },
         {
           "Consideraciones Metodológicas previas al desarrollo de Análisis Cosmosemiótico (Cierre del Análisis)": "Nº",
           "Unnamed: 1": "Variable",
@@ -16832,29 +17622,6 @@
         },
         {
           "Consideraciones Metodológicas previas al desarrollo de Análisis Cosmosemiótico (Cierre del Análisis)": "Variables Cosmosemióticas + ANA y IGRMD",
-          "Unnamed: 1": null,
-          "Unnamed: 2": null,
-          "Unnamed: 3": null,
-          "Unnamed: 4": null,
-          "Unnamed: 5": null,
-          "Unnamed: 6": null,
-          "Unnamed: 7": null,
-          "Unnamed: 8": null,
-          "Unnamed: 9": null,
-          "Unnamed: 10": null,
-          "Unnamed: 11": null,
-          "Unnamed: 12": null,
-          "Unnamed: 13": null,
-          "Unnamed: 14": null,
-          "Unnamed: 15": null,
-          "Unnamed: 16": null,
-          "Unnamed: 17": null,
-          "Unnamed: 18": null,
-          "Unnamed: 19": null,
-          "Unnamed: 20": null
-        },
-        {
-          "Consideraciones Metodológicas previas al desarrollo de Análisis Cosmosemiótico (Cierre del Análisis)": null,
           "Unnamed: 1": null,
           "Unnamed: 2": null,
           "Unnamed: 3": null,
@@ -17465,6 +18232,14 @@
       ],
       "data": [
         {
+          "MAPAR-S — Módulo de Análisis de Personalidad de Alto Riesgo / Alta Complejidad (Integrado en RMD 2.0)": "MAPAR-S — Módulo de Análisis de Personalidad de Alto Riesgo / Alta Complejidad (Integrado en RMD 2.0)",
+          "Unnamed: 1": null,
+          "Unnamed: 2": null,
+          "Unnamed: 3": null,
+          "Unnamed: 4": null,
+          "Unnamed: 5": null
+        },
+        {
           "MAPAR-S — Módulo de Análisis de Personalidad de Alto Riesgo / Alta Complejidad (Integrado en RMD 2.0)": "Flujo obligatorio (no heurístico): MiE (10 fases) → ANA (299) → Selección de variables por etapa → Cálculo de métricas → Post-VDA → Cosmosemiótica (277–300) → Resumen Ejecutivo extendido.",
           "Unnamed: 1": null,
           "Unnamed: 2": null,
@@ -17611,7 +18386,7 @@
       ]
     },
     "MAPAR-S_Arbol": {
-      "rows": 13,
+      "rows": 12,
       "columns": [
         "Árbol de escalamiento MAPAR-S (borde → radicalización → terror como medio)",
         "Unnamed: 1",
@@ -17624,7 +18399,7 @@
       ],
       "data": [
         {
-          "Árbol de escalamiento MAPAR-S (borde → radicalización → terror como medio)": null,
+          "Árbol de escalamiento MAPAR-S (borde → radicalización → terror como medio)": "Árbol de escalamiento MAPAR-S (borde → radicalización → terror como medio)",
           "Unnamed: 1": null,
           "Unnamed: 2": null,
           "Unnamed: 3": null,
@@ -17781,6 +18556,29 @@
         "Unnamed: 20"
       ],
       "data": [
+        {
+          "Pool de Variables/Métricas MAPAR-S (selección por etapa). Extraído de 'Variables y Métricas Completas'.": "Pool de Variables/Métricas MAPAR-S (selección por etapa). Extraído de 'Variables y Métricas Completas'.",
+          "Unnamed: 1": null,
+          "Unnamed: 2": null,
+          "Unnamed: 3": null,
+          "Unnamed: 4": null,
+          "Unnamed: 5": null,
+          "Unnamed: 6": null,
+          "Unnamed: 7": null,
+          "Unnamed: 8": null,
+          "Unnamed: 9": null,
+          "Unnamed: 10": null,
+          "Unnamed: 11": null,
+          "Unnamed: 12": null,
+          "Unnamed: 13": null,
+          "Unnamed: 14": null,
+          "Unnamed: 15": null,
+          "Unnamed: 16": null,
+          "Unnamed: 17": null,
+          "Unnamed: 18": null,
+          "Unnamed: 19": null,
+          "Unnamed: 20": null
+        },
         {
           "Pool de Variables/Métricas MAPAR-S (selección por etapa). Extraído de 'Variables y Métricas Completas'.": "Criterio: sobre-inclusión para evitar omisiones; la selección fina ocurre en MAPAR-S_Matriz.",
           "Unnamed: 1": null,
@@ -19868,6 +20666,17 @@
       ],
       "data": [
         {
+          "Matriz MAPAR-S por etapa (selección de variables existentes + derivados internos; trazabilidad obligatoria).": "Matriz MAPAR-S por etapa (selección de variables existentes + derivados internos; trazabilidad obligatoria).",
+          "Unnamed: 1": null,
+          "Unnamed: 2": null,
+          "Unnamed: 3": null,
+          "Unnamed: 4": null,
+          "Unnamed: 5": null,
+          "Unnamed: 6": null,
+          "Unnamed: 7": null,
+          "Unnamed: 8": null
+        },
+        {
           "Matriz MAPAR-S por etapa (selección de variables existentes + derivados internos; trazabilidad obligatoria).": "Etapa MAPAR-S",
           "Unnamed: 1": "Objetivo",
           "Unnamed: 2": "Variables/Métricas (Siglas)",
@@ -20035,16 +20844,15 @@
       ]
     },
     "Resumen Ejecutivo": {
-      "rows": 0,
+      "rows": 1,
       "columns": [
-        "INSTRUCCIÓN PARA GENERAR RESUMEN EJECUTIVO DEL ANÁLISIS RMD 2.0\n\nAl finalizar el Protocolo de Análisis, al desarrollo realizado se debe aplicar esta instrucción final (promt):\n\n\"Actúa como un analista experto y comunicador técnico. Tu objetivo es redactar un resumen ejecutivo del trabajo de análisis sobre lo que hemos desarrollado antes.\n\nEl lector es una persona con alto nivel educativo y capacidad analítica, pero que no ha estado involucrada en el proceso de investigación ni tiene acceso a la bibliografía especializada. Por lo tanto, no conoce los acrónimos, tecnicismos avanzados o conceptos específicos del tema en estudio. \n\nInstrucciones de Redacción:\n\n1.\tClaridad sobre Jerga: Cada vez que utilices un acrónimo, término técnico o concepto avanzado, debes explicarlo.\n\n2.\tMétodos de Definición: Evalúa según la complejidad:\no\tSi es breve, define el término directamente en el texto (entre paréntesis o comas).\no\tSi el concepto requiere más contexto para no interrumpir el flujo, añade una nota al pie o al final del capítulo.\no\tSi hay más de 5 términos clave, genera un glosario claro al final del resumen, sobre todo en referencia a métricas como índices asociados a esquizes.\n\n3.\tTono: Profesional, objetivo y fluido. Evita simplificar el contenido (no trates al lector como un principiante), simplifica únicamente el lenguaje técnico.\n\nEstructura del Resumen:\n\n•\tContexto y objetivo del análisis.\n•\tMetodología (explicada de forma conceptual).\n•\tHallazgos principales.\n•\tConclusiones y recomendaciones.\n\nExtensión deseada: “alrededor de 3,000 palabras.”\n\nFormato de salida: “Asume un documento con papel tamaño A4, fuente de 12 puntos Times New Roman y con interlineado de espacio 1.5. Debe poderse copiar y pegar en un documento Word para convertir a pdf. \"Usa viñetas para los hallazgos clave\".\n\nLista de 'sospechosos habituales': \n\n•\t\"Presta especial atención a términos o métricas de RMD o MIE, cuyo significado, cómo se calcula y cuál es su propósito deben definirse claramente en el glosario. \n\n•\tPor ningún motivo debe indicarse un valor de índice RMD como la conclusión, puesto que números carecen de significado sin un contexto. Para ayudar en la comprensión, el índice debe ser explicado y contextualizado “."
+        "text"
       ],
-      "data": []
+      "data": [
+        {
+          "text": "INSTRUCCIÓN PARA GENERAR RESUMEN EJECUTIVO DEL ANÁLISIS RMD 2.0\n\nAl finalizar el Protocolo de Análisis, al desarrollo realizado se debe aplicar esta instrucción final (promt):\n\n\"Actúa como un analista experto y comunicador técnico. Tu objetivo es redactar un resumen ejecutivo del trabajo de análisis sobre lo que hemos desarrollado antes.\n\nEl lector es una persona con alto nivel educativo y capacidad analítica, pero que no ha estado involucrada en el proceso de investigación ni tiene acceso a la bibliografía especializada. Por lo tanto, no conoce los acrónimos, tecnicismos avanzados o conceptos específicos del tema en estudio. \n\nInstrucciones de Redacción:\n\n1.\tClaridad sobre Jerga: Cada vez que utilices un acrónimo, término técnico o concepto avanzado, debes explicarlo.\n\n2.\tMétodos de Definición: Evalúa según la complejidad:\no\tSi es breve, define el término directamente en el texto (entre paréntesis o comas).\no\tSi el concepto requiere más contexto para no interrumpir el flujo, añade una nota al pie o al final del capítulo.\no\tSi hay más de 5 términos clave, genera un glosario claro al final del resumen, sobre todo en referencia a métricas como índices asociados a esquizes.\n\n3.\tTono: Profesional, objetivo y fluido. Evita simplificar el contenido (no trates al lector como un principiante), simplifica únicamente el lenguaje técnico.\n\nEstructura del Resumen:\n\n•\tContexto y objetivo del análisis.\n•\tMetodología (explicada de forma conceptual).\n•\tHallazgos principales.\n•\tConclusiones y recomendaciones.\n\nExtensión deseada: “alrededor de 3,000 palabras.”\n\nFormato de salida: “Asume un documento con papel tamaño A4, fuente de 12 puntos Times New Roman y con interlineado de espacio 1.5. Debe poderse copiar y pegar en un documento Word para convertir a pdf. \"Usa viñetas para los hallazgos clave\".\n\nLista de 'sospechosos habituales': \n\n•\t\"Presta especial atención a términos o métricas de RMD o MIE, cuyo significado, cómo se calcula y cuál es su propósito deben definirse claramente en el glosario. \n\n•\tPor ningún motivo debe indicarse un valor de índice RMD como la conclusión, puesto que números carecen de significado sin un contexto. Para ayudar en la comprensión, el índice debe ser explicado y contextualizado “."
+        }
+      ]
     }
-  },
-  "validation": {
-    "notes": [
-      "Regenerado desde REV2.xlsx con actualización EMOESTRESS (Pool/Matriz/Protocolo)."
-    ]
   }
 }
