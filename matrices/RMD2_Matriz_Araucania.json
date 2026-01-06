@@ -1,8 +1,8 @@
 {
   "meta": {
-    "dataset": "Matriz Araucanía RMD 2.0 (consolidada benchmark 2025=69)",
+    "dataset": "Matriz Araucanía RMD 2.0",
     "source_file": "https://github.com/RSTChile/RMD/blob/main/docs/RMD2_Matriz_Araucania.xlsx",
-    "rows": 317,
+    "rows": 318,
     "columns": [
       "Número",
       "Evento",
@@ -28,7 +28,9 @@
       "Año_Mes",
       "Intensidad_num",
       "ISN_RMD"
-    ]
+    ],
+    "last_update": "2026-01-06",
+    "update_note": "Se agregó evento 2026-01-02 (Nueva Imperial, La Junta) con triangulación OSINT."
   },
   "data": [
     {
@@ -8272,6 +8274,32 @@
       "Año_Mes": "2025-12",
       "Intensidad_num": 1.0,
       "ISN_RMD": 33.33333333333333
+    },
+    {
+      "Número": 318,
+      "Evento": "Atentado incendiario: queman 2 máquinas excavadoras en sector La Junta",
+      "Fecha_serial": 46024.0,
+      "Fecha": 46024.0,
+      "Ubicación": "Nueva Imperial",
+      "Tipo1": "Ataque incendiario",
+      "Latitud": null,
+      "Longitud": null,
+      "LaDe": null,
+      "LoDe": null,
+      "Descripción": "Atentado incendiario en parcela destinada al acopio de áridos en el sector rural La Junta. Dos máquinas excavadoras resultaron destruidas (separadas aprox. 500 m). Fiscalía instruyó diligencias a BIPE y Laboratorio de Criminalística PDI; sin lienzos ni mensajes de atribución.",
+      "Notas": "Actualización 2026 (OSINT triangulado).",
+      "Fuente": "Acoforag (02/01/2026) https://www.acoforag.cl/es/noticias/2026/1/2/primer-atentado-del-ano-en-la-araucania-deja-dos-maquinas-destruidas/ | Emol (02/01/2026) https://www.emol.com/noticias/Nacional/2026/01/02/1187436/atentado-incendiario--la-araucania.html | AraucaniaDiario (03/01/2026) https://araucaniadiario.cl/contenido/31745/con-un-atentado-en-imperial-parte-el-ano-la-violencia-rural-en-la-araucania | ADN Radio (02/01/2026) https://www.adnradio.cl/2026/01/02/reportan-el-primer-atentado-incendiario-del-ano-en-la-araucania-dos-excavadoras-destruidas-en-nueva-imperial/",
+      "Atribuido/Revindicado": null,
+      "Tipo de elemento": null,
+      "Ruta de acceso": "Araucanía",
+      "Nivel de intensidad (MEPI)": null,
+      "Ponderación total (%) (MEPI)": null,
+      "Fecha_real": "2026-01-02",
+      "Año": 2026,
+      "Mes": 1,
+      "Año_Mes": "2026-01",
+      "Intensidad_num": null,
+      "ISN_RMD": null
     }
   ]
 }
