@@ -1,0 +1,1 @@
+1.0 no solo es relevante, sino esencial para comprender los conflictos sociales contemporáneos, y que el RMD

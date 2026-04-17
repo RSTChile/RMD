@@ -1,0 +1,1 @@
+15.1 Fundamentos Teóricos: IA como “sorpresa evolutiva” en el 15.2 Aplicaciones prácticas: como IA ayuda a jugar mejor en el tablero

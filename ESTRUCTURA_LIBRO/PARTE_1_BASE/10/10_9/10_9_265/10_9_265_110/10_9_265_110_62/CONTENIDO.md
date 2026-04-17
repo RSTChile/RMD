@@ -1,0 +1,1 @@
+10.9 Construcción de la Matriz de Análisis (265 ítems x 110 variables y 62 métricas políticas)

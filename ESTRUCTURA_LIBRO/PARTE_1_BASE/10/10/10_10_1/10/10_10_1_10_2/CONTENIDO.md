@@ -1,0 +1,1 @@
+Capítulo 10: Variables del 10.1 Introducción a las Variables del 10.2 Fundamentos Teóricos y Metodológicos

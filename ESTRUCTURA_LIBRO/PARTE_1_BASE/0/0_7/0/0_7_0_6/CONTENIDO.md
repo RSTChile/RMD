@@ -1,0 +1,2 @@
+0.7 y un impacto de 0.6, mide cómo la droga corrompe desde dentro, amplificando la disipación molecular.
+El análisis matricial integra estas facetas en un panorama que revela la fragilidad del sistema. El Escalamiento Total (ET) de

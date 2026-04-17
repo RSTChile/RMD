@@ -1,0 +1,1 @@
+14.2 Anticipaciones del RMD: predicciones cumplidas (2002-2021)

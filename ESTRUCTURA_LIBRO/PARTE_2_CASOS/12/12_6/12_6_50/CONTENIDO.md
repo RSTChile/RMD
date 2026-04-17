@@ -1,0 +1,1 @@
+12.6 Contexto Histórico: 50 Años de Proceso Revolucionario en Chile

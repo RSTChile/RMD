@@ -1,0 +1,1 @@
+Capítulo 13: Humanos e IA en el Tablero de Go: Aplicaciones del RMD 2.0 a Narrativas Ficticias

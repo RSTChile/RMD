@@ -1,0 +1,1 @@
+17.1 Estrategias de Adaptación

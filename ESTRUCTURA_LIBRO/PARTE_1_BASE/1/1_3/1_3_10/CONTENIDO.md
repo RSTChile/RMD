@@ -1,0 +1,1 @@
+1.3 Las 10 Fases del Método de Intelección Estratégica

@@ -1,0 +1,1 @@
+18.2.2 Aplicación de AlphaGo al Tablero Dinámico:

@@ -1,0 +1,1 @@
+18.2 La Teoría de Go como Marco Estratégico: El Tablero Dinámico

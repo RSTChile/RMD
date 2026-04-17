@@ -1,0 +1,1 @@
+12.9.2 Desarrollo fáctico y dinámicas observadas

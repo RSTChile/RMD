@@ -1,0 +1,1 @@
+Capítulo 20: Clases de Conflicto Analizados en el RMD 2.0 (Protocolo de Análisis)
