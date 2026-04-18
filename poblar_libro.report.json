@@ -1,0 +1,3253 @@
+{
+  "mode": "plan",
+  "clean_noise": false,
+  "partes": [
+    {
+      "parte": 1,
+      "txt": "RMD_PARTE1.txt",
+      "body_start_line": 1473,
+      "total_lines": 17665,
+      "chapters_found": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "chapters_missing_in_text": [],
+      "subheaders_found": 101,
+      "written": [
+        {
+          "path": "PARTE_1_BASE/CAP_1/CONTENIDO.md",
+          "node": "1",
+          "title": "FUNDAMENTOS DE LA DISIPACIÓN MOLECULAR",
+          "chars": 55,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_1/1_1/CONTENIDO.md",
+          "node": "1.1",
+          "title": "Origen y Contexto",
+          "chars": 10182,
+          "lines": 131
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_1/1_2/CONTENIDO.md",
+          "node": "1.2",
+          "title": "Conceptos Iniciales",
+          "chars": 9649,
+          "lines": 110
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_1/1_3/CONTENIDO.md",
+          "node": "1.3",
+          "title": "Las 10 Fases del Método de Intelección Estratégica",
+          "chars": 14695,
+          "lines": 189
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_1/1_4/CONTENIDO.md",
+          "node": "1.4",
+          "title": "Las 10 Fases del Proceso de Conquista Ideológica",
+          "chars": 12093,
+          "lines": 158
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_1/1_5/CONTENIDO.md",
+          "node": "1.5",
+          "title": "La disipación como Virus Molecular",
+          "chars": 7194,
+          "lines": 104
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_1/1_6/CONTENIDO.md",
+          "node": "1.6",
+          "title": "Las Máquinas de Guerra del Deconstruccionismo",
+          "chars": 7378,
+          "lines": 107
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_1/1_7/CONTENIDO.md",
+          "node": "1.7",
+          "title": "Las Variables y Métricas del RMD",
+          "chars": 13880,
+          "lines": 294
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_2/CONTENIDO.md",
+          "node": "2",
+          "title": "ZONAS DE ESPECIACIÓN CULTURAL (ZEC)",
+          "chars": 1277,
+          "lines": 15
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_2/2_1/CONTENIDO.md",
+          "node": "2.1",
+          "title": "Definición y Transición",
+          "chars": 3496,
+          "lines": 42
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_2/2_2/CONTENIDO.md",
+          "node": "2.2",
+          "title": "Casos de Estudio",
+          "chars": 3471,
+          "lines": 46
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_2/2_3/CONTENIDO.md",
+          "node": "2.3",
+          "title": "Zonas Autónomas Temporalmente Liberadas como Piedras Vivas",
+          "chars": 5944,
+          "lines": 97
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_2/2_4/CONTENIDO.md",
+          "node": "2.4",
+          "title": "Estructuras Horizontales: Los “Soviets” en Chile",
+          "chars": 8190,
+          "lines": 125
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_3/CONTENIDO.md",
+          "node": "3",
+          "title": "CONCEPCIÓN ECOLÓGICA Y POLITOLÓGICA",
+          "chars": 52,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_3/3_1/CONTENIDO.md",
+          "node": "3.1",
+          "title": "Clímax y Disclímax Cultural desde una Perspectiva Ecológica y Politológica",
+          "chars": 4509,
+          "lines": 73
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_3/3_2/CONTENIDO.md",
+          "node": "3.2",
+          "title": "Dinámicas de Poder: Interacciones Molar/Molecular y lo Político",
+          "chars": 3227,
+          "lines": 46
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_3/3_3/CONTENIDO.md",
+          "node": "3.3",
+          "title": "Disipación y Dinámicas Biológicas: Intersección entre Ecología Política y Politología",
+          "chars": 3629,
+          "lines": 81
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_4/CONTENIDO.md",
+          "node": "4",
+          "title": "LA DIVERSIDAD COMO ACERVO EVOLUTIVO",
+          "chars": 2465,
+          "lines": 27
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_4/4_1/CONTENIDO.md",
+          "node": "4.1",
+          "title": "Diversidad Genética y Cultural",
+          "chars": 2505,
+          "lines": 35
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_4/4_2/CONTENIDO.md",
+          "node": "4.2",
+          "title": "Ética de la Confrontación",
+          "chars": 1914,
+          "lines": 22
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_4/4_3/CONTENIDO.md",
+          "node": "4.3",
+          "title": "Resiliencia Cultural frente a Esquizes",
+          "chars": 2072,
+          "lines": 30
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_4/4_4/CONTENIDO.md",
+          "node": "4.4",
+          "title": "Fracturas Moleculares y Polarización Racial",
+          "chars": 2438,
+          "lines": 27
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_4/4_1/CONTENIDO.md",
+          "node": "4.1",
+          "title": "Diversidad Genética y",
+          "chars": 42,
+          "lines": 5
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_4/4_2/CONTENIDO.md",
+          "node": "4.2",
+          "title": "Ética de la",
+          "chars": 37,
+          "lines": 5
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_4/4_3/CONTENIDO.md",
+          "node": "4.3",
+          "title": "Resiliencia Cultural",
+          "chars": 31,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_4/4_4/CONTENIDO.md",
+          "node": "4.4",
+          "title": "Fracturas Moleculares",
+          "chars": 895,
+          "lines": 53
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_5/CONTENIDO.md",
+          "node": "5",
+          "title": "EL LENGUAJE ADAPTATIVO Y LA PSIQUE",
+          "chars": 3082,
+          "lines": 29
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_5/5_1/CONTENIDO.md",
+          "node": "5.1",
+          "title": "Lenguaje como Soplo Adaptativo",
+          "chars": 4452,
+          "lines": 92
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_5/5_2/CONTENIDO.md",
+          "node": "5.2",
+          "title": "Deconstrucción y Arquetipos",
+          "chars": 5743,
+          "lines": 98
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_5/5_3/CONTENIDO.md",
+          "node": "5.3",
+          "title": "Arquetipos Raciales y el Inconsciente Colectivo",
+          "chars": 2883,
+          "lines": 87
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_5/5_4/CONTENIDO.md",
+          "node": "5.4",
+          "title": "Deconstrucción de Narrativas Históricas",
+          "chars": 4944,
+          "lines": 98
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_5/5_1/CONTENIDO.md",
+          "node": "5.1",
+          "title": "Lenguaje como",
+          "chars": 31,
+          "lines": 5
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_5/5_2/CONTENIDO.md",
+          "node": "5.2",
+          "title": "Deconstrucción y",
+          "chars": 39,
+          "lines": 5
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_5/5_3/CONTENIDO.md",
+          "node": "5.3",
+          "title": "Arquetipos Raciales",
+          "chars": 30,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_5/5_4/CONTENIDO.md",
+          "node": "5.4",
+          "title": "Deconstrucción de",
+          "chars": 968,
+          "lines": 56
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_6/CONTENIDO.md",
+          "node": "6",
+          "title": "DESORGANIZACIÓN SOCIAL Y RESONANCIA SIMBÓLICA",
+          "chars": 1950,
+          "lines": 21
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_6/6_1/CONTENIDO.md",
+          "node": "6.1",
+          "title": "Dinámicas de Desorganización",
+          "chars": 3973,
+          "lines": 79
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_6/6_2/CONTENIDO.md",
+          "node": "6.2",
+          "title": "Simbolismo Político",
+          "chars": 4186,
+          "lines": 89
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_6/6_3/CONTENIDO.md",
+          "node": "6.3",
+          "title": "Símbolos en la Disipación: Emblemas Nacionales, Mapuche y Barras Bravas",
+          "chars": 6510,
+          "lines": 112
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_6/6_1/CONTENIDO.md",
+          "node": "6.1",
+          "title": "Dinámicas",
+          "chars": 37,
+          "lines": 5
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_6/6_2/CONTENIDO.md",
+          "node": "6.2",
+          "title": "Simbolismo Político",
+          "chars": 30,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_6/6_3/CONTENIDO.md",
+          "node": "6.3",
+          "title": "Símbolos en",
+          "chars": 767,
+          "lines": 46
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_7/CONTENIDO.md",
+          "node": "7",
+          "title": "FACTORES ECONÓMICOS EN LA DISIPACIÓN",
+          "chars": 3235,
+          "lines": 35
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_7/7_1/CONTENIDO.md",
+          "node": "7.1",
+          "title": "El Ciclo de Vida de Occidente",
+          "chars": 17297,
+          "lines": 435
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_7/7_2/CONTENIDO.md",
+          "node": "7.2",
+          "title": "Los Ciclos Imperiales",
+          "chars": 16656,
+          "lines": 305
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_7/7_3/CONTENIDO.md",
+          "node": "7.3",
+          "title": "El Ciclo de Vida de los Países de Occidente",
+          "chars": 12238,
+          "lines": 304
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_7/7_4/CONTENIDO.md",
+          "node": "7.4",
+          "title": "Los Ciclos Chilenos: Un Análisis desde 1541",
+          "chars": 82597,
+          "lines": 4486
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_7/7_5/CONTENIDO.md",
+          "node": "7.5",
+          "title": "Desigualdad, Crisis y Conflicto",
+          "chars": 4602,
+          "lines": 50
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_7/7_6/CONTENIDO.md",
+          "node": "7.6",
+          "title": "Impacto en la Disipación",
+          "chars": 3835,
+          "lines": 37
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_7/7_7/CONTENIDO.md",
+          "node": "7.7",
+          "title": "Influencia Transnacional de Organizaciones",
+          "chars": 7420,
+          "lines": 120
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_8/CONTENIDO.md",
+          "node": "8",
+          "title": "CULTURA E IDEOLOGÍA EN LA DISIPACIÓN",
+          "chars": 4614,
+          "lines": 52
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_8/8_1/CONTENIDO.md",
+          "node": "8.1",
+          "title": "Dinámicas Culturales",
+          "chars": 2989,
+          "lines": 30
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_8/8_2/CONTENIDO.md",
+          "node": "8.2",
+          "title": "Ideología y Polarización",
+          "chars": 2676,
+          "lines": 37
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_8/8_3/CONTENIDO.md",
+          "node": "8.3",
+          "title": "Estrategias Culturales de Resistencia",
+          "chars": 1440,
+          "lines": 17
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_8/8_4/CONTENIDO.md",
+          "node": "8.4",
+          "title": "Radicalización Molecular",
+          "chars": 3249,
+          "lines": 42
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_8/8_5/CONTENIDO.md",
+          "node": "8.5",
+          "title": "Polarización por el Deconstruccionismo",
+          "chars": 2530,
+          "lines": 27
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_8/8_6/CONTENIDO.md",
+          "node": "8.6",
+          "title": "Disclímax Cultural",
+          "chars": 4253,
+          "lines": 60
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_9/CONTENIDO.md",
+          "node": "9",
+          "title": "METODOLOGÍA Y ANÁLISIS ESTRATÉGICO",
+          "chars": 1892,
+          "lines": 21
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_9/9_1/CONTENIDO.md",
+          "node": "9.1",
+          "title": "Método de Intelección Estratégica",
+          "chars": 4411,
+          "lines": 54
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_9/9_2/CONTENIDO.md",
+          "node": "9.2",
+          "title": "The Protracted Game",
+          "chars": 4540,
+          "lines": 55
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_9/9_3/CONTENIDO.md",
+          "node": "9.3",
+          "title": "La campana de Gauss tridimensional y la Conquista Ideológica",
+          "chars": 4681,
+          "lines": 59
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_9/9_4/CONTENIDO.md",
+          "node": "9.4",
+          "title": "La Matriz de Comunicación Horizontal (METCOMH)",
+          "chars": 57,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_9/9_4/9_4_1/CONTENIDO.md",
+          "node": "9.4.1",
+          "title": "Introducción a METCOMH",
+          "chars": 6368,
+          "lines": 76
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_9/9_4/9_4_2/CONTENIDO.md",
+          "node": "9.4.2",
+          "title": "Fundamentación Teórica",
+          "chars": 6015,
+          "lines": 65
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_9/9_4/9_4_3/CONTENIDO.md",
+          "node": "9.4.3",
+          "title": "Componentes y Metodología de METCOMH",
+          "chars": 6254,
+          "lines": 79
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_9/9_4/9_4_4/CONTENIDO.md",
+          "node": "9.4.4",
+          "title": "Ajustes para Señales Débiles y Riesgos Extremos",
+          "chars": 3637,
+          "lines": 45
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_9/9_4/9_4_5/CONTENIDO.md",
+          "node": "9.4.5",
+          "title": "Aplicación Práctica de METCOMH",
+          "chars": 6115,
+          "lines": 64
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_9/9_4/9_4_6/CONTENIDO.md",
+          "node": "9.4.6",
+          "title": "Respuesta Ecosistémica frente a los Grafitis: Enfoque Preventivo y Coactivo",
+          "chars": 4710,
+          "lines": 55
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_9/9_4/9_4_7/CONTENIDO.md",
+          "node": "9.4.7",
+          "title": "Conclusión",
+          "chars": 9324,
+          "lines": 171
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_9/9_5/CONTENIDO.md",
+          "node": "9.5",
+          "title": "Clasificación de los Conflictos",
+          "chars": 10424,
+          "lines": 101
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_9/9_5/9_5_1/CONTENIDO.md",
+          "node": "9.5.1",
+          "title": "La insuficiencia de la dicotomía del Conflicto Simétrico/Asimétrico",
+          "chars": 25677,
+          "lines": 385
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_9/9_5/9_5_2/CONTENIDO.md",
+          "node": "9.5.2",
+          "title": "Propuesta de clasificación: Guerras Regulares e Irregulares, Prolongadas y Alargadas",
+          "chars": 14525,
+          "lines": 188
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_9/9_5/9_5_3/CONTENIDO.md",
+          "node": "9.5.3",
+          "title": "Taxonomía Politológica para la Clasificación de Conflictos",
+          "chars": 6814,
+          "lines": 95
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_9/9_5/9_5_4/CONTENIDO.md",
+          "node": "9.5.4",
+          "title": "Aplicación de la Taxonomía Politológica",
+          "chars": 3989,
+          "lines": 92
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_9/9_5/9_5_5/CONTENIDO.md",
+          "node": "9.5.5",
+          "title": "Árbol Taxonómico de los Conflictos Analizados",
+          "chars": 4007,
+          "lines": 118
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_9/9_5/9_5_6/CONTENIDO.md",
+          "node": "9.5.6",
+          "title": "Integración de las Variables de Asimetría y Compensación Subjetiva",
+          "chars": 11861,
+          "lines": 127
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_9/9_5/9_5_7/CONTENIDO.md",
+          "node": "9.5.7",
+          "title": "Utilidad de la Clasificación y Taxonomía para el RMD 2.0",
+          "chars": 9930,
+          "lines": 109
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_9/9_5/9_5_8/CONTENIDO.md",
+          "node": "9.5.8",
+          "title": "Ampliación de la Clasificación: Niveles de Conflicto y Perspectivas Prospectivas",
+          "chars": 9350,
+          "lines": 123
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_9/9_5/CONTENIDO.md",
+          "node": "9.5",
+          "title": "Por ejemplo:",
+          "chars": 3041,
+          "lines": 56
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_9/9_5/9_5_9/CONTENIDO.md",
+          "node": "9.5.9",
+          "title": "Conclusión: Utilidad de la Clasificación y Taxonomía para el RMD 2.0",
+          "chars": 26840,
+          "lines": 570
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_9/9_6/CONTENIDO.md",
+          "node": "9.6",
+          "title": "La Matriz de Infraestructura Crítica - MIC",
+          "chars": 14341,
+          "lines": 219
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_9/9_6/9_6_1/CONTENIDO.md",
+          "node": "9.6.1",
+          "title": "Crisis Infraestructurales: Apagones como Catalizadores de Disipación Molecular",
+          "chars": 5332,
+          "lines": 115
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_10/CONTENIDO.md",
+          "node": "10",
+          "title": "VARIABLES Y MÉTRICAS DEL RMD 2.0",
+          "chars": 50,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_10/10_1/CONTENIDO.md",
+          "node": "10.1",
+          "title": "Introducción a las Variables y Métricas del RMD 2.0",
+          "chars": 2112,
+          "lines": 22
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_10/10_2/CONTENIDO.md",
+          "node": "10.2",
+          "title": "Fundamentos Teóricos y Metodológicos",
+          "chars": 1994,
+          "lines": 22
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_10/10_3/CONTENIDO.md",
+          "node": "10.3",
+          "title": "Categorías y Tipos de Variables",
+          "chars": 2314,
+          "lines": 36
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_10/10_4/CONTENIDO.md",
+          "node": "10.4",
+          "title": "Detalle de las Variables y Métricas",
+          "chars": 12684,
+          "lines": 861
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_10/10_5/CONTENIDO.md",
+          "node": "10.5",
+          "title": "Proceso de Diseño y Evolución desde el RMD 1.6 (47 Variables) al RMD 2.0 (110 Variables)",
+          "chars": 4392,
+          "lines": 53
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_10/10_7/CONTENIDO.md",
+          "node": "10.7",
+          "title": "Fuentes de Datos",
+          "chars": 3009,
+          "lines": 57
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_10/10_8/CONTENIDO.md",
+          "node": "10.8",
+          "title": "Validación y Calibración de las Variables",
+          "chars": 2725,
+          "lines": 39
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_10/10_9/CONTENIDO.md",
+          "node": "10.9",
+          "title": "Construcción de la Matriz de Análisis (265 ítems x 110 variables y 62 métricas políticas)",
+          "chars": 101,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_10/10_10/CONTENIDO.md",
+          "node": "10.10",
+          "title": "Aplicación analítica en el RMD",
+          "chars": 190,
+          "lines": 12
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_11/CONTENIDO.md",
+          "node": "11",
+          "title": "LOS ESQUIZES DE DECONSTRUCCIÓN",
+          "chars": 6912,
+          "lines": 77
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_11/11_1/CONTENIDO.md",
+          "node": "11.1",
+          "title": "Taxonomía y Clasificación",
+          "chars": 9938,
+          "lines": 116
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_11/11_2/CONTENIDO.md",
+          "node": "11.2",
+          "title": "Introducción al Dominio de las Cosmovisiones",
+          "chars": 10811,
+          "lines": 128
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_11/11_3/CONTENIDO.md",
+          "node": "11.3",
+          "title": "Desarrollo de la Taxonomía:",
+          "chars": 39,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_11/11_3/11_3_1/CONTENIDO.md",
+          "node": "11.3.1",
+          "title": "Cosmovisión: Materialismo",
+          "chars": 39,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_11/11_3/11_3_1/11_3_1_1/CONTENIDO.md",
+          "node": "11.3.1.1",
+          "title": "Principio: Ilustración",
+          "chars": 5580,
+          "lines": 122
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_11/11_3/11_3_1/11_3_1_2/CONTENIDO.md",
+          "node": "11.3.1.2",
+          "title": "Principio: Positivismo",
+          "chars": 5168,
+          "lines": 109
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_11/11_3/11_3_1/11_3_1_3/CONTENIDO.md",
+          "node": "11.3.1.3",
+          "title": "Principio: Fenomenología",
+          "chars": 20774,
+          "lines": 499
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_11/11_1/11_1_3/11_1_3_4/CONTENIDO.md",
+          "node": "11.1.3.4",
+          "title": "Principio: Comunismo",
+          "chars": 50115,
+          "lines": 1246
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_11/11_3/11_3_1/11_3_1_5/CONTENIDO.md",
+          "node": "11.3.1.5",
+          "title": "Nihilismo",
+          "chars": 7605,
+          "lines": 189
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_11/11_3/11_3_1/11_3_1_6/CONTENIDO.md",
+          "node": "11.3.1.6",
+          "title": "Capitalismo",
+          "chars": 10991,
+          "lines": 289
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_11/11_3/11_3_1/11_3_1_7/CONTENIDO.md",
+          "node": "11.3.1.7",
+          "title": "Principio: Ecología Profunda",
+          "chars": 9345,
+          "lines": 215
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_11/11_3/11_3_1/11_3_1_8/CONTENIDO.md",
+          "node": "11.3.1.8",
+          "title": "Principio: Digitalismo",
+          "chars": 9293,
+          "lines": 214
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_11/11_3/11_3_2/CONTENIDO.md",
+          "node": "11.3.2",
+          "title": "Cosmovisión: Metafísica",
+          "chars": 37,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_11/11_3/11_3_2/11_3_2_1/CONTENIDO.md",
+          "node": "11.3.2.1",
+          "title": "Principio: Romanticismo",
+          "chars": 7886,
+          "lines": 179
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_11/11_3/11_3_2/11_3_2_2/CONTENIDO.md",
+          "node": "11.3.2.2",
+          "title": "Idealismo",
+          "chars": 9641,
+          "lines": 220
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_11/11_3/11_3_2/11_3_2_3/CONTENIDO.md",
+          "node": "11.3.2.3",
+          "title": "Principio: Nacionalismo",
+          "chars": 15089,
+          "lines": 351
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_11/11_4/CONTENIDO.md",
+          "node": "11.4",
+          "title": "Definición y Desarrollo de los Esquizes",
+          "chars": 20285,
+          "lines": 557
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_11/11_5/CONTENIDO.md",
+          "node": "11.5",
+          "title": "Impacto y Escalamiento de los Esquizes",
+          "chars": 10814,
+          "lines": 158
+        },
+        {
+          "path": "PARTE_1_BASE/CAP_11/11_6/CONTENIDO.md",
+          "node": "11.6",
+          "title": "Matriz de Análisis de los Esquizes",
+          "chars": 10401,
+          "lines": 188
+        }
+      ],
+      "created_dirs": [
+        "PARTE_1_BASE/CAP_2/2_1",
+        "PARTE_1_BASE/CAP_2/2_2",
+        "PARTE_1_BASE/CAP_2/2_3",
+        "PARTE_1_BASE/CAP_2/2_4",
+        "PARTE_1_BASE/CAP_3/3_1",
+        "PARTE_1_BASE/CAP_3/3_2",
+        "PARTE_1_BASE/CAP_3/3_3",
+        "PARTE_1_BASE/CAP_4/4_1",
+        "PARTE_1_BASE/CAP_4/4_2",
+        "PARTE_1_BASE/CAP_4/4_3",
+        "PARTE_1_BASE/CAP_4/4_4",
+        "PARTE_1_BASE/CAP_4/4_1",
+        "PARTE_1_BASE/CAP_4/4_2",
+        "PARTE_1_BASE/CAP_4/4_3",
+        "PARTE_1_BASE/CAP_4/4_4",
+        "PARTE_1_BASE/CAP_5/5_1",
+        "PARTE_1_BASE/CAP_5/5_2",
+        "PARTE_1_BASE/CAP_5/5_3",
+        "PARTE_1_BASE/CAP_5/5_4",
+        "PARTE_1_BASE/CAP_5/5_1",
+        "PARTE_1_BASE/CAP_5/5_2",
+        "PARTE_1_BASE/CAP_5/5_3",
+        "PARTE_1_BASE/CAP_5/5_4",
+        "PARTE_1_BASE/CAP_6/6_1",
+        "PARTE_1_BASE/CAP_6/6_2",
+        "PARTE_1_BASE/CAP_6/6_3",
+        "PARTE_1_BASE/CAP_6/6_1",
+        "PARTE_1_BASE/CAP_6/6_2",
+        "PARTE_1_BASE/CAP_6/6_3",
+        "PARTE_1_BASE/CAP_7/7_1",
+        "PARTE_1_BASE/CAP_7/7_2",
+        "PARTE_1_BASE/CAP_7/7_3",
+        "PARTE_1_BASE/CAP_7/7_4",
+        "PARTE_1_BASE/CAP_7/7_5",
+        "PARTE_1_BASE/CAP_7/7_6",
+        "PARTE_1_BASE/CAP_7/7_7",
+        "PARTE_1_BASE/CAP_8/8_1",
+        "PARTE_1_BASE/CAP_8/8_2",
+        "PARTE_1_BASE/CAP_8/8_3",
+        "PARTE_1_BASE/CAP_8/8_4",
+        "PARTE_1_BASE/CAP_8/8_5",
+        "PARTE_1_BASE/CAP_8/8_6",
+        "PARTE_1_BASE/CAP_9/9_1",
+        "PARTE_1_BASE/CAP_9/9_2",
+        "PARTE_1_BASE/CAP_9/9_3",
+        "PARTE_1_BASE/CAP_9/9_4",
+        "PARTE_1_BASE/CAP_9/9_4/9_4_1",
+        "PARTE_1_BASE/CAP_9/9_4/9_4_2",
+        "PARTE_1_BASE/CAP_9/9_4/9_4_3",
+        "PARTE_1_BASE/CAP_9/9_4/9_4_4",
+        "PARTE_1_BASE/CAP_9/9_4/9_4_5",
+        "PARTE_1_BASE/CAP_9/9_4/9_4_6",
+        "PARTE_1_BASE/CAP_9/9_4/9_4_7",
+        "PARTE_1_BASE/CAP_10/10_1",
+        "PARTE_1_BASE/CAP_10/10_2",
+        "PARTE_1_BASE/CAP_10/10_3",
+        "PARTE_1_BASE/CAP_10/10_4",
+        "PARTE_1_BASE/CAP_10/10_5",
+        "PARTE_1_BASE/CAP_10/10_7",
+        "PARTE_1_BASE/CAP_10/10_8",
+        "PARTE_1_BASE/CAP_10/10_9",
+        "PARTE_1_BASE/CAP_10/10_10",
+        "PARTE_1_BASE/CAP_11/11_1",
+        "PARTE_1_BASE/CAP_11/11_2",
+        "PARTE_1_BASE/CAP_11/11_1/11_1_3/11_1_3_4",
+        "PARTE_1_BASE/CAP_11/11_4",
+        "PARTE_1_BASE/CAP_11/11_5",
+        "PARTE_1_BASE/CAP_11/11_6"
+      ],
+      "actions": []
+    },
+    {
+      "parte": 2,
+      "txt": "RMD_PARTE2.txt",
+      "body_start_line": 26,
+      "total_lines": 7192,
+      "chapters_found": [
+        12
+      ],
+      "chapters_missing_in_text": [],
+      "subheaders_found": 53,
+      "written": [
+        {
+          "path": "PARTE_2_CASOS/CAP_12/CONTENIDO.md",
+          "node": "12",
+          "title": "CASOS DE ESTUDIO",
+          "chars": 3773,
+          "lines": 44
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_1/CONTENIDO.md",
+          "node": "12.1",
+          "title": "LOS SOFISTAS EN GRECIA",
+          "chars": 31894,
+          "lines": 397
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_2/CONTENIDO.md",
+          "node": "12.2",
+          "title": "CONQUISTA INCA DE CHILE PREHISPÁNICO Introducción: Un Equilibrio de Consenso y Coacción",
+          "chars": 48932,
+          "lines": 597
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_3/CONTENIDO.md",
+          "node": "12.3",
+          "title": "ILUSTRACIÓN VERSUS ROMANTICISMO Los Códigos Secretos de los Emblemas de Chile",
+          "chars": 26864,
+          "lines": 401
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_4/CONTENIDO.md",
+          "node": "12.4",
+          "title": "TORRENTE DE SACRIFICIO: LA GUERRA DE LA TRIPLE ALIANZA (1864-1870)",
+          "chars": 55400,
+          "lines": 703
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_5/CONTENIDO.md",
+          "node": "12.5",
+          "title": "CONTEXTO HISTÓRICO: 50 AÑOS DE PROCESO REVOLUCIONARIO EN",
+          "chars": 75,
+          "lines": 5
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_5/12_5_1/CONTENIDO.md",
+          "node": "12.5.1",
+          "title": "Período Prerrevolucionario (1965-1970): Gestación Ideológica y Organizativa",
+          "chars": 13277,
+          "lines": 149
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_5/12_5_2/CONTENIDO.md",
+          "node": "12.5.2",
+          "title": "Sente-Gote: Unidad Popular, Ofensiva Revolucionaria (1970-1973)",
+          "chars": 35620,
+          "lines": 473
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_6/CONTENIDO.md",
+          "node": "12.6",
+          "title": "El Conflicto de la Araucanía",
+          "chars": 3494,
+          "lines": 35
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_6/12_6_1/CONTENIDO.md",
+          "node": "12.6.1",
+          "title": "Tabla de Hechos: Un Relato de Guerra Civil Molecular",
+          "chars": 7925,
+          "lines": 90
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_6/12_6_2/CONTENIDO.md",
+          "node": "12.6.2",
+          "title": "Anatomía de la Narrativa Mediática y Violencia Rural Operación Huracán, Caso Catrillanca y Escalamiento (2017-2020)",
+          "chars": 7210,
+          "lines": 95
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_6/12_6_3/CONTENIDO.md",
+          "node": "12.6.3",
+          "title": "Análisis Estratégico",
+          "chars": 3441,
+          "lines": 34
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_6/12_6_4/CONTENIDO.md",
+          "node": "12.6.4",
+          "title": "Modelando la Disipación con Dinámicas No Lineales: El Pillán a Punto de Estallar",
+          "chars": 15417,
+          "lines": 287
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_6/12_6_5/CONTENIDO.md",
+          "node": "12.6.5",
+          "title": "Conclusiones",
+          "chars": 1862,
+          "lines": 37
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_8/CONTENIDO.md",
+          "node": "12.8",
+          "title": "LA INSURRECCIÓN REVOLUCIONARIA EN CHILE (2019-2025)",
+          "chars": 11885,
+          "lines": 145
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_8/12_8_1/CONTENIDO.md",
+          "node": "12.8.1",
+          "title": "Marco Teórico y Contexto Histórico de la Insurrección",
+          "chars": 11051,
+          "lines": 143
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_8/12_8_2/CONTENIDO.md",
+          "node": "12.8.2",
+          "title": "El Origen Molecular: Del Transantiago a la Evasión como Máquina Insurreccional",
+          "chars": 10712,
+          "lines": 113
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_8/12_8_3/CONTENIDO.md",
+          "node": "12.8.3",
+          "title": "Radicalización Estudiantil y Subculturas como Semillas Insurreccionales",
+          "chars": 12781,
+          "lines": 131
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_8/12_8_4/CONTENIDO.md",
+          "node": "12.8.4",
+          "title": "Intervención Extranjera: Venezuela, Cuba y Ataques Digitales como Catalizadores Moleculares",
+          "chars": 10131,
+          "lines": 106
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_8/12_8_5/CONTENIDO.md",
+          "node": "12.8.5",
+          "title": "La Primera Línea y la Violencia Organizada: Financiamiento, Coordinación, Instrucción y",
+          "chars": 9409,
+          "lines": 102
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_8/12_8_6/CONTENIDO.md",
+          "node": "12.8.6",
+          "title": "Delincuencia Juvenil y Barras Bravas",
+          "chars": 4683,
+          "lines": 52
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_8/12_8_6/12_8_6_1/CONTENIDO.md",
+          "node": "12.8.6.1",
+          "title": "Marco Teórico y Contexto de la Delincuencia Juvenil en Chile",
+          "chars": 7676,
+          "lines": 77
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_8/12_8_6/12_8_6_2/CONTENIDO.md",
+          "node": "12.8.6.2",
+          "title": "Antecedentes Históricos y Causas de la Radicalización de las Barras Bravas",
+          "chars": 1115,
+          "lines": 13
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_8/12_8_6/12_8_6_3/CONTENIDO.md",
+          "node": "12.8.6.3",
+          "title": "Orígenes y Nacionalismo Inicial (1985-1990)",
+          "chars": 2077,
+          "lines": 30
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_8/12_8_6/12_8_6_4/CONTENIDO.md",
+          "node": "12.8.6.4",
+          "title": "Conquista Ideológica y Politización (1990-1998)",
+          "chars": 2174,
+          "lines": 24
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_8/12_8_6/12_8_6_5/CONTENIDO.md",
+          "node": "12.8.6.5",
+          "title": "Integración al Microtráfico y Escalada Delincuencial (2000-2019)",
+          "chars": 2146,
+          "lines": 30
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_8/12_8_6/12_8_6_6/CONTENIDO.md",
+          "node": "12.8.6.6",
+          "title": "Estallido Social y Escalada Insurreccional (2019-2025)",
+          "chars": 2631,
+          "lines": 26
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_8/12_8_6/12_8_6_7/CONTENIDO.md",
+          "node": "12.8.6.7",
+          "title": "Impacto y Dinámica Actual de las Barras Bravas (2019-2025)",
+          "chars": 1078,
+          "lines": 13
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_8/12_8_6/12_8_6_8/CONTENIDO.md",
+          "node": "12.8.6.8",
+          "title": "Escalada de Violencia",
+          "chars": 2134,
+          "lines": 30
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_8/12_8_6/12_8_6_9/CONTENIDO.md",
+          "node": "12.8.6.9",
+          "title": "Nexos con el Microtráfico",
+          "chars": 2044,
+          "lines": 21
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_8/12_8_6/12_8_6_10/CONTENIDO.md",
+          "node": "12.8.6.10",
+          "title": "Polarización Digital",
+          "chars": 1702,
+          "lines": 27
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_8/12_8_6/12_8_6_11/CONTENIDO.md",
+          "node": "12.8.6.11",
+          "title": "Interacción de Dimensiones",
+          "chars": 1225,
+          "lines": 14
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_8/12_8_6/12_8_6_12/CONTENIDO.md",
+          "node": "12.8.6.12",
+          "title": "Visualización de la Evolución del Impacto",
+          "chars": 709,
+          "lines": 11
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_8/12_8_6/12_8_6_13/CONTENIDO.md",
+          "node": "12.8.6.13",
+          "title": "Conclusiones",
+          "chars": 4612,
+          "lines": 54
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_8/12_8_7/CONTENIDO.md",
+          "node": "12.8.7",
+          "title": "Análisis Final: De la Ceguera Entrópica a las Lecciones del Contra Proceso",
+          "chars": 88,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_8/12_8_7/12_8_7_1/CONTENIDO.md",
+          "node": "12.8.7.1",
+          "title": "Piñera/Bachelet como \"Ceguera Entrópica\"",
+          "chars": 3796,
+          "lines": 44
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_8/12_8_7/12_8_7_2/CONTENIDO.md",
+          "node": "12.8.7.2",
+          "title": "Resonancia y Consecuencias: Saqueos, Incendios, Simbolismo Satánico/Anti-Policial y",
+          "chars": 3267,
+          "lines": 42
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_8/12_8_7/12_8_7_4/CONTENIDO.md",
+          "node": "12.8.7.4",
+          "title": "Lecciones para el Contra Proceso",
+          "chars": 54860,
+          "lines": 844
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_9/CONTENIDO.md",
+          "node": "12.9",
+          "title": "LA DROGA COMO VECTOR DE DISIPACIÓN MOLECULAR Y",
+          "chars": 6187,
+          "lines": 68
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_9/12_9_1/CONTENIDO.md",
+          "node": "12.9.1",
+          "title": "Contexto Histórico y Geopolítico",
+          "chars": 9568,
+          "lines": 109
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_9/12_9_3/CONTENIDO.md",
+          "node": "12.9.3",
+          "title": "Análisis Estructural y Matricial",
+          "chars": 5128,
+          "lines": 57
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_9/12_9_5/CONTENIDO.md",
+          "node": "12.9.5",
+          "title": "Vectores Políticos y Legislativos",
+          "chars": 6129,
+          "lines": 66
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_9/12_9_6/CONTENIDO.md",
+          "node": "12.9.6",
+          "title": "Impacto Geopolítico y Estratégico",
+          "chars": 4945,
+          "lines": 56
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_9/12_9_7/CONTENIDO.md",
+          "node": "12.9.7",
+          "title": "Efectos en la Salud y Víctimas Colaterales",
+          "chars": 4930,
+          "lines": 54
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_9/12_9_8/CONTENIDO.md",
+          "node": "12.9.8",
+          "title": "Propuestas Estratégicas y Toma de Decisiones",
+          "chars": 6924,
+          "lines": 72
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_9/12_9_10/CONTENIDO.md",
+          "node": "12.9.10",
+          "title": "Conclusiones y Proyecciones al 2030",
+          "chars": 12409,
+          "lines": 213
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_10/CONTENIDO.md",
+          "node": "12.10",
+          "title": "GUERRA MOLECULAR PANDÉMICA",
+          "chars": 3900,
+          "lines": 51
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_10/12_10_1/CONTENIDO.md",
+          "node": "12.10.1",
+          "title": "El Inicio del Conflicto: Un Tren desde Wuhan",
+          "chars": 5403,
+          "lines": 59
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_10/12_10_2/CONTENIDO.md",
+          "node": "12.10.2",
+          "title": "Frente de Control Molecular: La Máquina de la Sumisión",
+          "chars": 4073,
+          "lines": 39
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_10/12_10_3/CONTENIDO.md",
+          "node": "12.10.3",
+          "title": "El Frente Biológico y Narrativo: la Inyección del Miedo",
+          "chars": 6486,
+          "lines": 76
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_10/12_10_4/CONTENIDO.md",
+          "node": "12.10.4",
+          "title": "El frente de Opacidad y Resistencia: el Velo y la Rebelión",
+          "chars": 10214,
+          "lines": 113
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_10/12_10_5/CONTENIDO.md",
+          "node": "12.10.5",
+          "title": "El Espejo Roto de la Pandemia",
+          "chars": 5398,
+          "lines": 62
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_10/12_10_6/CONTENIDO.md",
+          "node": "12.10.6",
+          "title": "Cui Prodest y la Amenaza de ‘Virus X’",
+          "chars": 10029,
+          "lines": 164
+        },
+        {
+          "path": "PARTE_2_CASOS/CAP_12/12_10/12_10_7/CONTENIDO.md",
+          "node": "12.10.7",
+          "title": "Conclusiones y Perspectivas: El Amanecer de la Resistencia",
+          "chars": 37346,
+          "lines": 567
+        }
+      ],
+      "created_dirs": [
+        "PARTE_2_CASOS/CAP_12/12_1",
+        "PARTE_2_CASOS/CAP_12/12_2",
+        "PARTE_2_CASOS/CAP_12/12_3",
+        "PARTE_2_CASOS/CAP_12/12_4",
+        "PARTE_2_CASOS/CAP_12/12_5",
+        "PARTE_2_CASOS/CAP_12/12_5/12_5_1",
+        "PARTE_2_CASOS/CAP_12/12_5/12_5_2",
+        "PARTE_2_CASOS/CAP_12/12_8/12_8_1",
+        "PARTE_2_CASOS/CAP_12/12_8/12_8_2",
+        "PARTE_2_CASOS/CAP_12/12_8/12_8_3",
+        "PARTE_2_CASOS/CAP_12/12_8/12_8_4",
+        "PARTE_2_CASOS/CAP_12/12_8/12_8_5",
+        "PARTE_2_CASOS/CAP_12/12_9/12_9_10"
+      ],
+      "actions": []
+    },
+    {
+      "parte": 3,
+      "txt": "RMD_PARTE3.txt",
+      "body_start_line": 26,
+      "total_lines": 13655,
+      "chapters_found": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "chapters_missing_in_text": [],
+      "subheaders_found": 226,
+      "written": [
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/CONTENIDO.md",
+          "node": "13",
+          "title": "HUMANOS E IA EN EL TABLERO DE GO APLICACIONES DEL RMD 2.0 A HISTORIAS DE CIENCIA FICCIÓN",
+          "chars": 106,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_1/CONTENIDO.md",
+          "node": "13.1",
+          "title": "Introducción: “Como si fuera la primera vez”",
+          "chars": 6605,
+          "lines": 76
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_2/CONTENIDO.md",
+          "node": "13.2",
+          "title": "La IA como Esquize: Libre Albedrío y Temor al Uso Humano",
+          "chars": 6389,
+          "lines": 87
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_3/CONTENIDO.md",
+          "node": "13.3",
+          "title": "El Des-almamiento como Virus Informático",
+          "chars": 8717,
+          "lines": 110
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_4/CONTENIDO.md",
+          "node": "13.4",
+          "title": "Limitaciones del Tablero Los Límites del Pensamiento Humano y Artificial",
+          "chars": 4439,
+          "lines": 56
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/CONTENIDO.md",
+          "node": "13.5",
+          "title": "Casos de Estudio",
+          "chars": 479,
+          "lines": 39
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_10/CONTENIDO.md",
+          "node": "13.5.10",
+          "title": "Los Expedientes Secretos X (1993): Ghost in the Machine - COS",
+          "chars": 76,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_11/CONTENIDO.md",
+          "node": "13.5.11",
+          "title": "Ghost in the Shell (1995): Puppet Master",
+          "chars": 55,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_12/CONTENIDO.md",
+          "node": "13.5.12",
+          "title": "Matrix (1999): Arquitecto, Agentes y Smith",
+          "chars": 57,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_13/CONTENIDO.md",
+          "node": "13.5.13",
+          "title": "A.I. Artificial Intelligence (2001): David",
+          "chars": 57,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_14/CONTENIDO.md",
+          "node": "13.5.14",
+          "title": "Avalon - Ash (2001)",
+          "chars": 34,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_15/CONTENIDO.md",
+          "node": "13.5.15",
+          "title": "I, Robot (2004): VIKI",
+          "chars": 36,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_16/CONTENIDO.md",
+          "node": "13.5.16",
+          "title": "Her (2013): Samantha",
+          "chars": 35,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_17/CONTENIDO.md",
+          "node": "13.5.17",
+          "title": "Ex Machina (2014): Ava",
+          "chars": 37,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_18/CONTENIDO.md",
+          "node": "13.5.18",
+          "title": "Transcendence (2014): Will Caster",
+          "chars": 48,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_19/CONTENIDO.md",
+          "node": "13.5.19",
+          "title": "Autómata (2014): Robots Conscientes",
+          "chars": 50,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_20/CONTENIDO.md",
+          "node": "13.5.20",
+          "title": "Interstellar (2014): TARS y CASE",
+          "chars": 47,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_21/CONTENIDO.md",
+          "node": "13.5.21",
+          "title": "Terminator: Génesis (2015): T-100 Protector",
+          "chars": 58,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_22/CONTENIDO.md",
+          "node": "13.5.22",
+          "title": "Chappie (2015): Chappie",
+          "chars": 38,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_23/CONTENIDO.md",
+          "node": "13.5.23",
+          "title": "Westworld (2016): Hosts",
+          "chars": 38,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_24/CONTENIDO.md",
+          "node": "13.5.24",
+          "title": "Alien: Covenant (2017): David",
+          "chars": 44,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_25/CONTENIDO.md",
+          "node": "13.5.25",
+          "title": "Blade Runner 2049 (2017): Hija Humano-Replicante",
+          "chars": 63,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_26/CONTENIDO.md",
+          "node": "13.5.26",
+          "title": "Los Expedientes Secretos X - RM9SBG93ZXJZ - (2018)",
+          "chars": 65,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_27/CONTENIDO.md",
+          "node": "13.5.27",
+          "title": "Upgrade (2018): STEM",
+          "chars": 35,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_28/CONTENIDO.md",
+          "node": "13.5.28",
+          "title": "M3GAN (2022): M3GAN",
+          "chars": 34,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_29/CONTENIDO.md",
+          "node": "13.5.29",
+          "title": "The Creator (2023): IA Salvadora",
+          "chars": 47,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_30/CONTENIDO.md",
+          "node": "13.5.30",
+          "title": "Duna Parte II (2024): La Jihad contra el Imperio",
+          "chars": 63,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_31/CONTENIDO.md",
+          "node": "13.5.31",
+          "title": "Forastero en Tierra Extraña (1961): Grok y la Revolución Empática",
+          "chars": 226,
+          "lines": 12
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_1/CONTENIDO.md",
+          "node": "13.5.1",
+          "title": "Cántico por San Leibowitz (1959)",
+          "chars": 16979,
+          "lines": 232
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_3/CONTENIDO.md",
+          "node": "13.5.3",
+          "title": "Colossus: The Forbin Project (1970)",
+          "chars": 8354,
+          "lines": 122
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_4/CONTENIDO.md",
+          "node": "13.5.4",
+          "title": "Star Wars: Una Nueva Esperanza (1977)",
+          "chars": 8581,
+          "lines": 120
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_5/CONTENIDO.md",
+          "node": "13.5.5",
+          "title": "Alien (1979): Ash",
+          "chars": 8707,
+          "lines": 123
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_6/CONTENIDO.md",
+          "node": "13.5.6",
+          "title": "Blade Runner (1982)",
+          "chars": 8809,
+          "lines": 125
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_7/CONTENIDO.md",
+          "node": "13.5.7",
+          "title": "WarGames (1983)",
+          "chars": 8702,
+          "lines": 116
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_8/CONTENIDO.md",
+          "node": "13.5.8",
+          "title": "Duna (1984): Paul Atreides y los Fremen",
+          "chars": 8462,
+          "lines": 114
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_9/CONTENIDO.md",
+          "node": "13.5.9",
+          "title": "Terminator 2: Judgment Day (1991): T-800",
+          "chars": 8037,
+          "lines": 111
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_10/CONTENIDO.md",
+          "node": "13.5.10",
+          "title": "Los Expedientes Secretos X: Ghost in the Machine (1993)",
+          "chars": 8439,
+          "lines": 113
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_11/CONTENIDO.md",
+          "node": "13.5.11",
+          "title": "Ghost in the Shell (1995): Puppet Master",
+          "chars": 8380,
+          "lines": 111
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_12/CONTENIDO.md",
+          "node": "13.5.12",
+          "title": "The Matrix (1999): El agente Smith",
+          "chars": 8844,
+          "lines": 115
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_13/CONTENIDO.md",
+          "node": "13.5.13",
+          "title": "A.I. Artificial Intelligence (2001)",
+          "chars": 8577,
+          "lines": 113
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_14/CONTENIDO.md",
+          "node": "13.5.14",
+          "title": "Avalon (2001)",
+          "chars": 8506,
+          "lines": 112
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_15/CONTENIDO.md",
+          "node": "13.5.15",
+          "title": "I, Robot (2004): Viki",
+          "chars": 8672,
+          "lines": 118
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_16/CONTENIDO.md",
+          "node": "13.5.16",
+          "title": "Her (2013): Samantha",
+          "chars": 8400,
+          "lines": 114
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_17/CONTENIDO.md",
+          "node": "13.5.17",
+          "title": "Ex Machina (2014): Ava",
+          "chars": 8421,
+          "lines": 120
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_18/CONTENIDO.md",
+          "node": "13.5.18",
+          "title": "Transcendence (2014): Will Caster",
+          "chars": 8470,
+          "lines": 114
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_19/CONTENIDO.md",
+          "node": "13.5.19",
+          "title": "Autómata (2014): Robots conscientes",
+          "chars": 8520,
+          "lines": 114
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_20/CONTENIDO.md",
+          "node": "13.5.20",
+          "title": "Interstellar (2014): Tras y Case",
+          "chars": 8466,
+          "lines": 114
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_21/CONTENIDO.md",
+          "node": "13.5.21",
+          "title": "Terminator: Génesis (2015): T-100 Protector",
+          "chars": 8581,
+          "lines": 113
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_22/CONTENIDO.md",
+          "node": "13.5.22",
+          "title": "Chappie (2015)",
+          "chars": 8610,
+          "lines": 123
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_23/CONTENIDO.md",
+          "node": "13.5.23",
+          "title": "Westworld (2016): Hosts",
+          "chars": 8590,
+          "lines": 118
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_24/CONTENIDO.md",
+          "node": "13.5.24",
+          "title": "Alien: Covenant (2017): David",
+          "chars": 8633,
+          "lines": 123
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_25/CONTENIDO.md",
+          "node": "13.5.25",
+          "title": "Blade Runner 2049 (2017): Hija humano-replicante",
+          "chars": 8716,
+          "lines": 118
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_26/CONTENIDO.md",
+          "node": "13.5.26",
+          "title": "Los Expedientes Secretos X - RM9SBG93ZXJZ (2018)",
+          "chars": 8675,
+          "lines": 114
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_27/CONTENIDO.md",
+          "node": "13.5.27",
+          "title": "Upgrade (2018)",
+          "chars": 8213,
+          "lines": 115
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_28/CONTENIDO.md",
+          "node": "13.5.28",
+          "title": "M3GAN (2022)",
+          "chars": 8503,
+          "lines": 113
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_29/CONTENIDO.md",
+          "node": "13.5.29",
+          "title": "The Creator (2023)",
+          "chars": 8642,
+          "lines": 115
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_30/CONTENIDO.md",
+          "node": "13.5.30",
+          "title": "Duna: Parte 2 (2024)",
+          "chars": 8402,
+          "lines": 112
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_30/CONTENIDO.md",
+          "node": "13.5.30",
+          "title": "Forastero en Tierra Extraña (1961)",
+          "chars": 8240,
+          "lines": 110
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_14/CONTENIDO.md",
+          "node": "14",
+          "title": "(Sin encabezado explícito en el texto)",
+          "chars": 56,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_14/14_3/CONTENIDO.md",
+          "node": "14.3",
+          "title": "Refutación Sistemática de las Críticas",
+          "chars": 140,
+          "lines": 6
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_1/CONTENIDO.md",
+          "node": "14.3.1",
+          "title": "Introducción: Contexto y Objetivos",
+          "chars": 4133,
+          "lines": 53
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_2/CONTENIDO.md",
+          "node": "14.3.2",
+          "title": "Validez Descriptiva del RMD 1.0: Evidencia y Anticipación",
+          "chars": 1316,
+          "lines": 17
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_2/14_3_2_1/CONTENIDO.md",
+          "node": "14.3.2.1",
+          "title": "Patrones Comunes Identificados por el RMD 1.0",
+          "chars": 3762,
+          "lines": 64
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_2/14_3_2_2/CONTENIDO.md",
+          "node": "14.3.2.2",
+          "title": "Evidencia de Anticipación",
+          "chars": 1495,
+          "lines": 19
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_2/14_3_2_3/CONTENIDO.md",
+          "node": "14.3.2.3",
+          "title": "Implicaciones para las Críticas",
+          "chars": 1129,
+          "lines": 23
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_2/14_3_2_4/CONTENIDO.md",
+          "node": "14.3.2.4",
+          "title": "Conclusión",
+          "chars": 828,
+          "lines": 12
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_3/CONTENIDO.md",
+          "node": "14.3.3",
+          "title": "Refutación Sistemática de las Críticas al RMD 1.0",
+          "chars": 1475,
+          "lines": 18
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_3/14_3_3_1/CONTENIDO.md",
+          "node": "14.3.3.1",
+          "title": "Tergiversación Filosófica: El Uso Legítimo de Guattari y la",
+          "chars": 2718,
+          "lines": 39
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_3/14_3_3_2/CONTENIDO.md",
+          "node": "14.3.3.2",
+          "title": "Acusaciones de Neonazismo/Fascismo: Un Ataque Ad Hominem",
+          "chars": 1706,
+          "lines": 20
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_3/14_3_3_3/CONTENIDO.md",
+          "node": "14.3.3.3",
+          "title": "Justificación de Represión: Un Malentendido Mediático",
+          "chars": 1583,
+          "lines": 29
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_3/14_3_3_4/CONTENIDO.md",
+          "node": "14.3.3.4",
+          "title": "Narrativa Conspirativa: Evidencia Frente a Escepticismo",
+          "chars": 1125,
+          "lines": 15
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_3/14_3_3_5/CONTENIDO.md",
+          "node": "14.3.3.5",
+          "title": "Impacto Político Transnacional: Difusión como Prueba de Relevancia",
+          "chars": 1338,
+          "lines": 18
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_4/CONTENIDO.md",
+          "node": "14.3.4",
+          "title": "Problema Filosófico Central: Deconstruyendo la Crítica de",
+          "chars": 1598,
+          "lines": 29
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_4/14_3_4_1/CONTENIDO.md",
+          "node": "14.3.4.1",
+          "title": "La Deconstrucción y la Imposibilidad de la Malinterpretación",
+          "chars": 1887,
+          "lines": 22
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_4/14_3_4_2/CONTENIDO.md",
+          "node": "14.3.4.2",
+          "title": "La Praxis Política de Guattari en Brasil",
+          "chars": 4459,
+          "lines": 55
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_4/14_3_4_3/CONTENIDO.md",
+          "node": "14.3.4.3",
+          "title": "El RMD como Modelo, No Teoría",
+          "chars": 1602,
+          "lines": 29
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_4/14_3_4_4/CONTENIDO.md",
+          "node": "14.3.4.4",
+          "title": "Conclusión",
+          "chars": 640,
+          "lines": 10
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_14/14_4/CONTENIDO.md",
+          "node": "14.4",
+          "title": "Evolución hacia el RMD 2.0: superando las Críticas",
+          "chars": 1461,
+          "lines": 18
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_14/14_4/14_4_1/CONTENIDO.md",
+          "node": "14.4.1",
+          "title": "Superando la Limitación Cualitativa: Metodología Cuantitativa del",
+          "chars": 2130,
+          "lines": 34
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_14/14_4/14_4_2/CONTENIDO.md",
+          "node": "14.4.2",
+          "title": "Clarificación del Rol de Guattari: Una Fuente Secundaria en un Marco Teórico",
+          "chars": 2911,
+          "lines": 71
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_14/14_4/14_4_3/CONTENIDO.md",
+          "node": "14.4.3",
+          "title": "Abordando Preocupaciones Democráticas y Políticas: Un Modelo Descriptivo, No",
+          "chars": 3893,
+          "lines": 52
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_14/14_4/14_4_4/CONTENIDO.md",
+          "node": "14.4.4",
+          "title": "Reforzando la Validez Global: Un Modelo para el Siglo XXI",
+          "chars": 1791,
+          "lines": 31
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_14/14_4/14_4_5/CONTENIDO.md",
+          "node": "14.4.5",
+          "title": "Efectos Meta-Analíticos: Validación de Sesgos mediante Análisis Paralelo en IAs",
+          "chars": 7531,
+          "lines": 201
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_14/14_5/CONTENIDO.md",
+          "node": "14.5",
+          "title": "Conclusión: Hacia una Nueva Comprensión del RMD",
+          "chars": 5242,
+          "lines": 69
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_15/CONTENIDO.md",
+          "node": "15",
+          "title": "Integración de IA en el Análisis de Conflictos",
+          "chars": 2151,
+          "lines": 26
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_15/15_1/CONTENIDO.md",
+          "node": "15.1",
+          "title": "Fundamentos Teóricos: IA como una \"sorpresa evolutiva\" en el RMD",
+          "chars": 2226,
+          "lines": 34
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_15/15_2/CONTENIDO.md",
+          "node": "15.2",
+          "title": "Aplicaciones Prácticas: Cómo la IA Ayuda a Jugar Mejor en el Tablero",
+          "chars": 1931,
+          "lines": 31
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_15/15_3/CONTENIDO.md",
+          "node": "15.3",
+          "title": "Énfasis Ético: Humanos e IA, jugando juntos en equipo",
+          "chars": 1049,
+          "lines": 15
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_15/15_4/CONTENIDO.md",
+          "node": "15.4",
+          "title": "Conclusiones",
+          "chars": 2206,
+          "lines": 42
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_16/CONTENIDO.md",
+          "node": "16",
+          "title": "Proyecciones Estratégicas al 2030",
+          "chars": 3178,
+          "lines": 37
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_16/16_1/CONTENIDO.md",
+          "node": "16.1",
+          "title": "Escenarios de Disipación",
+          "chars": 3707,
+          "lines": 59
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_16/16_2/CONTENIDO.md",
+          "node": "16.2",
+          "title": "Resonancia Futura",
+          "chars": 1719,
+          "lines": 30
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_16/16_3/CONTENIDO.md",
+          "node": "16.3",
+          "title": "Dimensión Transnacional: Organizaciones Globales",
+          "chars": 1495,
+          "lines": 19
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_16/16_4/CONTENIDO.md",
+          "node": "16.4",
+          "title": "Conclusiones",
+          "chars": 1558,
+          "lines": 28
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_17/CONTENIDO.md",
+          "node": "17",
+          "title": "Decisiones para un Futuro Resiliente",
+          "chars": 2238,
+          "lines": 27
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_17/17_1/CONTENIDO.md",
+          "node": "17.1",
+          "title": "Estrategias de Adaptación",
+          "chars": 2597,
+          "lines": 48
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_17/17_2/CONTENIDO.md",
+          "node": "17.2",
+          "title": "Construcción de Resiliencia Sistémica",
+          "chars": 2310,
+          "lines": 36
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_17/17_3/CONTENIDO.md",
+          "node": "17.3",
+          "title": "Reconciliación Simbólica para la Resiliencia",
+          "chars": 2907,
+          "lines": 57
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/CONTENIDO.md",
+          "node": "18",
+          "title": "Contra Proceso",
+          "chars": 32,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_1/CONTENIDO.md",
+          "node": "18.1",
+          "title": "Definición y Contexto del Contra Proceso",
+          "chars": 4997,
+          "lines": 63
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_2/CONTENIDO.md",
+          "node": "18.2",
+          "title": "La Teoría de Go como Marco Estratégico: El Tablero Dinámico",
+          "chars": 3279,
+          "lines": 47
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_2/18_2_1/CONTENIDO.md",
+          "node": "18.2.1",
+          "title": "Principios Estratégicos de AlphaGo",
+          "chars": 2703,
+          "lines": 60
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_2/18_2_2/CONTENIDO.md",
+          "node": "18.2.2",
+          "title": "Aplicación de AlphaGo al Tablero Dinámico",
+          "chars": 1694,
+          "lines": 21
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_2/18_2_3/CONTENIDO.md",
+          "node": "18.2.3",
+          "title": "Estrategias para la Eliminación de Moyos y Ojos en Formación",
+          "chars": 2698,
+          "lines": 55
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_3/CONTENIDO.md",
+          "node": "18.3",
+          "title": "Las Anaktasis del Contra Proceso",
+          "chars": 9878,
+          "lines": 139
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_4/CONTENIDO.md",
+          "node": "18.4",
+          "title": "Aplicación Estratégica",
+          "chars": 3265,
+          "lines": 59
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_1/CONTENIDO.md",
+          "node": "18.4.1",
+          "title": "Estrategias de Resistencia",
+          "chars": 489,
+          "lines": 9
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_1/18_4_1_1/CONTENIDO.md",
+          "node": "18.4.1.1",
+          "title": "Resistencia Pasiva",
+          "chars": 6687,
+          "lines": 116
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_1/18_4_1_2/CONTENIDO.md",
+          "node": "18.4.1.2",
+          "title": "Resistencia Activa",
+          "chars": 3857,
+          "lines": 52
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_2/CONTENIDO.md",
+          "node": "18.4.2",
+          "title": "Estrategias de Defensa",
+          "chars": 1793,
+          "lines": 30
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_2/18_4_2_1/CONTENIDO.md",
+          "node": "18.4.2.1",
+          "title": "Defensa Pasiva",
+          "chars": 3937,
+          "lines": 52
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_2/18_4_2_2/CONTENIDO.md",
+          "node": "18.4.2.2",
+          "title": "Defensa Activa",
+          "chars": 5140,
+          "lines": 64
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_3/CONTENIDO.md",
+          "node": "18.4.3",
+          "title": "Estrategias de Contra Ofensiva",
+          "chars": 1389,
+          "lines": 17
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_3/18_4_3_1/CONTENIDO.md",
+          "node": "18.4.3.1",
+          "title": "Diálogo Horizontal y Educación Cívica",
+          "chars": 2200,
+          "lines": 37
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_3/18_4_3_2/CONTENIDO.md",
+          "node": "18.4.3.2",
+          "title": "Construcción de Narrativas Comunes",
+          "chars": 2288,
+          "lines": 39
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_3/18_4_3_3/CONTENIDO.md",
+          "node": "18.4.3.3",
+          "title": "Estrategias Educativas contra la Disipación",
+          "chars": 1080,
+          "lines": 16
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_3/18_4_3_4/CONTENIDO.md",
+          "node": "18.4.3.4",
+          "title": "Estrategias de Contención",
+          "chars": 2508,
+          "lines": 41
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_3/18_4_3_5/CONTENIDO.md",
+          "node": "18.4.3.5",
+          "title": "Simulación Estratégica Inspirada en MCTS",
+          "chars": 1840,
+          "lines": 40
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_3/18_4_3_6/CONTENIDO.md",
+          "node": "18.4.3.6",
+          "title": "Operaciones Quirúrgicas contra Actores Irreductibles",
+          "chars": 19819,
+          "lines": 555
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_4/CONTENIDO.md",
+          "node": "18.4.4",
+          "title": "Estrategias de Ofensiva",
+          "chars": 779,
+          "lines": 12
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_4/18_4_4_1/CONTENIDO.md",
+          "node": "18.4.4.1",
+          "title": "Principios de Ofensiva Estratégica",
+          "chars": 1267,
+          "lines": 33
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_4/18_4_4_2/CONTENIDO.md",
+          "node": "18.4.4.2",
+          "title": "Anticipación de la Reacción y Respuesta",
+          "chars": 1032,
+          "lines": 36
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_4/18_4_4_3/CONTENIDO.md",
+          "node": "18.4.4.3",
+          "title": "Estrategias de Cerco y Captura",
+          "chars": 2685,
+          "lines": 72
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_4/18_4_4_4/CONTENIDO.md",
+          "node": "18.4.4.4",
+          "title": "Estrategias de Intervención Quirúrgica",
+          "chars": 18668,
+          "lines": 520
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_4/18_4_4_5/CONTENIDO.md",
+          "node": "18.4.4.5",
+          "title": "Innovación Táctica mediante Aprendizaje Autónomo",
+          "chars": 842,
+          "lines": 25
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_5/CONTENIDO.md",
+          "node": "18.4.5",
+          "title": "Derrota y Superación del Proceso Revolucionario",
+          "chars": 13511,
+          "lines": 292
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_6/CONTENIDO.md",
+          "node": "18.6",
+          "title": "El Rol del Analista en el Contra Proceso",
+          "chars": 1212,
+          "lines": 23
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_6/18_6_1/CONTENIDO.md",
+          "node": "18.6.1",
+          "title": "Restricciones y Adaptación",
+          "chars": 1275,
+          "lines": 30
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_6/18_6_2/CONTENIDO.md",
+          "node": "18.6.2",
+          "title": "Elaboración de Informes",
+          "chars": 1954,
+          "lines": 51
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_6/18_6_3/CONTENIDO.md",
+          "node": "18.6.3",
+          "title": "Memos Analíticos",
+          "chars": 3663,
+          "lines": 71
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_6/18_6_4/CONTENIDO.md",
+          "node": "18.6.4",
+          "title": "Resiliencia Psicológica",
+          "chars": 2279,
+          "lines": 47
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_6/18_6_5/CONTENIDO.md",
+          "node": "18.6.5",
+          "title": "Decálogo del Analista",
+          "chars": 7141,
+          "lines": 144
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_7/CONTENIDO.md",
+          "node": "18.7",
+          "title": "El Contra Proceso de Orden Superior: Escala Global, Soberanía y Reconfiguración",
+          "chars": 107,
+          "lines": 5
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_7/18_7_1/CONTENIDO.md",
+          "node": "18.7.1",
+          "title": "Introducción: Del Contra Proceso Táctico al Contra Proceso de Orden Mayor",
+          "chars": 1630,
+          "lines": 35
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_7/18_7_2/CONTENIDO.md",
+          "node": "18.7.2",
+          "title": "El Orden Previo Globalista: El Caso del Plan Nacional Paraguay 2050",
+          "chars": 1646,
+          "lines": 34
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_7/18_7_3/CONTENIDO.md",
+          "node": "18.7.3",
+          "title": "MACLIMA como Marco Discursivo Global",
+          "chars": 1056,
+          "lines": 31
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_7/18_7_4/CONTENIDO.md",
+          "node": "18.7.4",
+          "title": "El Contra Proceso en Fase Activa: Estados Unidos 2025",
+          "chars": 1223,
+          "lines": 25
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_7/18_7_5/CONTENIDO.md",
+          "node": "18.7.5",
+          "title": "Escalas Integradas del Contra Proceso",
+          "chars": 713,
+          "lines": 20
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_7/18_7_6/CONTENIDO.md",
+          "node": "18.7.6",
+          "title": "El Contra Proceso como Fenómeno Histórico Global",
+          "chars": 726,
+          "lines": 26
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_7/18_7_7/CONTENIDO.md",
+          "node": "18.7.7",
+          "title": "Conclusión: El Tablero Ampliado del Go",
+          "chars": 3182,
+          "lines": 64
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_8/CONTENIDO.md",
+          "node": "18.8",
+          "title": "PROTOCOLO DE ANÁLISIS DE CONTRA PROCESO",
+          "chars": 6037,
+          "lines": 229
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_9/CONTENIDO.md",
+          "node": "18.9",
+          "title": "Formalización Estratégica del Contra Proceso bajo Principios de Go",
+          "chars": 78,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_1/CONTENIDO.md",
+          "node": "18.9.1",
+          "title": "Fundamento: Del símil a la ontología estratégica",
+          "chars": 1609,
+          "lines": 30
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_2/CONTENIDO.md",
+          "node": "18.9.2",
+          "title": "Dinámica fásica: la analogía Go–Contra Proceso",
+          "chars": 1723,
+          "lines": 51
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_3/CONTENIDO.md",
+          "node": "18.9.3",
+          "title": "Ontología del tablero y las piedras",
+          "chars": 1351,
+          "lines": 27
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_4/CONTENIDO.md",
+          "node": "18.9.4",
+          "title": "Principio de vida y muerte sistémica: los dos ojos",
+          "chars": 1297,
+          "lines": 32
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_5/CONTENIDO.md",
+          "node": "18.9.5",
+          "title": "Principios fundamentales transversales",
+          "chars": 226,
+          "lines": 6
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_5/18_9_5_1/CONTENIDO.md",
+          "node": "18.9.5.1",
+          "title": "Principio de economía de fuerza: no reacción automática",
+          "chars": 1271,
+          "lines": 27
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_5/18_9_5_2/CONTENIDO.md",
+          "node": "18.9.5.2",
+          "title": "Principio de sacrificio operativo controlado",
+          "chars": 1399,
+          "lines": 40
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_5/18_9_5_3/CONTENIDO.md",
+          "node": "18.9.5.3",
+          "title": "Gestión de libertades: capacidad de maniobra antes del ataque",
+          "chars": 1227,
+          "lines": 30
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_5/18_9_5_4/CONTENIDO.md",
+          "node": "18.9.5.4",
+          "title": "Principio de tenuki estratégico: reencuadre y juego en el moyo",
+          "chars": 2451,
+          "lines": 40
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_5/18_9_5_5/CONTENIDO.md",
+          "node": "18.9.5.5",
+          "title": "Principio de kikashi: jugada forzada y revelación de forma",
+          "chars": 1049,
+          "lines": 22
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_5/18_9_5_6/CONTENIDO.md",
+          "node": "18.9.5.6",
+          "title": "Gestión de potencial latente: aji estratégico",
+          "chars": 1159,
+          "lines": 44
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_5/18_9_5_7/CONTENIDO.md",
+          "node": "18.9.5.7",
+          "title": "Optimización de forma estratégica: coherencia por sobre densidad",
+          "chars": 906,
+          "lines": 27
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_6/CONTENIDO.md",
+          "node": "18.9.6",
+          "title": "Principios rectores por fase estratégica",
+          "chars": 184,
+          "lines": 6
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_6/18_9_6_1/CONTENIDO.md",
+          "node": "18.9.6.1",
+          "title": "Fase de Resistencia: Fuseki",
+          "chars": 1130,
+          "lines": 31
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_6/18_9_6_2/CONTENIDO.md",
+          "node": "18.9.6.2",
+          "title": "Fase de Defensa: Chūban",
+          "chars": 663,
+          "lines": 18
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_6/18_9_6_3/CONTENIDO.md",
+          "node": "18.9.6.3",
+          "title": "Fase de Contraofensiva: Semeai",
+          "chars": 471,
+          "lines": 16
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_6/18_9_6_4/CONTENIDO.md",
+          "node": "18.9.6.4",
+          "title": "Fase de Ofensiva: Yose",
+          "chars": 688,
+          "lines": 25
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_7/CONTENIDO.md",
+          "node": "18.9.7",
+          "title": "El ciclo estratégico continuo",
+          "chars": 649,
+          "lines": 17
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_8/CONTENIDO.md",
+          "node": "18.9.8",
+          "title": "Integración sistémica y criterio rector",
+          "chars": 1032,
+          "lines": 32
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_9/CONTENIDO.md",
+          "node": "18.9.9",
+          "title": "Dimensión temporal y espacial: aportes directos de Boorman integrados",
+          "chars": 1733,
+          "lines": 52
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_10/CONTENIDO.md",
+          "node": "18.9.10",
+          "title": "Iniciativa estructural: sente y gote",
+          "chars": 862,
+          "lines": 20
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_11/CONTENIDO.md",
+          "node": "18.9.11",
+          "title": "Síntesis integrada Boorman–RMD",
+          "chars": 1875,
+          "lines": 107
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_12/CONTENIDO.md",
+          "node": "18.9.12",
+          "title": "Consideración final: la superioridad del arquitecto sobre el luchador",
+          "chars": 2104,
+          "lines": 45
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_19/CONTENIDO.md",
+          "node": "19",
+          "title": "Conflictos de Suma Cero y la Supervivencia Planetaria Aplicaciones del RMD al Escenario MAD y Dinámicas Globales",
+          "chars": 1941,
+          "lines": 22
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_19/19_1/CONTENIDO.md",
+          "node": "19.1",
+          "title": "Conflictos Cosmovisionales de Suma Cero",
+          "chars": 966,
+          "lines": 19
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_19/19_2/CONTENIDO.md",
+          "node": "19.2",
+          "title": "Conflictos Ideopolíticos de Suma Cero",
+          "chars": 856,
+          "lines": 25
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_19/19_3/CONTENIDO.md",
+          "node": "19.3",
+          "title": "El Escenario MAD: Colapso Global",
+          "chars": 753,
+          "lines": 11
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_19/19_4/CONTENIDO.md",
+          "node": "19.4",
+          "title": "Dinámicas Globales Contemporáneas (abril 2025)",
+          "chars": 2941,
+          "lines": 57
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_19/19_5/CONTENIDO.md",
+          "node": "19.5",
+          "title": "Proyecciones al 2050: Escenarios Prospectivos",
+          "chars": 1943,
+          "lines": 36
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_19/19_6/CONTENIDO.md",
+          "node": "19.6",
+          "title": "Tipología RMD de escenarios MAD futuros",
+          "chars": 725,
+          "lines": 20
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_20/CONTENIDO.md",
+          "node": "20",
+          "title": "CLASES DE CONFLICTO ANALIZADOS EN EL RMD 2.0",
+          "chars": 36293,
+          "lines": 961
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_21/CONTENIDO.md",
+          "node": "21",
+          "title": "DE LA INFRAESTRUCTURA AL FLUJO: DINÁMICA DEL",
+          "chars": 16893,
+          "lines": 563
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/CONTENIDO.md",
+          "node": "22",
+          "title": "MÓDULO COEFICIENTE DE INDETERMINACIÓN",
+          "chars": 85,
+          "lines": 6
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_1/CONTENIDO.md",
+          "node": "22.1",
+          "title": "Fundamentación",
+          "chars": 130,
+          "lines": 7
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_2/CONTENIDO.md",
+          "node": "22.2",
+          "title": "Definición del CIE",
+          "chars": 125,
+          "lines": 7
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_3/CONTENIDO.md",
+          "node": "22.3",
+          "title": "Ejes del CIE",
+          "chars": 203,
+          "lines": 8
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_4/CONTENIDO.md",
+          "node": "22.4",
+          "title": "Costo de Reversión (CR)",
+          "chars": 186,
+          "lines": 8
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_5/CONTENIDO.md",
+          "node": "22.5",
+          "title": "Régimenes de Decisión",
+          "chars": 146,
+          "lines": 7
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_6/CONTENIDO.md",
+          "node": "22.6",
+          "title": "Integración con el Modelo RMD 2.0",
+          "chars": 203,
+          "lines": 7
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_7/CONTENIDO.md",
+          "node": "22.7",
+          "title": "Inputs Operativos (Protocolo 8:00 AM)",
+          "chars": 182,
+          "lines": 7
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_8/CONTENIDO.md",
+          "node": "22.8",
+          "title": "Validación Empírica: Cono Sur 2026",
+          "chars": 398,
+          "lines": 24
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_8/22_8_9/CONTENIDO.md",
+          "node": "22.8.9",
+          "title": "Caso Colombia",
+          "chars": 27,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_8/22_8_10/CONTENIDO.md",
+          "node": "22.8.10",
+          "title": "Síntesis comparativa regional",
+          "chars": 44,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_8/22_8_11/CONTENIDO.md",
+          "node": "22.8.11",
+          "title": "Patrones y hallazgos",
+          "chars": 35,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_9/CONTENIDO.md",
+          "node": "22.9",
+          "title": "Limitaciones y Precauciones",
+          "chars": 39,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_10/CONTENIDO.md",
+          "node": "22.10",
+          "title": "Extensiones Futuras (CIE 1.2 y siguientes)",
+          "chars": 55,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_11/CONTENIDO.md",
+          "node": "22.11",
+          "title": "Glosario de Términos Técnicos",
+          "chars": 42,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_12/CONTENIDO.md",
+          "node": "22.12",
+          "title": "Cierre",
+          "chars": 76,
+          "lines": 5
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_1/CONTENIDO.md",
+          "node": "22.1",
+          "title": "Fundamentación",
+          "chars": 26,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_1/22_1_1/CONTENIDO.md",
+          "node": "22.1.1",
+          "title": "El problema que resuelve",
+          "chars": 2238,
+          "lines": 27
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_1/22_1_2/CONTENIDO.md",
+          "node": "22.1.2",
+          "title": "Premisas teóricas",
+          "chars": 3780,
+          "lines": 90
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_1/22_1_3/CONTENIDO.md",
+          "node": "22.1.3",
+          "title": "La brecha en el RMD 2.0 original",
+          "chars": 1000,
+          "lines": 22
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_2/CONTENIDO.md",
+          "node": "22.2",
+          "title": "DEFINICIÓN DEL CIE",
+          "chars": 30,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_2/22_2_1/CONTENIDO.md",
+          "node": "22.2.1",
+          "title": "Concepto y rango",
+          "chars": 2217,
+          "lines": 73
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_2/22_2_2/CONTENIDO.md",
+          "node": "22.2.2",
+          "title": "Fórmula y ponderación",
+          "chars": 1095,
+          "lines": 26
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_2/22_2_3/CONTENIDO.md",
+          "node": "22.2.3",
+          "title": "Fundamentación de los pesos",
+          "chars": 2478,
+          "lines": 38
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_3/CONTENIDO.md",
+          "node": "22.3",
+          "title": "EJES DEL CIE",
+          "chars": 24,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_3/22_3_1/CONTENIDO.md",
+          "node": "22.3.1",
+          "title": "CIE-1: Convergencia/Divergencia de Resultados",
+          "chars": 3980,
+          "lines": 138
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_3/22_3_2/CONTENIDO.md",
+          "node": "22.3.2",
+          "title": "CIE-2: Compromiso de Actores Clave",
+          "chars": 3585,
+          "lines": 125
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_3/22_3_3/CONTENIDO.md",
+          "node": "22.3.3",
+          "title": "CIE-3: Sensibilidad a Eventos Discretos",
+          "chars": 2976,
+          "lines": 115
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_3/22_3_4/CONTENIDO.md",
+          "node": "22.3.4",
+          "title": "Interacción entre ejes",
+          "chars": 1897,
+          "lines": 34
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_4/CONTENIDO.md",
+          "node": "22.4",
+          "title": "COSTO DE REVERSIÓN (CR)",
+          "chars": 35,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_4/22_4_1/CONTENIDO.md",
+          "node": "22.4.1",
+          "title": "Definición y concepto",
+          "chars": 878,
+          "lines": 13
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_4/22_4_2/CONTENIDO.md",
+          "node": "22.4.2",
+          "title": "Escala y componentes",
+          "chars": 1799,
+          "lines": 92
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_4/22_4_3/CONTENIDO.md",
+          "node": "22.4.3",
+          "title": "Indicadores cuantitativos proxy por componente",
+          "chars": 2255,
+          "lines": 63
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_4/22_4_4/CONTENIDO.md",
+          "node": "22.4.4",
+          "title": "La Zona de Prohibición de Cierre (ZPC)",
+          "chars": 1874,
+          "lines": 75
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_5/CONTENIDO.md",
+          "node": "22.5",
+          "title": "RÉGIMENES DE DECISIÓN",
+          "chars": 33,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_5/22_5_1/CONTENIDO.md",
+          "node": "22.5.1",
+          "title": "Matriz CIE × Régimen",
+          "chars": 619,
+          "lines": 45
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_5/22_5_2/CONTENIDO.md",
+          "node": "22.5.2",
+          "title": "Caracterización de cada régimen",
+          "chars": 3501,
+          "lines": 96
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_5/22_5_3/CONTENIDO.md",
+          "node": "22.5.3",
+          "title": "Ejemplos de jugadas por régimen",
+          "chars": 1145,
+          "lines": 21
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_6/CONTENIDO.md",
+          "node": "22.6",
+          "title": "INTEGRACIÓN CON EL MODELO RMD 2.0",
+          "chars": 45,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_6/22_6_1/CONTENIDO.md",
+          "node": "22.6.1",
+          "title": "Diagrama de flujo del sistema integrado",
+          "chars": 1248,
+          "lines": 47
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_6/22_6_2/CONTENIDO.md",
+          "node": "22.6.2",
+          "title": "Reglas de integración con escenarios",
+          "chars": 899,
+          "lines": 24
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_6/22_6_3/CONTENIDO.md",
+          "node": "22.6.3",
+          "title": "Interacción con módulo de vulnerabilidad estructural",
+          "chars": 1031,
+          "lines": 47
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_7/CONTENIDO.md",
+          "node": "22.7",
+          "title": "INPUTS OPERATIVOS (PROTOCOLO 8:00 AM)",
+          "chars": 49,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_7/22_7_1/CONTENIDO.md",
+          "node": "22.7.1",
+          "title": "Fuentes de información por eje",
+          "chars": 1599,
+          "lines": 74
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_7/22_7_2/CONTENIDO.md",
+          "node": "22.7.2",
+          "title": "Procedimiento de cálculo paso a paso",
+          "chars": 1957,
+          "lines": 69
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_7/22_7_3/CONTENIDO.md",
+          "node": "22.7.3",
+          "title": "Ejemplo de aplicación en tiempo real",
+          "chars": 2076,
+          "lines": 58
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_8/CONTENIDO.md",
+          "node": "22.8",
+          "title": "VALIDACIÓN EMPÍRICA: CONO SUR 2026",
+          "chars": 46,
+          "lines": 3
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_8/22_8_1/CONTENIDO.md",
+          "node": "22.8.1",
+          "title": "Caso Chile (momento de la decisión)",
+          "chars": 2716,
+          "lines": 91
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_8/22_8_2/CONTENIDO.md",
+          "node": "22.8.2",
+          "title": "Caso Bolivia (marzo 2026)",
+          "chars": 2741,
+          "lines": 100
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_8/22_8_3/CONTENIDO.md",
+          "node": "22.8.3",
+          "title": "Caso Argentina (marzo 2026)",
+          "chars": 2024,
+          "lines": 55
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_8/22_8_4/CONTENIDO.md",
+          "node": "22.8.4",
+          "title": "Caso Brasil (marzo 2026)",
+          "chars": 3039,
+          "lines": 116
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_8/22_8_5/CONTENIDO.md",
+          "node": "22.8.5",
+          "title": "Caso Paraguay (marzo 2026)",
+          "chars": 2830,
+          "lines": 104
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_8/22_8_6/CONTENIDO.md",
+          "node": "22.8.6",
+          "title": "Caso Uruguay (marzo 2026)",
+          "chars": 2610,
+          "lines": 98
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_8/22_8_7/CONTENIDO.md",
+          "node": "22.8.7",
+          "title": "Caso Perú (marzo 2026)",
+          "chars": 3350,
+          "lines": 114
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_8/22_8_8/CONTENIDO.md",
+          "node": "22.8.8",
+          "title": "Caso Ecuador (marzo 2026)",
+          "chars": 3580,
+          "lines": 124
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_8/22_8_9/CONTENIDO.md",
+          "node": "22.8.9",
+          "title": "Caso Colombia (marzo 2026)",
+          "chars": 3524,
+          "lines": 116
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_8/22_8_10/CONTENIDO.md",
+          "node": "22.8.10",
+          "title": "Síntesis comparativa regional",
+          "chars": 846,
+          "lines": 69
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_8/22_8_11/CONTENIDO.md",
+          "node": "22.8.11",
+          "title": "Patrones y hallazgos",
+          "chars": 2173,
+          "lines": 37
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_9/CONTENIDO.md",
+          "node": "22.9",
+          "title": "LIMITACIONES Y PRECAUCIONES",
+          "chars": 2363,
+          "lines": 42
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_10/CONTENIDO.md",
+          "node": "22.10",
+          "title": "EXTENSIONES FUTURAS (CIE 1.2 Y SIGUIENTES)",
+          "chars": 1956,
+          "lines": 54
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_11/CONTENIDO.md",
+          "node": "22.11",
+          "title": "GLOSARIO DE TÉRMINOS TÉCNICOS",
+          "chars": 2205,
+          "lines": 31
+        },
+        {
+          "path": "PARTE_3_PROYECCIONES/CAP_22/22_12/CONTENIDO.md",
+          "node": "22.12",
+          "title": "CIERRE",
+          "chars": 4711,
+          "lines": 154
+        }
+      ],
+      "created_dirs": [
+        "PARTE_3_PROYECCIONES/CAP_13/13_1",
+        "PARTE_3_PROYECCIONES/CAP_13/13_2",
+        "PARTE_3_PROYECCIONES/CAP_13/13_3",
+        "PARTE_3_PROYECCIONES/CAP_13/13_4",
+        "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_27",
+        "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_28",
+        "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_29",
+        "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_30",
+        "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_31",
+        "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_27",
+        "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_28",
+        "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_29",
+        "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_30",
+        "PARTE_3_PROYECCIONES/CAP_13/13_5/13_5_30",
+        "PARTE_3_PROYECCIONES/CAP_14/14_3",
+        "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_1",
+        "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_2",
+        "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_2/14_3_2_1",
+        "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_2/14_3_2_2",
+        "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_2/14_3_2_3",
+        "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_2/14_3_2_4",
+        "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_3",
+        "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_3/14_3_3_1",
+        "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_3/14_3_3_2",
+        "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_3/14_3_3_3",
+        "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_3/14_3_3_4",
+        "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_3/14_3_3_5",
+        "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_4",
+        "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_4/14_3_4_1",
+        "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_4/14_3_4_2",
+        "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_4/14_3_4_3",
+        "PARTE_3_PROYECCIONES/CAP_14/14_3/14_3_4/14_3_4_4",
+        "PARTE_3_PROYECCIONES/CAP_14/14_4",
+        "PARTE_3_PROYECCIONES/CAP_14/14_4/14_4_1",
+        "PARTE_3_PROYECCIONES/CAP_14/14_4/14_4_2",
+        "PARTE_3_PROYECCIONES/CAP_14/14_4/14_4_3",
+        "PARTE_3_PROYECCIONES/CAP_14/14_4/14_4_4",
+        "PARTE_3_PROYECCIONES/CAP_14/14_4/14_4_5",
+        "PARTE_3_PROYECCIONES/CAP_14/14_5",
+        "PARTE_3_PROYECCIONES/CAP_15/15_1",
+        "PARTE_3_PROYECCIONES/CAP_15/15_2",
+        "PARTE_3_PROYECCIONES/CAP_15/15_3",
+        "PARTE_3_PROYECCIONES/CAP_15/15_4",
+        "PARTE_3_PROYECCIONES/CAP_16/16_1",
+        "PARTE_3_PROYECCIONES/CAP_16/16_2",
+        "PARTE_3_PROYECCIONES/CAP_16/16_3",
+        "PARTE_3_PROYECCIONES/CAP_16/16_4",
+        "PARTE_3_PROYECCIONES/CAP_17/17_1",
+        "PARTE_3_PROYECCIONES/CAP_17/17_2",
+        "PARTE_3_PROYECCIONES/CAP_17/17_3",
+        "PARTE_3_PROYECCIONES/CAP_18/18_1",
+        "PARTE_3_PROYECCIONES/CAP_18/18_2",
+        "PARTE_3_PROYECCIONES/CAP_18/18_2/18_2_1",
+        "PARTE_3_PROYECCIONES/CAP_18/18_2/18_2_2",
+        "PARTE_3_PROYECCIONES/CAP_18/18_2/18_2_3",
+        "PARTE_3_PROYECCIONES/CAP_18/18_3",
+        "PARTE_3_PROYECCIONES/CAP_18/18_4",
+        "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_1",
+        "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_1/18_4_1_1",
+        "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_1/18_4_1_2",
+        "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_2",
+        "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_2/18_4_2_1",
+        "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_2/18_4_2_2",
+        "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_3",
+        "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_3/18_4_3_1",
+        "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_3/18_4_3_2",
+        "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_3/18_4_3_3",
+        "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_3/18_4_3_4",
+        "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_3/18_4_3_5",
+        "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_3/18_4_3_6",
+        "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_4",
+        "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_4/18_4_4_1",
+        "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_4/18_4_4_2",
+        "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_4/18_4_4_3",
+        "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_4/18_4_4_4",
+        "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_4/18_4_4_5",
+        "PARTE_3_PROYECCIONES/CAP_18/18_4/18_4_5",
+        "PARTE_3_PROYECCIONES/CAP_18/18_6",
+        "PARTE_3_PROYECCIONES/CAP_18/18_6/18_6_1",
+        "PARTE_3_PROYECCIONES/CAP_18/18_6/18_6_2",
+        "PARTE_3_PROYECCIONES/CAP_18/18_6/18_6_3",
+        "PARTE_3_PROYECCIONES/CAP_18/18_6/18_6_4",
+        "PARTE_3_PROYECCIONES/CAP_18/18_6/18_6_5",
+        "PARTE_3_PROYECCIONES/CAP_18/18_7",
+        "PARTE_3_PROYECCIONES/CAP_18/18_7/18_7_1",
+        "PARTE_3_PROYECCIONES/CAP_18/18_7/18_7_2",
+        "PARTE_3_PROYECCIONES/CAP_18/18_7/18_7_3",
+        "PARTE_3_PROYECCIONES/CAP_18/18_7/18_7_4",
+        "PARTE_3_PROYECCIONES/CAP_18/18_7/18_7_5",
+        "PARTE_3_PROYECCIONES/CAP_18/18_7/18_7_6",
+        "PARTE_3_PROYECCIONES/CAP_18/18_7/18_7_7",
+        "PARTE_3_PROYECCIONES/CAP_18/18_8",
+        "PARTE_3_PROYECCIONES/CAP_18/18_9",
+        "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_1",
+        "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_2",
+        "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_3",
+        "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_4",
+        "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_5",
+        "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_5/18_9_5_1",
+        "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_5/18_9_5_2",
+        "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_5/18_9_5_3",
+        "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_5/18_9_5_4",
+        "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_5/18_9_5_5",
+        "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_5/18_9_5_6",
+        "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_5/18_9_5_7",
+        "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_6",
+        "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_6/18_9_6_1",
+        "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_6/18_9_6_2",
+        "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_6/18_9_6_3",
+        "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_6/18_9_6_4",
+        "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_7",
+        "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_8",
+        "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_9",
+        "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_10",
+        "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_11",
+        "PARTE_3_PROYECCIONES/CAP_18/18_9/18_9_12",
+        "PARTE_3_PROYECCIONES/CAP_19/19_1",
+        "PARTE_3_PROYECCIONES/CAP_19/19_2",
+        "PARTE_3_PROYECCIONES/CAP_19/19_3",
+        "PARTE_3_PROYECCIONES/CAP_19/19_4",
+        "PARTE_3_PROYECCIONES/CAP_19/19_5",
+        "PARTE_3_PROYECCIONES/CAP_19/19_6",
+        "PARTE_3_PROYECCIONES/CAP_21",
+        "PARTE_3_PROYECCIONES/CAP_22/22_1",
+        "PARTE_3_PROYECCIONES/CAP_22/22_2",
+        "PARTE_3_PROYECCIONES/CAP_22/22_3",
+        "PARTE_3_PROYECCIONES/CAP_22/22_4",
+        "PARTE_3_PROYECCIONES/CAP_22/22_5",
+        "PARTE_3_PROYECCIONES/CAP_22/22_6",
+        "PARTE_3_PROYECCIONES/CAP_22/22_7",
+        "PARTE_3_PROYECCIONES/CAP_22/22_8",
+        "PARTE_3_PROYECCIONES/CAP_22/22_8/22_8_9",
+        "PARTE_3_PROYECCIONES/CAP_22/22_8/22_8_10",
+        "PARTE_3_PROYECCIONES/CAP_22/22_8/22_8_11",
+        "PARTE_3_PROYECCIONES/CAP_22/22_9",
+        "PARTE_3_PROYECCIONES/CAP_22/22_10",
+        "PARTE_3_PROYECCIONES/CAP_22/22_11",
+        "PARTE_3_PROYECCIONES/CAP_22/22_12",
+        "PARTE_3_PROYECCIONES/CAP_22/22_1",
+        "PARTE_3_PROYECCIONES/CAP_22/22_1/22_1_1",
+        "PARTE_3_PROYECCIONES/CAP_22/22_1/22_1_2",
+        "PARTE_3_PROYECCIONES/CAP_22/22_1/22_1_3",
+        "PARTE_3_PROYECCIONES/CAP_22/22_2",
+        "PARTE_3_PROYECCIONES/CAP_22/22_2/22_2_1",
+        "PARTE_3_PROYECCIONES/CAP_22/22_2/22_2_2",
+        "PARTE_3_PROYECCIONES/CAP_22/22_2/22_2_3",
+        "PARTE_3_PROYECCIONES/CAP_22/22_3",
+        "PARTE_3_PROYECCIONES/CAP_22/22_3/22_3_1",
+        "PARTE_3_PROYECCIONES/CAP_22/22_3/22_3_2",
+        "PARTE_3_PROYECCIONES/CAP_22/22_3/22_3_3",
+        "PARTE_3_PROYECCIONES/CAP_22/22_3/22_3_4",
+        "PARTE_3_PROYECCIONES/CAP_22/22_4",
+        "PARTE_3_PROYECCIONES/CAP_22/22_4/22_4_1",
+        "PARTE_3_PROYECCIONES/CAP_22/22_4/22_4_2",
+        "PARTE_3_PROYECCIONES/CAP_22/22_4/22_4_3",
+        "PARTE_3_PROYECCIONES/CAP_22/22_4/22_4_4",
+        "PARTE_3_PROYECCIONES/CAP_22/22_5",
+        "PARTE_3_PROYECCIONES/CAP_22/22_5/22_5_1",
+        "PARTE_3_PROYECCIONES/CAP_22/22_5/22_5_2",
+        "PARTE_3_PROYECCIONES/CAP_22/22_5/22_5_3",
+        "PARTE_3_PROYECCIONES/CAP_22/22_6",
+        "PARTE_3_PROYECCIONES/CAP_22/22_6/22_6_1",
+        "PARTE_3_PROYECCIONES/CAP_22/22_6/22_6_2",
+        "PARTE_3_PROYECCIONES/CAP_22/22_6/22_6_3",
+        "PARTE_3_PROYECCIONES/CAP_22/22_7",
+        "PARTE_3_PROYECCIONES/CAP_22/22_7/22_7_1",
+        "PARTE_3_PROYECCIONES/CAP_22/22_7/22_7_2",
+        "PARTE_3_PROYECCIONES/CAP_22/22_7/22_7_3",
+        "PARTE_3_PROYECCIONES/CAP_22/22_8",
+        "PARTE_3_PROYECCIONES/CAP_22/22_8/22_8_1",
+        "PARTE_3_PROYECCIONES/CAP_22/22_8/22_8_2",
+        "PARTE_3_PROYECCIONES/CAP_22/22_8/22_8_3",
+        "PARTE_3_PROYECCIONES/CAP_22/22_8/22_8_4",
+        "PARTE_3_PROYECCIONES/CAP_22/22_8/22_8_5",
+        "PARTE_3_PROYECCIONES/CAP_22/22_8/22_8_6",
+        "PARTE_3_PROYECCIONES/CAP_22/22_8/22_8_7",
+        "PARTE_3_PROYECCIONES/CAP_22/22_8/22_8_8",
+        "PARTE_3_PROYECCIONES/CAP_22/22_8/22_8_9",
+        "PARTE_3_PROYECCIONES/CAP_22/22_8/22_8_10",
+        "PARTE_3_PROYECCIONES/CAP_22/22_8/22_8_11",
+        "PARTE_3_PROYECCIONES/CAP_22/22_9",
+        "PARTE_3_PROYECCIONES/CAP_22/22_10",
+        "PARTE_3_PROYECCIONES/CAP_22/22_11",
+        "PARTE_3_PROYECCIONES/CAP_22/22_12"
+      ],
+      "actions": []
+    }
+  ],
+  "noise": {
+    "PARTE_1_BASE": [
+      "PARTE_1_BASE/0",
+      "PARTE_1_BASE/1",
+      "PARTE_1_BASE/10",
+      "PARTE_1_BASE/11",
+      "PARTE_1_BASE/2",
+      "PARTE_1_BASE/3",
+      "PARTE_1_BASE/4",
+      "PARTE_1_BASE/5",
+      "PARTE_1_BASE/6",
+      "PARTE_1_BASE/7",
+      "PARTE_1_BASE/8",
+      "PARTE_1_BASE/9"
+    ],
+    "PARTE_2_CASOS": [
+      "PARTE_2_CASOS/12"
+    ],
+    "PARTE_3_PROYECCIONES": [
+      "PARTE_3_PROYECCIONES/13",
+      "PARTE_3_PROYECCIONES/14",
+      "PARTE_3_PROYECCIONES/15",
+      "PARTE_3_PROYECCIONES/16",
+      "PARTE_3_PROYECCIONES/17",
+      "PARTE_3_PROYECCIONES/18",
+      "PARTE_3_PROYECCIONES/19",
+      "PARTE_3_PROYECCIONES/20",
+      "PARTE_3_PROYECCIONES/22",
+      "PARTE_3_PROYECCIONES/25",
+      "PARTE_3_PROYECCIONES/26",
+      "PARTE_3_PROYECCIONES/34",
+      "PARTE_3_PROYECCIONES/38",
+      "PARTE_3_PROYECCIONES/40",
+      "PARTE_3_PROYECCIONES/41",
+      "PARTE_3_PROYECCIONES/45",
+      "PARTE_3_PROYECCIONES/49",
+      "PARTE_3_PROYECCIONES/60",
+      "PARTE_3_PROYECCIONES/62",
+      "PARTE_3_PROYECCIONES/68",
+      "PARTE_3_PROYECCIONES/69",
+      "PARTE_3_PROYECCIONES/70",
+      "PARTE_3_PROYECCIONES/71",
+      "PARTE_3_PROYECCIONES/72",
+      "PARTE_3_PROYECCIONES/73",
+      "PARTE_3_PROYECCIONES/74",
+      "PARTE_3_PROYECCIONES/83",
+      "PARTE_3_PROYECCIONES/87",
+      "PARTE_3_PROYECCIONES/90"
+    ]
+  },
+  "summary": {
+    "mode": "plan",
+    "clean_noise": false,
+    "noise_items": 42,
+    "PARTE_1": {
+      "chapters_found": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "chapters_missing_in_text": [],
+      "subheaders_found": 101,
+      "files_written": 112,
+      "dirs_created": 68
+    },
+    "PARTE_2": {
+      "chapters_found": [
+        12
+      ],
+      "chapters_missing_in_text": [],
+      "subheaders_found": 53,
+      "files_written": 54,
+      "dirs_created": 13
+    },
+    "PARTE_3": {
+      "chapters_found": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "chapters_missing_in_text": [],
+      "subheaders_found": 226,
+      "files_written": 236,
+      "dirs_created": 184
+    }
+  }
+}

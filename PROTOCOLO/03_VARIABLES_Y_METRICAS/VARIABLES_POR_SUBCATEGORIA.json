@@ -1,0 +1,426 @@
+{
+  "Cohesión y Resiliencia Social": [
+    "ELS",
+    "IAS",
+    "ICD",
+    "ICIn",
+    "IDS",
+    "IMR",
+    "IRS",
+    "IST",
+    "MAS",
+    "TPC"
+  ],
+  "Insurrección y Conflictividad Tecnosocial": [
+    "IAH",
+    "IAH2",
+    "IAMV",
+    "IAMV2",
+    "ICS",
+    "ICS_T",
+    "IGM2",
+    "TFEI",
+    "TLI"
+  ],
+  "Percepción y Dinámicas Sociales": [
+    "ICEnt",
+    "ICEst",
+    "ICoEn",
+    "IPIns",
+    "ITD"
+  ],
+  "Conflictividad y Movilización Social": [
+    "IDIM",
+    "IMI",
+    "IPA",
+    "IPS",
+    "IRCM",
+    "IRD",
+    "IRTran",
+    "ITS",
+    "Iinf",
+    "Ivctm",
+    "LTSC",
+    "MECP",
+    "TDC",
+    "VDE"
+  ],
+  "Violencia": [
+    "IIECo",
+    "IPVE",
+    "IRV",
+    "IVE",
+    "Itur",
+    "Itur_E",
+    "THI",
+    "TPCO"
+  ],
+  "Crimen y Turbulencia": [
+    "IIECo",
+    "IPVE",
+    "IRV",
+    "IVE",
+    "Itur",
+    "Itur_E",
+    "THI",
+    "TPCO"
+  ],
+  "Movilización y Participación Electoral": [
+    "ICElec",
+    "IFE",
+    "PE",
+    "PVR",
+    "TCElec",
+    "TFC",
+    "TIEest_X",
+    "TMS",
+    "TPC_X",
+    "TRS",
+    "TVD"
+  ],
+  "Hegemonía y Adaptación Cultural": [
+    "IAC",
+    "ID",
+    "IHC",
+    "IHE",
+    "ILT",
+    "IOE",
+    "IPE",
+    "Ifor"
+  ],
+  "Delincuencia y Crimen Organizado": [
+    "IDIde",
+    "IDIde_T",
+    "TCEv",
+    "TDJZ",
+    "TICO"
+  ],
+  "Narrativas y Difusión Cultural": [
+    "IDis",
+    "IFN",
+    "INC",
+    "INCP",
+    "ISCom",
+    "IVN",
+    "TDNT",
+    "TPN"
+  ],
+  "Conflicto Molecular y Radicalización": [
+    "IDM",
+    "IGM1",
+    "IRIde",
+    "IVT",
+    "TADI",
+    "TCEet",
+    "TDId"
+  ],
+  "Eficacia Organizativa y de Campaña": [
+    "IAE",
+    "ICLog",
+    "IEC",
+    "IEOr",
+    "IEP",
+    "ILInt",
+    "ILP",
+    "TEJ",
+    "TEP",
+    "TIEest"
+  ],
+  "Confianza y Desigualdad Socioeconómica": [
+    "ICIP",
+    "ICJS",
+    "ICPe",
+    "IDEst",
+    "IPInj",
+    "IVS",
+    "TCS",
+    "TPEcon"
+  ],
+  "Acción Comunitaria y Resonancia Estratégica": [
+    "IACI",
+    "IACP",
+    "IRT",
+    "ITE"
+  ],
+  "Conflicto e Inteligencia": [
+    "IAAP",
+    "IAAP_X",
+    "IANuc",
+    "ICINC",
+    "IIC",
+    "IIFI",
+    "ITV"
+  ],
+  "Gobernanza y Legitimidad Institucional": [
+    "ICInst",
+    "ICoInst",
+    "IERG",
+    "ILE",
+    "IPAI",
+    "IPIN",
+    "IPSPL",
+    "IRPP",
+    "IS",
+    "ITRG",
+    "IVI"
+  ],
+  "Polarización": [
+    "ICEest",
+    "ICEtn",
+    "ICLI",
+    "IDIA",
+    "IDInf",
+    "IMS",
+    "IPCO",
+    "IPOP",
+    "IREst",
+    "ITP",
+    "TFAA",
+    "TIL"
+  ],
+  "Conflicto y Movilización": [
+    "ICEest",
+    "ICEtn",
+    "ICLI",
+    "IDIA",
+    "IDInf",
+    "IMS",
+    "IPCO",
+    "IPOP",
+    "IREst",
+    "ITP",
+    "TFAA",
+    "TIL"
+  ],
+  "Análisis Estratégico Molecular": [
+    "ANA",
+    "Bext(t)",
+    "CEE(t)",
+    "IGRMD",
+    "IIED",
+    "IPEM",
+    "VDA"
+  ],
+  "Influencia Ideológica y Coherencia": [
+    "IAI",
+    "IAMul",
+    "IAP",
+    "ICIde",
+    "ICQI",
+    "IID",
+    "ILIdeo",
+    "IREnc",
+    "TRI"
+  ],
+  "Percepción y Respaldo Público": [
+    "IAR",
+    "ICMG",
+    "ICPu",
+    "IRJ",
+    "IRM",
+    "IRMF",
+    "IRN",
+    "IRTax",
+    "IReId",
+    "Ivot",
+    "PVU",
+    "SA"
+  ],
+  "Presencia Mediática y Digital": [
+    "ICM",
+    "ICOP",
+    "IIX",
+    "TAS",
+    "TCRE",
+    "TDI",
+    "TDM",
+    "TPInd",
+    "TPM",
+    "TREl",
+    "TVE"
+  ],
+  "Polarización y Reacción Social": [
+    "IPR",
+    "TAC",
+    "TAI",
+    "TMM",
+    "TMS_X",
+    "TPE",
+    "TPIdeo",
+    "TPT",
+    "TRE",
+    "TRM",
+    "TTV"
+  ],
+  "Movilización Social e Insurrección": [
+    "ICI3D",
+    "ICP",
+    "IMHP",
+    "PI",
+    "TAD"
+  ],
+  "Difusión Narrativa y Simbólica": [
+    "CNI",
+    "GFN",
+    "INR",
+    "RS",
+    "TPD"
+  ],
+  "Conectividad y Saturación Geográfica": [
+    "CGS",
+    "DGS",
+    "ICG",
+    "ISatCH"
+  ],
+  "Análisis de Inteligencia y Riesgos": [
+    "FARi",
+    "IPCo",
+    "IPInf",
+    "IRA",
+    "IRP",
+    "Iver",
+    "PdEv",
+    "TRI_X"
+  ],
+  "Sostenibilidad Social y Ética": [
+    "FC",
+    "ICCul",
+    "IEB",
+    "IHS",
+    "IIP",
+    "IRASTRO",
+    "ISCir",
+    "Iana"
+  ],
+  "Capacidades Militares y Poder Nacional": [
+    "CAMO",
+    "IEOp",
+    "IGE",
+    "IRIE",
+    "ITMC",
+    "PNO",
+    "PNS",
+    "PNT"
+  ],
+  "Ciberseguridad y Ciberoperaciones": [
+    "CPBD",
+    "ICCNC",
+    "ICCib",
+    "IDFCG",
+    "IERC",
+    "IIECib",
+    "IPCIB",
+    "TICIB"
+  ],
+  "Influencia y Percepción Social": [
+    "ICPI",
+    "ICPIF",
+    "IIN",
+    "IIP_X",
+    "IMD",
+    "IPL",
+    "ISD"
+  ],
+  "Resiliencia y Vulnerabilidad Estratégica": [
+    "IAIC",
+    "ICMed",
+    "IPS1",
+    "IRL",
+    "IVD",
+    "IVIC"
+  ],
+  "Impactos de Conflictos": [
+    "FNLP",
+    "FVB",
+    "ICO",
+    "IDCE",
+    "IDInf_X",
+    "IIE",
+    "IIP_X_2",
+    "IVC",
+    "TD",
+    "TH"
+  ],
+  "Simbolismo y Autenticidad Estratégica": [
+    "IAC_X",
+    "IAE_X",
+    "ICP_X",
+    "IIEST",
+    "IRSUB",
+    "ISA"
+  ],
+  "Narrativa y Liderazgo Electoral": [
+    "IDTCE",
+    "IIDE",
+    "IIL",
+    "IIRE",
+    "IMNCE",
+    "IPDAE"
+  ],
+  "Impacto del Narcotráfico": [
+    "CEN",
+    "CRICN",
+    "ICN",
+    "ICorN",
+    "IDMD",
+    "IGCMD",
+    "ISalN",
+    "ITecN",
+    "IVicNar",
+    "ZATLD"
+  ],
+  "Cosmosemiótica": [
+    "Bext-Cos(t)",
+    "CEE-Cos(t)",
+    "Ceff",
+    "IAS_X",
+    "ICR",
+    "ICRA",
+    "IDCS",
+    "IDD",
+    "IEOS",
+    "IExap",
+    "IGM-Cos",
+    "IPEM-Cos",
+    "IRDE",
+    "LFE(t)",
+    "LF_inmune",
+    "LF_legal",
+    "Ls",
+    "Mmeta",
+    "PS",
+    "SIE",
+    "VDA-Cos",
+    "η"
+  ],
+  "Marco Ecológico de Referencia": [
+    "ZBG"
+  ],
+  "Ciclos y Teleconexiones": [
+    "EstCicMacClim"
+  ],
+  "Temperatura y Estrés Térmico": [
+    "ANTermic"
+  ],
+  "Lluvia y Déficit/Exceso": [
+    "ANPrecip"
+  ],
+  "Agua y Presión de Uso": [
+    "EstHidric"
+  ],
+  "Extremos Climáticos": [
+    "InEvExtre"
+  ],
+  "Incendios y Combustible": [
+    "RIncFor"
+  ],
+  "Costa y Litoral": [
+    "PrCost"
+  ],
+  "Síntesis Climática": [
+    "InClimCo"
+  ],
+  "Ajuste Transversal": [
+    "MACC"
+  ]
+}

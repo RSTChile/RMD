@@ -1,0 +1,2 @@
+## 22.5 — RÉGIMENES DE DECISIÓN
+
